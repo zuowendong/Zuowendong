@@ -2,7 +2,6 @@
 
 ✨ _I'm zuowendong_ ✨
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Zuowendong&show_icons=true&theme=tokyonight" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zuowendong&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact&theme=tokyonight" />
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
