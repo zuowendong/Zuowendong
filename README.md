@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zuowendong&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+✨ _I'm zuowendong_ ✨
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Zuowendong&show_icons=true&theme=tokyonight" />
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact&theme=tokyonight" />
 
 <!--
 **Zuowendong/Zuowendong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
