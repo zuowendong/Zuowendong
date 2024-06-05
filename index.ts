@@ -1,16 +1,11 @@
 const fs = require("fs");
+const { getTime } = require("./src/time");
+const { dailySentence } = require("./src/dailySentence");
 
-function getTime() {
-  let currentDate = new Date();
-  let day = currentDate.getDate();
-  let month = currentDate.getMonth() + 1;
-  let year = currentDate.getFullYear();
-  let formattedDate = ` ${year} 年 ${month} 月 ${day} 号`;
-  return `今天是${formattedDate}, 也要加油呀！`;
-}
-
-function writeFile() {
-  const content = getTime();
+(async function writeFile() {
+  const { en } = await dailySentence();
+  const sentence = en ? `As the saying goes. ${en}` : "";
+  const content = `Today is ${getTime()}, let's keep going! ${sentence}`;
   const filePath = "./README.md";
   fs.readFile(filePath, "utf8", (err: any, data: string) => {
     if (err) {
@@ -27,6 +22,4 @@ function writeFile() {
       });
     }
   });
-}
-
-writeFile();
+})();

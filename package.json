@@ -11,6 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "@types/node": "^20.12.12",
+    "dayjs": "^1.11.11",
+    "superagent": "^9.0.2",
     "tsx": "^4.10.5",
     "typescript": "^5.4.5"
   }
