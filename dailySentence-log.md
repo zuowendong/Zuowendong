@@ -11,3 +11,5 @@ Remember to bring a little smile every day in this messy life. 记得在这杂�
 When the Cang-lang's waters are clear,I can wash my hat-strings in them. 沧浪之水清兮，可以濯吾缨。
 
 It is worthwhile to travel all over the world. 遍历山河，人间值得。
+
+Image a new story for your life and start living it.  为你的生命想一个全新剧本，并去倾情出演吧！
