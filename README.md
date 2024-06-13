@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is June 12, 2024, let's keep going! As the saying goes. Image a new story for your life and start living it. 
+Today is June 13, 2024, let's keep going! As the saying goes. It's better to burn out than to fade away.
