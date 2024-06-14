@@ -15,3 +15,5 @@ It is worthwhile to travel all over the world. 遍历山河，人间值得。
 Image a new story for your life and start living it.  为你的生命想一个全新剧本，并去倾情出演吧！
 
 It's better to burn out than to fade away. 与其凋零不如燃烧。
+
+No man is rich enough to buy back his own past. 没有人富有到可以赎回自己的过去。
