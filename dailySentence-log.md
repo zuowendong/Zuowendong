@@ -19,3 +19,5 @@ It's better to burn out than to fade away. 与其凋零不如燃烧。
 No man is rich enough to buy back his own past. 没有人富有到可以赎回自己的过去。
 
 Follow your heart, but take your brain with you. 跟随自己的心，但要保持清醒的头脑。
+
+All my love to the dearest father in the world. 将我全部的爱，献给最亲爱的爸爸。
