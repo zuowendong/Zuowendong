@@ -23,3 +23,5 @@ Follow your heart, but take your brain with you. 跟随自己的心，但要保�
 All my love to the dearest father in the world. 将我全部的爱，献给最亲爱的爸爸。
 
 The warmest heart from the best loved ones.  最暖心的温情来自最爱的人。
+
+Friendship is a sheltering tree. 友情犹如大树，为你遮风挡雨。
