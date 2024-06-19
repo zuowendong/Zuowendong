@@ -25,3 +25,5 @@ All my love to the dearest father in the world. 将我全部的爱，献给最�
 The warmest heart from the best loved ones.  最暖心的温情来自最爱的人。
 
 Friendship is a sheltering tree. 友情犹如大树，为你遮风挡雨。
+
+Happiness depends upon ourselves. 幸福与否我们自己说了算。
