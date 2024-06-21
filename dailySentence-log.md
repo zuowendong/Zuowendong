@@ -29,3 +29,5 @@ Friendship is a sheltering tree. 友情犹如大树，为你遮风挡雨。
 Happiness depends upon ourselves. 幸福与否我们自己说了算。
 
 I hope we can all be as brave as each other. 希望我们都能像对方一样勇敢。
+
+Shall I compare you to a summer's day? 我能否将你比作夏天？——莎士比亚
