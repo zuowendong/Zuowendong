@@ -35,3 +35,5 @@ Shall I compare you to a summer's day? 我能否将你比作夏天？——莎�
 There are always people with intentions and romance. 总有人用心，总有人浪漫。
 
 The course of true love never did run smooth. 通向真爱的路从无坦途。——《仲夏夜之梦》
+
+Grasp all, lose all. 贪得无厌，终将一无所获。
