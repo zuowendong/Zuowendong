@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is June 24, 2024, let's keep going! As the saying goes. Grasp all, lose all.
+Today is June 25, 2024, let's keep going! As the saying goes. A little learning is a dangerous thing.
