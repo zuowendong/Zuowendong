@@ -39,3 +39,5 @@ The course of true love never did run smooth. 通向真爱的路从无坦途。�
 Grasp all, lose all. 贪得无厌，终将一无所获。
 
 A little learning is a dangerous thing. 一知半解，危险至极。
+
+Happiness is a journey,not a destination. 幸福是一段旅程，而不是终点。
