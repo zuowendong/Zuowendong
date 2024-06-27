@@ -41,3 +41,5 @@ Grasp all, lose all. 贪得无厌，终将一无所获。
 A little learning is a dangerous thing. 一知半解，危险至极。
 
 Happiness is a journey,not a destination. 幸福是一段旅程，而不是终点。
+
+A loyal friend is a rare treasure. 挚友难寻。

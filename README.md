@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is June 26, 2024, let's keep going! As the saying goes. Happiness is a journey,not a destination.
+Today is June 27, 2024, let's keep going! As the saying goes. A loyal friend is a rare treasure.
