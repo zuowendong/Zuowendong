@@ -43,3 +43,5 @@ A little learning is a dangerous thing. 一知半解，危险至极。
 Happiness is a journey,not a destination. 幸福是一段旅程，而不是终点。
 
 A loyal friend is a rare treasure. 挚友难寻。
+
+Live a good life and meet slowly. 好好生活，慢慢相遇。
