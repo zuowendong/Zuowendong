@@ -45,3 +45,5 @@ Happiness is a journey,not a destination. 幸福是一段旅程，而不是终�
 A loyal friend is a rare treasure. 挚友难寻。
 
 Live a good life and meet slowly. 好好生活，慢慢相遇。
+
+Cross the stars over the moon to meet your better self. 跨过星河迈过月亮去迎接更好的自己。
