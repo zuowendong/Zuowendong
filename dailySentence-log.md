@@ -49,3 +49,5 @@ Live a good life and meet slowly. 好好生活，慢慢相遇。
 Cross the stars over the moon to meet your better self. 跨过星河迈过月亮去迎接更好的自己。
 
 If it happens, it happens. 既来之，则安之。
+
+Whoever saves one life, saves the world entire. 当你挽救了一条生命，就等于挽救了全世界。
