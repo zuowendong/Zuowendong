@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is July 2, 2024, let's keep going! As the saying goes. There's nothing easy about grown-up life.
+Today is July 3, 2024, let's keep going! As the saying goes. You are braver than you believe.— Winnie the Pooh
