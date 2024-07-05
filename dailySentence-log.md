@@ -57,3 +57,5 @@ There's nothing easy about grown-up life. 成年人的生活里没有容易二�
 You are braver than you believe.— Winnie the Pooh 你比你相信的更勇敢。 —《小熊维尼》
 
 There will be generations because of what you did. 因为你的善行，生命才得以传承下去。
+
+Life is the flower for which love is the honey. 生命如花，爱情是蜜。
