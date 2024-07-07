@@ -61,3 +61,5 @@ There will be generations because of what you did. 因为你的善行，生命�
 Life is the flower for which love is the honey. 生命如花，爱情是蜜。
 
 Every man is a poet when he is in love. 每个恋爱中的人都是诗人。
+
+A boy's best friend is his mother. 男孩最好的朋友是他的母亲。
