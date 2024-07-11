@@ -69,3 +69,5 @@ To laugh at yourself is to love yourself. 学会自嘲也是爱自己的一种�
 The only limit is your soul.— Ratatouille 唯一的限制就是你的灵魂。 —《料理鼠王》
 
 The very things that hold you down are going to lift you up. — Dumbo 让你跌到谷底的事情，往往也是你重新站起的原因。 —《小飞象》
+
+Who says my dreams have to stay dreams? — The Little Mermaid 谁说梦想只能是梦想呢？ —小美人鱼
