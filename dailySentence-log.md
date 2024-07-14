@@ -75,3 +75,5 @@ Who says my dreams have to stay dreams? — The Little Mermaid 谁说梦想只�
 Talent without working hard is nothing. 没有努力，天份不代表什么。
 
 May the Force be with you. 愿原力与你同在。——《星球大战》
+
+You can't handle the truth! 你不能操纵事实!——《义海雄风》
