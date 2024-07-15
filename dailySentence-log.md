@@ -77,3 +77,5 @@ Talent without working hard is nothing. 没有努力，天份不代表什么。
 May the Force be with you. 愿原力与你同在。——《星球大战》
 
 You can't handle the truth! 你不能操纵事实!——《义海雄风》
+
+As God is my witness，I'll never be hungry again. 上帝为我作证，我不会再让自己挨饿了。——《乱世佳人》
