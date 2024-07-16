@@ -79,3 +79,5 @@ May the Force be with you. 愿原力与你同在。——《星球大战》
 You can't handle the truth! 你不能操纵事实!——《义海雄风》
 
 As God is my witness，I'll never be hungry again. 上帝为我作证，我不会再让自己挨饿了。——《乱世佳人》
+
+I have always depended on the kindness of strangers. 我总是非常依赖陌生人的仁慈。——《欲望号街车》
