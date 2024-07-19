@@ -83,3 +83,5 @@ As God is my witness，I'll never be hungry again. 上帝为我作证，我不�
 I have always depended on the kindness of strangers. 我总是非常依赖陌生人的仁慈。——《欲望号街车》
 
 Just keep swimming. 一直向前游。—《海底总动员》
+
+Time and tide wait for no man.  时光如逝水，岁月不待人。
