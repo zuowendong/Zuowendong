@@ -85,3 +85,5 @@ I have always depended on the kindness of strangers. 我总是非常依赖陌生
 Just keep swimming. 一直向前游。—《海底总动员》
 
 Time and tide wait for no man.  时光如逝水，岁月不待人。
+
+Mama says, 'Stupid is as stupid does.'-Forrest Gump, 1994 妈妈说，‘做傻事的才是傻瓜。'——《阿甘正传，1994》
