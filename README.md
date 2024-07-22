@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is July 21, 2024, let's keep going! As the saying goes. I laugh in the face of danger.
+Today is July 22, 2024, let's keep going! As the saying goes. It made me look like a duck in water.
