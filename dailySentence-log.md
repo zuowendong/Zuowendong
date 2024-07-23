@@ -91,3 +91,5 @@ Mama says, 'Stupid is as stupid does.'-Forrest Gump, 1994 妈妈说，‘做傻�
 I laugh in the face of danger. 越危险就越合我心意。
 
 It made me look like a duck in water. 它让我如鱼得水。
+
+You just couldn't see an end to that city. 这个城市似乎没有尽头。
