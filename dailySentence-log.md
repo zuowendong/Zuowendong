@@ -105,3 +105,5 @@ I feel the need — the need for speed! 我感觉到一种需要——速度的�
 It's my best friend. Always happy. No questions. 它是我最好的朋友，总是很快乐，从不问问题。
 
 Being yourself is an honor, because nobody else can be you. 做自己是一种荣耀，因为没有任何人能成为你。
+
+I can look at the menu. Doesn't mean I'm gonna eat. 我看着菜单，并不代表我想吃! ——《越狱》

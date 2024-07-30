@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is July 29, 2024, let's keep going! As the saying goes. Being yourself is an honor, because nobody else can be you.
+Today is July 30, 2024, let's keep going! As the saying goes. I can look at the menu. Doesn't mean I'm gonna eat.
