@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is July 31, 2024, let's keep going! As the saying goes. Life is short and you deserve to be happy.
+Today is August 1, 2024, let's keep going! As the saying goes. The journey of a thousand miles begins with one step. — Lao Tzu
