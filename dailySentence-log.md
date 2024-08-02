@@ -111,3 +111,5 @@ I can look at the menu. Doesn't mean I'm gonna eat. 我看着菜单，并不代�
 Life is short and you deserve to be happy. 生命短暂，你应该享受快乐 。
 
 The journey of a thousand miles begins with one step. — Lao Tzu 千里之行，始于足下。 — 老子
+
+You had me at hello; it was love at first sight. — Friends 你一开口我就沦陷了；那是爱情的初见。—《老友记》
