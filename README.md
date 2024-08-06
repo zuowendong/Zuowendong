@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is August 5, 2024, let's keep going! As the saying goes. Why so serious? Let's put a smile on.— The Dark Knight 
+Today is August 6, 2024, let's keep going! As the saying goes. Love for all, hatred for none. — Khalifatul Masih III
