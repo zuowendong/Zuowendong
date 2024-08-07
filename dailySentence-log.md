@@ -121,3 +121,5 @@ A goal without a plan is just a wish. — Antoine de Saint-Exupéry 没有计划
 Why so serious? Let's put a smile on.— The Dark Knight  为什么这么严肃？让我们笑起来。 —《黑暗骑士》
 
 Love for all, hatred for none. — Khalifatul Masih III 爱众人，不恨人。 — 第三任哈里发
+
+Autumn is a second spring when every leaf is a flower. — Albert Camus 秋天是第二个春天，每一片叶子都是一朵花。— 阿尔贝·加缪

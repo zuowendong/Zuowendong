@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is August 6, 2024, let's keep going! As the saying goes. Love for all, hatred for none. — Khalifatul Masih III
+Today is August 7, 2024, let's keep going! As the saying goes. Autumn is a second spring when every leaf is a flower. — Albert Camus
