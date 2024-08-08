@@ -123,3 +123,5 @@ Why so serious? Let's put a smile on.— The Dark Knight  为什么这么严肃�
 Love for all, hatred for none. — Khalifatul Masih III 爱众人，不恨人。 — 第三任哈里发
 
 Autumn is a second spring when every leaf is a flower. — Albert Camus 秋天是第二个春天，每一片叶子都是一朵花。— 阿尔贝·加缪
+
+In the end, we only regret the chances we didn't take. — Lewis Carroll 最终，我们只会后悔没有抓住的机会。 — 刘易斯·卡罗尔
