@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is August 8, 2024, let's keep going! As the saying goes. In the end, we only regret the chances we didn't take. — Lewis Carroll
+Today is August 9, 2024, let's keep going! As the saying goes. Everything has beauty, but not everyone sees it. — Confucius
