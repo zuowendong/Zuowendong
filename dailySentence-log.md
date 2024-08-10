@@ -127,3 +127,5 @@ Autumn is a second spring when every leaf is a flower. — Albert Camus 秋天�
 In the end, we only regret the chances we didn't take. — Lewis Carroll 最终，我们只会后悔没有抓住的机会。 — 刘易斯·卡罗尔
 
 Everything has beauty, but not everyone sees it. — Confucius 万物皆有美，只是并非所有人都能看到。 — 孔子
+
+ Love is the only reality.— James M. Barrie, Peter Pan 爱是唯一的现实。— 詹姆斯·马修·巴里，《彼得潘》
