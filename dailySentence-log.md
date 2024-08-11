@@ -129,3 +129,5 @@ In the end, we only regret the chances we didn't take. — Lewis Carroll 最终�
 Everything has beauty, but not everyone sees it. — Confucius 万物皆有美，只是并非所有人都能看到。 — 孔子
 
  Love is the only reality.— James M. Barrie, Peter Pan 爱是唯一的现实。— 詹姆斯·马修·巴里，《彼得潘》
+
+ Do what you can, with what you have, where you are. — Theodore Roosevelt 尽力而为，随遇而安。 — 西奥多·罗斯福
