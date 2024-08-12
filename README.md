@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is August 11, 2024, let's keep going! As the saying goes.  Do what you can, with what you have, where you are. — Theodore Roosevelt
+Today is August 12, 2024, let's keep going! As the saying goes. You have to be a little crazy to stay sane.— Friends

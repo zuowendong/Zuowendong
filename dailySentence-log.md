@@ -131,3 +131,5 @@ Everything has beauty, but not everyone sees it. — Confucius 万物皆有美�
  Love is the only reality.— James M. Barrie, Peter Pan 爱是唯一的现实。— 詹姆斯·马修·巴里，《彼得潘》
 
  Do what you can, with what you have, where you are. — Theodore Roosevelt 尽力而为，随遇而安。 — 西奥多·罗斯福
+
+You have to be a little crazy to stay sane.— Friends 你必须稍微疯狂一点才能保持理智。 —《老友记》
