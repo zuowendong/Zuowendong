@@ -133,3 +133,5 @@ Everything has beauty, but not everyone sees it. — Confucius 万物皆有美�
  Do what you can, with what you have, where you are. — Theodore Roosevelt 尽力而为，随遇而安。 — 西奥多·罗斯福
 
 You have to be a little crazy to stay sane.— Friends 你必须稍微疯狂一点才能保持理智。 —《老友记》
+
+I think this is the beginning of a beautiful friendship.— Casablanca 我认为这是美好友谊的开始。 —《卡萨布兰卡》
