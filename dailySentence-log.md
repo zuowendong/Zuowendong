@@ -135,3 +135,5 @@ Everything has beauty, but not everyone sees it. — Confucius 万物皆有美�
 You have to be a little crazy to stay sane.— Friends 你必须稍微疯狂一点才能保持理智。 —《老友记》
 
 I think this is the beginning of a beautiful friendship.— Casablanca 我认为这是美好友谊的开始。 —《卡萨布兰卡》
+
+Success is not the key to happiness. Happiness is the key to success. — Albert Schweitzer 成功不是幸福的钥匙。幸福是成功的钥匙。 — 阿尔伯特·施韦泽

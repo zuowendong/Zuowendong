@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is August 13, 2024, let's keep going! As the saying goes. I think this is the beginning of a beautiful friendship.— Casablanca
+Today is August 14, 2024, let's keep going! As the saying goes. Success is not the key to happiness. Happiness is the key to success. — Albert Schweitzer
