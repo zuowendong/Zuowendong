@@ -137,3 +137,5 @@ You have to be a little crazy to stay sane.— Friends 你必须稍微疯狂一�
 I think this is the beginning of a beautiful friendship.— Casablanca 我认为这是美好友谊的开始。 —《卡萨布兰卡》
 
 Success is not the key to happiness. Happiness is the key to success. — Albert Schweitzer 成功不是幸福的钥匙。幸福是成功的钥匙。 — 阿尔伯特·施韦泽
+
+Love is passion, obsession, someone you can't live without.— Meet Joe Black 爱是激情，痴迷，是你无法离开的人。—《遇见乔·布莱克》
