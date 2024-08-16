@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is August 15, 2024, let's keep going! As the saying goes. Love is passion, obsession, someone you can't live without.— Meet Joe Black
+Today is August 16, 2024, let's keep going! As the saying goes. To love and be loved is to feel the sun from both sides. — David Viscott
