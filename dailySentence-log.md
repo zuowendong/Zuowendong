@@ -141,3 +141,5 @@ Success is not the key to happiness. Happiness is the key to success. — Albert
 Love is passion, obsession, someone you can't live without.— Meet Joe Black 爱是激情，痴迷，是你无法离开的人。—《遇见乔·布莱克》
 
 To love and be loved is to feel the sun from both sides. — David Viscott 爱与被爱是感受到两边的阳光。 — 大卫·维斯科特
+
+They call it a Royale with cheese.— Pulp Fiction  他们称之为奶酪皇堡。—《低俗小说》
