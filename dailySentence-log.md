@@ -145,3 +145,5 @@ To love and be loved is to feel the sun from both sides. — David Viscott 爱�
 They call it a Royale with cheese.— Pulp Fiction  他们称之为奶酪皇堡。—《低俗小说》
 
 Change the world by being yourself. — Amy Poehler 做自己，改变世界。 — 艾米·波勒
+
+Difficult roads often lead to beautiful destinations. 艰难的道路常常通向美丽的目的地。
