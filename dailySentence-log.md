@@ -147,3 +147,5 @@ They call it a Royale with cheese.— Pulp Fiction  他们称之为奶酪皇堡�
 Change the world by being yourself. — Amy Poehler 做自己，改变世界。 — 艾米·波勒
 
 Difficult roads often lead to beautiful destinations. 艰难的道路常常通向美丽的目的地。
+
+The best revenge is massive success. — Frank Sinatra 最好的报复是巨大的成功。 — 弗兰克·辛纳特拉
