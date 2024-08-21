@@ -149,3 +149,5 @@ Change the world by being yourself. — Amy Poehler 做自己，改变世界。 
 Difficult roads often lead to beautiful destinations. 艰难的道路常常通向美丽的目的地。
 
 The best revenge is massive success. — Frank Sinatra 最好的报复是巨大的成功。 — 弗兰克·辛纳特拉
+
+You complete me, and I will always cherish that.— Jerry Maguire 你使我完整，我将永远珍惜。 —《甜心先生》
