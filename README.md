@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is August 22, 2024, let's keep going! As the saying goes. You're the only one who can save us now. — The 100 
+Today is August 23, 2024, let's keep going! As the saying goes. I am the one who knocks, not you.— Breaking Bad 

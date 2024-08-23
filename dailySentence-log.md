@@ -153,3 +153,5 @@ The best revenge is massive success. — Frank Sinatra 最好的报复是巨大�
 You complete me, and I will always cherish that.— Jerry Maguire 你使我完整，我将永远珍惜。 —《甜心先生》
 
 You're the only one who can save us now. — The 100  你是唯一能拯救我们的人。 —《100%生存》
+
+I am the one who knocks, not you.— Breaking Bad  我才是那个敲门的人，不是你。 —《绝命毒师》
