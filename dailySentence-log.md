@@ -155,3 +155,5 @@ You complete me, and I will always cherish that.— Jerry Maguire 你使我完�
 You're the only one who can save us now. — The 100  你是唯一能拯救我们的人。 —《100%生存》
 
 I am the one who knocks, not you.— Breaking Bad  我才是那个敲门的人，不是你。 —《绝命毒师》
+
+Winter is coming, and we must be prepared.— Game of Thrones 寒冬将至，我们必须做好准备。—《权力的游戏》
