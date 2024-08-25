@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is August 24, 2024, let's keep going! As the saying goes. Winter is coming, and we must be prepared.— Game of Thrones
+Today is August 25, 2024, let's keep going! As the saying goes. I want to believe in something greater than myself.— The X-Files
