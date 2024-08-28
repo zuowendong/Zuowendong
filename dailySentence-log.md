@@ -163,3 +163,5 @@ I want to believe in something greater than myself.— The X-Files 我想相信�
 This is the way we must follow, no turning back. — The Mandalorian 这就是我们必须遵循的道路，不可回头。—《曼达洛人》
 
 Success usually comes to those who are too busy to be looking for it. — Henry David Thoreau 成功通常降临在那些忙得没时间找它的人身上。 — 亨利·戴维·梭罗
+
+Don't wait. The time will never be just right. — Napoleon Hill 不要等待。时机永远不会完全合适。 — 拿破仑·希尔
