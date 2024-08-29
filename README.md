@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is August 28, 2024, let's keep going! As the saying goes. Don't wait. The time will never be just right. — Napoleon Hill
+Today is August 29, 2024, let's keep going! As the saying goes. You only live once, but if you do it right, once is enough. — Mae West

@@ -165,3 +165,5 @@ This is the way we must follow, no turning back. — The Mandalorian 这就是�
 Success usually comes to those who are too busy to be looking for it. — Henry David Thoreau 成功通常降临在那些忙得没时间找它的人身上。 — 亨利·戴维·梭罗
 
 Don't wait. The time will never be just right. — Napoleon Hill 不要等待。时机永远不会完全合适。 — 拿破仑·希尔
+
+You only live once, but if you do it right, once is enough. — Mae West 你只活一次，但如果你做得好，一次足够。 — 梅·韦斯特
