@@ -169,3 +169,5 @@ Don't wait. The time will never be just right. — Napoleon Hill 不要等待。
 You only live once, but if you do it right, once is enough. — Mae West 你只活一次，但如果你做得好，一次足够。 — 梅·韦斯特
 
 The only limit to our realization of tomorrow is our doubts today. — The West Wing 对明天实现的唯一限制是我们今天的怀疑。 —《白宫风云》
+
+Turn your wounds into wisdom. — Oprah Winfrey 把伤口变成智慧。 — 奥普拉·温弗瑞
