@@ -171,3 +171,5 @@ You only live once, but if you do it right, once is enough. — Mae West 你只�
 The only limit to our realization of tomorrow is our doubts today. — The West Wing 对明天实现的唯一限制是我们今天的怀疑。 —《白宫风云》
 
 Turn your wounds into wisdom. — Oprah Winfrey 把伤口变成智慧。 — 奥普拉·温弗瑞
+
+ Do not dwell in the past, do not dream of the future. 不要沉湎于过去，不要幻想未来。
