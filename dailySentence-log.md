@@ -173,3 +173,5 @@ The only limit to our realization of tomorrow is our doubts today. — The West 
 Turn your wounds into wisdom. — Oprah Winfrey 把伤口变成智慧。 — 奥普拉·温弗瑞
 
  Do not dwell in the past, do not dream of the future. 不要沉湎于过去，不要幻想未来。
+
+All we have is now. 我们拥有的只有现在。
