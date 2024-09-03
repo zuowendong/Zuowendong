@@ -175,3 +175,5 @@ Turn your wounds into wisdom. — Oprah Winfrey 把伤口变成智慧。 — 奥
  Do not dwell in the past, do not dream of the future. 不要沉湎于过去，不要幻想未来。
 
 All we have is now. 我们拥有的只有现在。
+
+In the end, we will remember not the words of our enemies, but the silence of our friends. 最终，我们记住的不是敌人的话语，而是朋友的沉默。
