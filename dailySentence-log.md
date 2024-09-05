@@ -179,3 +179,5 @@ All we have is now. 我们拥有的只有现在。
 In the end, we will remember not the words of our enemies, but the silence of our friends. 最终，我们记住的不是敌人的话语，而是朋友的沉默。
 
 Good artists copy, great artists steal. 好艺术家复制，伟大艺术家偷窃。
+
+Injustice anywhere is a threat to justice everywhere. 任何地方的不公正都是对所有地方公正的威胁。
