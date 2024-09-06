@@ -181,3 +181,5 @@ In the end, we will remember not the words of our enemies, but the silence of ou
 Good artists copy, great artists steal. 好艺术家复制，伟大艺术家偷窃。
 
 Injustice anywhere is a threat to justice everywhere. 任何地方的不公正都是对所有地方公正的威胁。
+
+Life is a beautiful struggle. 生活是一场美丽的挣扎。
