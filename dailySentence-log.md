@@ -183,3 +183,5 @@ Good artists copy, great artists steal. 好艺术家复制，伟大艺术家偷�
 Injustice anywhere is a threat to justice everywhere. 任何地方的不公正都是对所有地方公正的威胁。
 
 Life is a beautiful struggle. 生活是一场美丽的挣扎。
+
+Success is not how high you have climbed, but how you make a positive difference. 成功不是你攀登的高度，而是你做出的积极差异。
