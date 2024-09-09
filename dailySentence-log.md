@@ -187,3 +187,5 @@ Life is a beautiful struggle. 生活是一场美丽的挣扎。
 Success is not how high you have climbed, but how you make a positive difference. 成功不是你攀登的高度，而是你做出的积极差异。
 
 Happiness is a warm gun. 幸福是一把温暖的枪。
+
+The night is dark and full of terrors. 黑夜幽暗，充满恐惧。
