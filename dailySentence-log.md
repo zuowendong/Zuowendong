@@ -189,3 +189,5 @@ Success is not how high you have climbed, but how you make a positive difference
 Happiness is a warm gun. 幸福是一把温暖的枪。
 
 The night is dark and full of terrors. 黑夜幽暗，充满恐惧。
+
+Teaching is the one profession that creates all other professions. 教育是一切职业之母。
