@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is September 10, 2024, let's keep going! As the saying goes. Teaching is the one profession that creates all other professions.
+Today is September 11, 2024, let's keep going! As the saying goes. Fasten your seatbelts, it's going to be a bumpy night.
