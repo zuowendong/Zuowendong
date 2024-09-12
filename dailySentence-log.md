@@ -193,3 +193,5 @@ The night is dark and full of terrors. 黑夜幽暗，充满恐惧。
 Teaching is the one profession that creates all other professions. 教育是一切职业之母。
 
 Fasten your seatbelts, it's going to be a bumpy night. 系好安全带，这将是一个颠簸的夜晚。
+
+Fall seven times and stand up eight. 跌倒七次，站起来八次。
