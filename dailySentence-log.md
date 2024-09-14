@@ -197,3 +197,5 @@ Fasten your seatbelts, it's going to be a bumpy night. 系好安全带，这将�
 Fall seven times and stand up eight. 跌倒七次，站起来八次。
 
 I could have been a contender. 我本可以成为强者。
+
+What lies behind us and what lies before us are tiny matters. 我们背后和面前的事情都是小事。

@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is September 13, 2024, let's keep going! As the saying goes. I could have been a contender.
+Today is September 14, 2024, let's keep going! As the saying goes. What lies behind us and what lies before us are tiny matters.
