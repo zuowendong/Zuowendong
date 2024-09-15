@@ -199,3 +199,5 @@ Fall seven times and stand up eight. 跌倒七次，站起来八次。
 I could have been a contender. 我本可以成为强者。
 
 What lies behind us and what lies before us are tiny matters. 我们背后和面前的事情都是小事。
+
+ I'm not a smart man, but I know what love is. 我不是个聪明人，但我知道什么是爱。
