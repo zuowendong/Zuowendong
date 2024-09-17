@@ -203,3 +203,5 @@ What lies behind us and what lies before us are tiny matters. 我们背后和面
  I'm not a smart man, but I know what love is. 我不是个聪明人，但我知道什么是爱。
 
 The stuff that dreams are made of. 梦想的原料。
+
+The moon is a friend for the lonesome to talk to. 月亮是孤独者的朋友，愿倾听他们的心声。

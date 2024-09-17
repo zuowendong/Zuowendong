@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is September 16, 2024, let's keep going! As the saying goes. The stuff that dreams are made of.
+Today is September 17, 2024, let's keep going! As the saying goes. The moon is a friend for the lonesome to talk to.
