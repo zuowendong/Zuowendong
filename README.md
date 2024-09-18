@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is September 17, 2024, let's keep going! As the saying goes. The moon is a friend for the lonesome to talk to.
+Today is September 18, 2024, let's keep going! As the saying goes. I can accept failure, everyone fails at something.
