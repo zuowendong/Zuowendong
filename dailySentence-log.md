@@ -207,3 +207,5 @@ The stuff that dreams are made of. 梦想的原料。
 The moon is a friend for the lonesome to talk to. 月亮是孤独者的朋友，愿倾听他们的心声。
 
 I can accept failure, everyone fails at something. 我可以接受失败，每个人都会在某些事情上失败。
+
+Life is what happens when you're busy making other plans. 生活是在你忙着制定其他计划时发生的。
