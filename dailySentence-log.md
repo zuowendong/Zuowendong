@@ -209,3 +209,5 @@ The moon is a friend for the lonesome to talk to. 月亮是孤独者的朋友，
 I can accept failure, everyone fails at something. 我可以接受失败，每个人都会在某些事情上失败。
 
 Life is what happens when you're busy making other plans. 生活是在你忙着制定其他计划时发生的。
+
+Not all those who wander are lost. 不是所有徘徊的人都迷失了。
