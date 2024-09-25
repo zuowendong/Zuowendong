@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is September 24, 2024, let's keep going! As the saying goes. I'm just one stomach flu away from my goal weight.
+Today is September 25, 2024, let's keep going! As the saying goes. All the world's a stage, and all the men and women merely players.

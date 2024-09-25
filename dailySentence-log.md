@@ -219,3 +219,5 @@ All animals are equal, but some are more equal. 所有动物生而平等，但�
 I will not be silent. 我不会保持沉默。
 
 I'm just one stomach flu away from my goal weight. 我只需得一次肠胃炎就能达到目标体重。—《穿普拉达的女王》
+
+All the world's a stage, and all the men and women merely players. 世界是个大舞台，男人女人皆为演员。
