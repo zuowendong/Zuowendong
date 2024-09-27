@@ -223,3 +223,5 @@ I'm just one stomach flu away from my goal weight. 我只需得一次肠胃炎�
 All the world's a stage, and all the men and women merely players. 世界是个大舞台，男人女人皆为演员。
 
 Keep calm and carry on. 保持冷静，继续前行。
+
+There's no crying in baseball! 棒球里不许哭泣！
