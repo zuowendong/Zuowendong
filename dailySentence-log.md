@@ -225,3 +225,5 @@ All the world's a stage, and all the men and women merely players. 世界是个�
 Keep calm and carry on. 保持冷静，继续前行。
 
 There's no crying in baseball! 棒球里不许哭泣！
+
+Failure is simply the opportunity to begin again, this time more intelligently. 失败只是重新开始的机会，这次更加聪明。
