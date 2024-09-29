@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is September 28, 2024, let's keep going! As the saying goes. Failure is simply the opportunity to begin again, this time more intelligently.
+Today is September 29, 2024, let's keep going! As the saying goes. It's kind of a funny story.
