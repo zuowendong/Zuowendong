@@ -231,3 +231,5 @@ Failure is simply the opportunity to begin again, this time more intelligently. 
 It's kind of a funny story. 这有点像个有趣的故事。
 
 The only real mistake is the one from which we learn nothing. 唯一真正的错误是我们没有从中学到任何东西。
+
+We are all part of one great nation. 我们都是伟大国家的一部分。
