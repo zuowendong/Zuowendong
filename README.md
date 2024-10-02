@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is October 1, 2024, let's keep going! As the saying goes. We are all part of one great nation.
+Today is October 2, 2024, let's keep going! As the saying goes. The autumn leaves remind us of the beauty of aging.
