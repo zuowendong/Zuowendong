@@ -235,3 +235,5 @@ The only real mistake is the one from which we learn nothing. 唯一真正的错
 We are all part of one great nation. 我们都是伟大国家的一部分。
 
 The autumn leaves remind us of the beauty of aging. 秋叶提醒我们衰老的美丽。
+
+Act as if what you do makes a difference. It does. 行动吧，就好像你的所作所为会带来改变。确实如此。
