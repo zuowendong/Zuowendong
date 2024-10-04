@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is October 3, 2024, let's keep going! As the saying goes. Act as if what you do makes a difference. It does.
+Today is October 4, 2024, let's keep going! As the saying goes. Don't watch the clock; do what it does. Keep going.
