@@ -241,3 +241,5 @@ Act as if what you do makes a difference. It does. 行动吧，就好像你的�
 Don't watch the clock; do what it does. Keep going. 不要看时间，做自己该做的事。继续前进。
 
 Success is how high you bounce when you hit bottom. 成功是你跌到谷底时反弹的高度。
+
+The best way to predict the future is to invent it. 预测未来的最好方法是去创造它。
