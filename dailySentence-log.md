@@ -245,3 +245,5 @@ Success is how high you bounce when you hit bottom. 成功是你跌到谷底时�
 The best way to predict the future is to invent it. 预测未来的最好方法是去创造它。
 
 Do one thing every day that scares you. 每天做一件让你害怕的事。
+
+The only source of knowledge is experience. 知识的唯一来源是经验。
