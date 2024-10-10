@@ -249,3 +249,5 @@ Do one thing every day that scares you. 每天做一件让你害怕的事。
 The only source of knowledge is experience. 知识的唯一来源是经验。
 
 What we think, we become. 我们想什么，就成为什么。
+
+Happiness is not something ready-made. It comes from your own actions. 幸福不是现成的东西，它来自你自己的行动。
