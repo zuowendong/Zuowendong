@@ -253,3 +253,5 @@ What we think, we become. 我们想什么，就成为什么。
 Happiness is not something ready-made. It comes from your own actions. 幸福不是现成的东西，它来自你自己的行动。
 
 Cherish the moments with family, for they are fleeting. 珍惜与家人在一起的时光，因为它们稍纵即逝。
+
+Freedom is never given; it is won. 自由从未被赋予；它是赢得的。
