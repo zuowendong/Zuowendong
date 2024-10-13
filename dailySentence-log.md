@@ -255,3 +255,5 @@ Happiness is not something ready-made. It comes from your own actions. 幸福不
 Cherish the moments with family, for they are fleeting. 珍惜与家人在一起的时光，因为它们稍纵即逝。
 
 Freedom is never given; it is won. 自由从未被赋予；它是赢得的。
+
+The only way to have a friend is to be one. 拥有朋友的唯一方式就是成为朋友。
