@@ -257,3 +257,5 @@ Cherish the moments with family, for they are fleeting. 珍惜与家人在一起
 Freedom is never given; it is won. 自由从未被赋予；它是赢得的。
 
 The only way to have a friend is to be one. 拥有朋友的唯一方式就是成为朋友。
+
+Every moment is a fresh beginning. 每一刻都是新的开始。
