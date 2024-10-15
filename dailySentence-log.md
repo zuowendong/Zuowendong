@@ -259,3 +259,5 @@ Freedom is never given; it is won. 自由从未被赋予；它是赢得的。
 The only way to have a friend is to be one. 拥有朋友的唯一方式就是成为朋友。
 
 Every moment is a fresh beginning. 每一刻都是新的开始。
+
+If you want to live a happy life, tie it to a goal. 如果你想过上幸福的生活，把它与目标联系起来。
