@@ -261,3 +261,5 @@ The only way to have a friend is to be one. 拥有朋友的唯一方式就是成
 Every moment is a fresh beginning. 每一刻都是新的开始。
 
 If you want to live a happy life, tie it to a goal. 如果你想过上幸福的生活，把它与目标联系起来。
+
+We are what we repeatedly do. 我们就是我们反复做的事情。
