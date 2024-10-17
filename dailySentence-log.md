@@ -263,3 +263,5 @@ Every moment is a fresh beginning. 每一刻都是新的开始。
 If you want to live a happy life, tie it to a goal. 如果你想过上幸福的生活，把它与目标联系起来。
 
 We are what we repeatedly do. 我们就是我们反复做的事情。
+
+The only impossible journey is the one you never begin. 唯一不可能的旅程是你从未开始的旅程。
