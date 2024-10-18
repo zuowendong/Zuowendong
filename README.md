@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is October 17, 2024, let's keep going! As the saying goes. The only impossible journey is the one you never begin.
+Today is October 18, 2024, let's keep going! As the saying goes. A person who never made a mistake never tried anything new.
