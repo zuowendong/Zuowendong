@@ -267,3 +267,5 @@ We are what we repeatedly do. 我们就是我们反复做的事情。
 The only impossible journey is the one you never begin. 唯一不可能的旅程是你从未开始的旅程。
 
 A person who never made a mistake never tried anything new. 从未犯错的人从未尝试过任何新事物。
+
+In every hardship lies opportunity. 每个困难中都蕴藏着机会。
