@@ -269,3 +269,5 @@ The only impossible journey is the one you never begin. 唯一不可能的旅程
 A person who never made a mistake never tried anything new. 从未犯错的人从未尝试过任何新事物。
 
 In every hardship lies opportunity. 每个困难中都蕴藏着机会。
+
+Success is the sum of small efforts, repeated day in and day out. 成功是日复一日重复的微小努力的总和。
