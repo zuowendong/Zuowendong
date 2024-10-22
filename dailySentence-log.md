@@ -273,3 +273,5 @@ In every hardship lies opportunity. 每个困难中都蕴藏着机会。
 Success is the sum of small efforts, repeated day in and day out. 成功是日复一日重复的微小努力的总和。
 
 Life is either a daring adventure or nothing at all. 生活要么是一场大胆的冒险，要么毫无意义。
+
+Success is not in what you have, but who you are. 成功不在于你拥有什么，而在于你是谁。
