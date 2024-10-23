@@ -275,3 +275,5 @@ Success is the sum of small efforts, repeated day in and day out. 成功是日�
 Life is either a daring adventure or nothing at all. 生活要么是一场大胆的冒险，要么毫无意义。
 
 Success is not in what you have, but who you are. 成功不在于你拥有什么，而在于你是谁。
+
+If you can dream it, you can do it. 只要有梦想，就一定能实现。
