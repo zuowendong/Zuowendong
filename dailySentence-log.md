@@ -279,3 +279,5 @@ Success is not in what you have, but who you are. 成功不在于你拥有什么
 If you can dream it, you can do it. 只要有梦想，就一定能实现。
 
 Life is short, and it is here to be lived. 生命是短暂的，是用来生活的。
+
+The mind is everything. 思想决定一切。
