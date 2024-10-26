@@ -281,3 +281,5 @@ If you can dream it, you can do it. 只要有梦想，就一定能实现。
 Life is short, and it is here to be lived. 生命是短暂的，是用来生活的。
 
 The mind is everything. 思想决定一切。
+
+Use the losses and failures of the past as a reason for action, not inaction. 过去的损失和失败经验，应是你采取行动，而非不采取行动的理由。
