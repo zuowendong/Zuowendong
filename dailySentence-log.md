@@ -285,3 +285,5 @@ The mind is everything. 思想决定一切。
 Use the losses and failures of the past as a reason for action, not inaction. 过去的损失和失败经验，应是你采取行动，而非不采取行动的理由。
 
 Idealism increases in direct proportion to one’s distance from the problem. 一个人离问题愈远就愈理想主义。
+
+Don't count the days, make the days count. 不要数日子，让日子有意义。
