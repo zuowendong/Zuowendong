@@ -287,3 +287,5 @@ Use the losses and failures of the past as a reason for action, not inaction. �
 Idealism increases in direct proportion to one’s distance from the problem. 一个人离问题愈远就愈理想主义。
 
 Don't count the days, make the days count. 不要数日子，让日子有意义。
+
+If life were predictable, it would cease to be life. 如果生活是可预测的，它就不再是生活。

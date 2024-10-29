@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is October 28, 2024, let's keep going! As the saying goes. Don't count the days, make the days count.
+Today is October 29, 2024, let's keep going! As the saying goes. If life were predictable, it would cease to be life.
