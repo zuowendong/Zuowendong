@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is October 29, 2024, let's keep going! As the saying goes. If life were predictable, it would cease to be life.
+Today is October 30, 2024, let's keep going! As the saying goes. The only true wisdom is in knowing you know nothing.

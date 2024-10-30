@@ -289,3 +289,5 @@ Idealism increases in direct proportion to one’s distance from the problem. �
 Don't count the days, make the days count. 不要数日子，让日子有意义。
 
 If life were predictable, it would cease to be life. 如果生活是可预测的，它就不再是生活。
+
+The only true wisdom is in knowing you know nothing. 唯一真正的智慧在于知道你一无所知。
