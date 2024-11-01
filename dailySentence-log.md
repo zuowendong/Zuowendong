@@ -293,3 +293,5 @@ If life were predictable, it would cease to be life. 如果生活是可预测的
 The only true wisdom is in knowing you know nothing. 唯一真正的智慧在于知道你一无所知。
 
 It's Halloween; the one night a year when we can be anything we want. 这是万圣节；一年中我们可以成为任何人的夜晚。
+
+More dreams are lost to self-doubt than to failure. 因自我怀疑而失去的梦想比因失败而失去的更多。

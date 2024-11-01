@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is October 31, 2024, let's keep going! As the saying goes. It's Halloween; the one night a year when we can be anything we want.
+Today is November 1, 2024, let's keep going! As the saying goes. More dreams are lost to self-doubt than to failure.
