@@ -301,3 +301,5 @@ Life is short; Live it! 人生苦短，活出精彩。
 Happiness depends on your mindset. 幸福取决于你的心态。
 
 Every accomplishment starts with the decision to try. 每一项成就都始于尝试的决定。
+
+Take in courage and let fear fade away. 吸入勇气，呼出恐惧。
