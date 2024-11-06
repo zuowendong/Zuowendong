@@ -303,3 +303,5 @@ Happiness depends on your mindset. 幸福取决于你的心态。
 Every accomplishment starts with the decision to try. 每一项成就都始于尝试的决定。
 
 Take in courage and let fear fade away. 吸入勇气，呼出恐惧。
+
+The future depends on what you do today. 未来取决于你今天的所作所为。
