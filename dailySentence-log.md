@@ -307,3 +307,5 @@ Take in courage and let fear fade away. 吸入勇气，呼出恐惧。
 The future depends on what you do today. 未来取决于你今天的所作所为。
 
 Winter is not a season, but a celebration. 冬天不是一个季节，而是一个庆典。
+
+You must do the things you think you cannot do. 你必须做你认为自己做不到的事情。
