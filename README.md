@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is November 8, 2024, let's keep going! As the saying goes. You must do the things you think you cannot do.
+Today is November 9, 2024, let's keep going! As the saying goes. The greatest risk is not taking one.
