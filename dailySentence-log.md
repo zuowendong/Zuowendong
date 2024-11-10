@@ -311,3 +311,5 @@ Winter is not a season, but a celebration. 冬天不是一个季节，而是一�
 You must do the things you think you cannot do. 你必须做你认为自己做不到的事情。
 
 The greatest risk is not taking one. 最大的风险是不冒风险。
+
+Happiness is not by chance, but by choice. 幸福不是偶然，而是选择。
