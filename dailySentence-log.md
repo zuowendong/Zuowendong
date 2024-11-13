@@ -317,3 +317,5 @@ Happiness is not by chance, but by choice. 幸福不是偶然，而是选择。
 Your life is your message. 你的生活就是你的信息。
 
 Time flies over us, but leaves its shadow behind. 时间飞逝，但它的影子留下了。
+
+Keep going. Be all in. 继续前行，全力以赴。
