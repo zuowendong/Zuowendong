@@ -319,3 +319,5 @@ Your life is your message. 你的生活就是你的信息。
 Time flies over us, but leaves its shadow behind. 时间飞逝，但它的影子留下了。
 
 Keep going. Be all in. 继续前行，全力以赴。
+
+Silence is an answer too. 沉默也是一种回答。

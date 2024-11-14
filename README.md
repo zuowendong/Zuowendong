@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is November 13, 2024, let's keep going! As the saying goes. Keep going. Be all in.
+Today is November 14, 2024, let's keep going! As the saying goes. Silence is an answer too.
