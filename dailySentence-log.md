@@ -321,3 +321,5 @@ Time flies over us, but leaves its shadow behind. 时间飞逝，但它的影子
 Keep going. Be all in. 继续前行，全力以赴。
 
 Silence is an answer too. 沉默也是一种回答。
+
+Time is the most valuable thing a man can spend. 时间是一个人最宝贵的财富。
