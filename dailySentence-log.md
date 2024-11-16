@@ -323,3 +323,5 @@ Keep going. Be all in. 继续前行，全力以赴。
 Silence is an answer too. 沉默也是一种回答。
 
 Time is the most valuable thing a man can spend. 时间是一个人最宝贵的财富。
+
+Dreams are the touchstones of our character. 梦想是我们性格的基石。

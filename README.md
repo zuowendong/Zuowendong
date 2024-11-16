@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is November 15, 2024, let's keep going! As the saying goes. Time is the most valuable thing a man can spend.
+Today is November 16, 2024, let's keep going! As the saying goes. Dreams are the touchstones of our character.
