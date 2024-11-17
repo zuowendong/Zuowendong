@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is November 16, 2024, let's keep going! As the saying goes. Dreams are the touchstones of our character.
+Today is November 17, 2024, let's keep going! As the saying goes. Courage is grace under pressure.
