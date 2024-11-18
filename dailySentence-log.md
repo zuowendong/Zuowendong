@@ -327,3 +327,5 @@ Time is the most valuable thing a man can spend. 时间是一个人最宝贵的�
 Dreams are the touchstones of our character. 梦想是我们性格的基石。
 
 Courage is grace under pressure. 勇气是在压力下保持优雅。
+
+Everything you can imagine is real. 你能想象的一切都是真实的。

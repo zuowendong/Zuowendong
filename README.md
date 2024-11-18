@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is November 17, 2024, let's keep going! As the saying goes. Courage is grace under pressure.
+Today is November 18, 2024, let's keep going! As the saying goes. Everything you can imagine is real.
