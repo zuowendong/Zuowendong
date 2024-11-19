@@ -329,3 +329,5 @@ Dreams are the touchstones of our character. 梦想是我们性格的基石。
 Courage is grace under pressure. 勇气是在压力下保持优雅。
 
 Everything you can imagine is real. 你能想象的一切都是真实的。
+
+Be the hero of your own story. 做你自己故事里的英雄。
