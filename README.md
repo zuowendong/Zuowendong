@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is November 21, 2024, let's keep going! As the saying goes. A smooth sea never made a skilled sailor.
+Today is November 22, 2024, let's keep going! As the saying goes. No snowflake ever falls in the wrong place.

@@ -335,3 +335,5 @@ Be the hero of your own story. 做你自己故事里的英雄。
 Be yourself, but always your better self. 做你自己，但永远要成为更好的自己。
 
 A smooth sea never made a skilled sailor. 一帆风顺的大海造就不了熟练的水手。
+
+No snowflake ever falls in the wrong place. 没有一片雪花会落在错误的地方。
