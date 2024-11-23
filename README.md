@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is November 22, 2024, let's keep going! As the saying goes. No snowflake ever falls in the wrong place.
+Today is November 23, 2024, let's keep going! As the saying goes. Don't dream your life, but live your dream.

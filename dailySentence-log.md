@@ -337,3 +337,5 @@ Be yourself, but always your better self. 做你自己，但永远要成为更�
 A smooth sea never made a skilled sailor. 一帆风顺的大海造就不了熟练的水手。
 
 No snowflake ever falls in the wrong place. 没有一片雪花会落在错误的地方。
+
+Don't dream your life, but live your dream. 不要梦想你的生活，而要实现你的梦想。
