@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is November 25, 2024, let's keep going! As the saying goes. Do small things with great love.
+Today is November 26, 2024, let's keep going! As the saying goes. Courage is knowing what not to fear.

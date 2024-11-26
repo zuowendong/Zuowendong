@@ -343,3 +343,5 @@ Don't dream your life, but live your dream. 不要梦想你的生活，而要实
 You don't have to be great to start, but you have to start to be great. 你不需要伟大才能开始，但你必须开始才能伟大。
 
 Do small things with great love. 以爱去做小事。
+
+Courage is knowing what not to fear. 勇气是知道什么不该害怕。
