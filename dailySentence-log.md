@@ -347,3 +347,5 @@ Do small things with great love. 以爱去做小事。
 Courage is knowing what not to fear. 勇气是知道什么不该害怕。
 
 We may encounter many defeats but we must not be defeated. 我们可能会遇到许多失败，但我们不能被打败。
+
+Thanksgiving is a time of togetherness and gratitude. 感恩节是团聚与感恩的时刻。
