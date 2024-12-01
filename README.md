@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is November 30, 2024, let's keep going! As the saying goes. No one can make you feel inferior without your consent.
+Today is December 1, 2024, let's keep going! As the saying goes. To be yourself is all that you can do.

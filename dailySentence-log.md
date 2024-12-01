@@ -353,3 +353,5 @@ Thanksgiving is a time of togetherness and gratitude. 感恩节是团聚与感�
 What you do today can improve all your tomorrows. 你今天所做的一切，可以改善你所有的明天。
 
 No one can make you feel inferior without your consent. 没有人能在取得你的同意前让你自己感到自卑。
+
+To be yourself is all that you can do. 做自己就是你所能做的一切。
