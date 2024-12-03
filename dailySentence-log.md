@@ -357,3 +357,5 @@ No one can make you feel inferior without your consent. 没有人能在取得你
 To be yourself is all that you can do. 做自己就是你所能做的一切。
 
 The heart has its reasons. 心有它的理由。
+
+The best way to cheer yourself is to try to cheer someone else up. 让自己快乐的最好方式就是去让别人快乐。
