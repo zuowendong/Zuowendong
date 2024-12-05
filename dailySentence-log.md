@@ -361,3 +361,5 @@ The heart has its reasons. 心有它的理由。
 The best way to cheer yourself is to try to cheer someone else up. 让自己快乐的最好方式就是去让别人快乐。
 
 The only way to do great work is to love what you do. 做出伟大工作的唯一方式是热爱你所做的事。
+
+Joy is the simplest form of gratitude. 快乐是最简单的感恩形式。
