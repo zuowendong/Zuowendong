@@ -363,3 +363,5 @@ The best way to cheer yourself is to try to cheer someone else up. 让自己快�
 The only way to do great work is to love what you do. 做出伟大工作的唯一方式是热爱你所做的事。
 
 Joy is the simplest form of gratitude. 快乐是最简单的感恩形式。
+
+Opportunities don't happen. You create them. 机会不会发生，是你创造了它们。
