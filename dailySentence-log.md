@@ -367,3 +367,5 @@ Joy is the simplest form of gratitude. 快乐是最简单的感恩形式。
 Opportunities don't happen. You create them. 机会不会发生，是你创造了它们。
 
 Perseverance is not a long race; it is many short races one after the other. 坚持不是一场长跑，而是一次次短跑。
+
+Simplicity is the ultimate sophistication. 简单是终极的智慧。

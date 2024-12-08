@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is December 7, 2024, let's keep going! As the saying goes. Perseverance is not a long race; it is many short races one after the other.
+Today is December 8, 2024, let's keep going! As the saying goes. Simplicity is the ultimate sophistication.
