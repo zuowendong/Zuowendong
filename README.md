@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is December 8, 2024, let's keep going! As the saying goes. Simplicity is the ultimate sophistication.
+Today is December 9, 2024, let's keep going! As the saying goes. No act of kindness, no matter how small, is ever wasted.

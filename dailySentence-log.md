@@ -369,3 +369,5 @@ Opportunities don't happen. You create them. 机会不会发生，是你创造�
 Perseverance is not a long race; it is many short races one after the other. 坚持不是一场长跑，而是一次次短跑。
 
 Simplicity is the ultimate sophistication. 简单是终极的智慧。
+
+No act of kindness, no matter how small, is ever wasted. 任何一份善意，无论多么微小，都不会被浪费。
