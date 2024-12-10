@@ -371,3 +371,5 @@ Perseverance is not a long race; it is many short races one after the other. 坚
 Simplicity is the ultimate sophistication. 简单是终极的智慧。
 
 No act of kindness, no matter how small, is ever wasted. 任何一份善意，无论多么微小，都不会被浪费。
+
+Wisdom begins in wonder. 智慧始于好奇。
