@@ -375,3 +375,5 @@ No act of kindness, no matter how small, is ever wasted. 任何一份善意，�
 Wisdom begins in wonder. 智慧始于好奇。
 
 It is not the years in your life but the life in your years. 不是生命中的岁月，而是岁月中的生命。
+
+Every flower must grow through dirt. 每朵花都必须从泥土中成长。
