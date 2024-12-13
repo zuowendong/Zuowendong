@@ -377,3 +377,5 @@ Wisdom begins in wonder. 智慧始于好奇。
 It is not the years in your life but the life in your years. 不是生命中的岁月，而是岁月中的生命。
 
 Every flower must grow through dirt. 每朵花都必须从泥土中成长。
+
+Small deeds can make a big difference. 小小的善举可以带来巨大的改变。
