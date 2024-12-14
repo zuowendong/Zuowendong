@@ -379,3 +379,5 @@ It is not the years in your life but the life in your years. 不是生命中的�
 Every flower must grow through dirt. 每朵花都必须从泥土中成长。
 
 Small deeds can make a big difference. 小小的善举可以带来巨大的改变。
+
+You only fail when you stop trying. 只有停止尝试时，你才会失败。
