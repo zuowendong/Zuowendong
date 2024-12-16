@@ -383,3 +383,5 @@ Small deeds can make a big difference. 小小的善举可以带来巨大的改�
 You only fail when you stop trying. 只有停止尝试时，你才会失败。
 
 The harder the conflict, the greater the triumph. 冲突越难，胜利越大。
+
+Stars can't shine without darkness. 没有黑暗，星星无法闪耀。
