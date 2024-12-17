@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is December 16, 2024, let's keep going! As the saying goes. Stars can't shine without darkness.
+Today is December 17, 2024, let's keep going! As the saying goes.  Mistakes are proof that you are trying.
