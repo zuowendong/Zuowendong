@@ -391,3 +391,5 @@ Stars can't shine without darkness. 没有黑暗，星星无法闪耀。
 Hardships often prepare ordinary people for extraordinary destiny. 艰难常常为普通人准备非凡的命运。
 
 Hope is the heartbeat of the soul. 希望是灵魂的心跳。
+
+Let your faith be bigger than your fear. 让你的信念比恐惧更强大。
