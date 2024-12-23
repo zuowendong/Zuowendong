@@ -397,3 +397,5 @@ Let your faith be bigger than your fear. 让你的信念比恐惧更强大。
 To appreciate the beauty of a snowflake, it is necessary to stand out in the cold. 要欣赏雪花的美丽，就必须站在寒冷中。
 
 Happiness is a warm puppy. 幸福是一只温暖的小狗。
+
+Keep looking up; that's the secret of life. 抬头看天，这是生活的秘诀。
