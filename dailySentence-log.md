@@ -399,3 +399,5 @@ To appreciate the beauty of a snowflake, it is necessary to stand out in the col
 Happiness is a warm puppy. 幸福是一只温暖的小狗。
 
 Keep looking up; that's the secret of life. 抬头看天，这是生活的秘诀。
+
+All is calm, all is bright. 一切安详，一切明亮。
