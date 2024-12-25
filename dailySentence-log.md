@@ -401,3 +401,5 @@ Happiness is a warm puppy. 幸福是一只温暖的小狗。
 Keep looking up; that's the secret of life. 抬头看天，这是生活的秘诀。
 
 All is calm, all is bright. 一切安详，一切明亮。
+
+Christmas is not a date. It is a state of mind. 圣诞节不是一个日期，而是一种心境。
