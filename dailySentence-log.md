@@ -403,3 +403,5 @@ Keep looking up; that's the secret of life. 抬头看天，这是生活的秘诀
 All is calm, all is bright. 一切安详，一切明亮。
 
 Christmas is not a date. It is a state of mind. 圣诞节不是一个日期，而是一种心境。
+
+Life is tough, but so are you. 生活很艰难，但你也很坚强。

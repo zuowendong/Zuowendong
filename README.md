@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is December 25, 2024, let's keep going! As the saying goes. Christmas is not a date. It is a state of mind.
+Today is December 26, 2024, let's keep going! As the saying goes. Life is tough, but so are you.
