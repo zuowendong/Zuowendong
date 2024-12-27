@@ -405,3 +405,5 @@ All is calm, all is bright. 一切安详，一切明亮。
 Christmas is not a date. It is a state of mind. 圣诞节不是一个日期，而是一种心境。
 
 Life is tough, but so are you. 生活很艰难，但你也很坚强。
+
+Live in the sunshine, swim in the sea, and drink the wild air. 沐浴阳光，畅游海洋，呼吸自由的空气。
