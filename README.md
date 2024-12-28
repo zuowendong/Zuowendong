@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is December 27, 2024, let's keep going! As the saying goes. Live in the sunshine, swim in the sea, and drink the wild air.
+Today is December 28, 2024, let's keep going! As the saying goes. The best time for new beginnings is now.
