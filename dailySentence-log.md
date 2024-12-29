@@ -409,3 +409,5 @@ Life is tough, but so are you. 生活很艰难，但你也很坚强。
 Live in the sunshine, swim in the sea, and drink the wild air. 沐浴阳光，畅游海洋，呼吸自由的空气。
 
 The best time for new beginnings is now. 新的开始的最佳时机就是现在。
+
+Your vibe attracts your tribe. 你的气场吸引你的圈子。
