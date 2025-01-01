@@ -415,3 +415,5 @@ Your vibe attracts your tribe. 你的气场吸引你的圈子。
 Do something today that your future self will thank you for. 做些未来的你会感激的事情。
 
 Every sunset is an opportunity to reset. 每一次日落都是重启的机会。
+
+Every new beginning comes from some other beginning's end. 每一个新的开始都来自某个开始的结束。
