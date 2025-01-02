@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is January 1, 2025, let's keep going! As the saying goes. Every new beginning comes from some other beginning's end.
+Today is January 2, 2025, let's keep going! As the saying goes. A single sunbeam is enough to drive away many shadows.
