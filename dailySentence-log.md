@@ -419,3 +419,5 @@ Every sunset is an opportunity to reset. 每一次日落都是重启的机会。
 Every new beginning comes from some other beginning's end. 每一个新的开始都来自某个开始的结束。
 
 A single sunbeam is enough to drive away many shadows. 一束阳光足以驱散许多阴影。
+
+The only thing constant in life is change. 生活中唯一不变的就是变化。

@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is January 2, 2025, let's keep going! As the saying goes. A single sunbeam is enough to drive away many shadows.
+Today is January 3, 2025, let's keep going! As the saying goes. The only thing constant in life is change.
