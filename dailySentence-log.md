@@ -421,3 +421,5 @@ Every new beginning comes from some other beginning's end. 每一个新的开始
 A single sunbeam is enough to drive away many shadows. 一束阳光足以驱散许多阴影。
 
 The only thing constant in life is change. 生活中唯一不变的就是变化。
+
+You are never too old to set another goal or to dream a new dream. 无论多大年龄，你都可以重新设定目标或做新的梦。
