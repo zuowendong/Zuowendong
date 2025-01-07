@@ -427,3 +427,5 @@ You are never too old to set another goal or to dream a new dream. 无论多大�
 Your life does not get better by chance, it gets better by change. 你的生活不会因偶然变好，而是因改变变好。
 
 Doubt kills more dreams than failure ever will. 怀疑比失败扼杀更多梦想。
+
+In the heart of winter, warmth is found in a bowl of porridge. 寒冬之中，温暖藏在一碗粥里。

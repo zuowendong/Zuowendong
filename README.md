@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is January 6, 2025, let's keep going! As the saying goes. Doubt kills more dreams than failure ever will.
+Today is January 7, 2025, let's keep going! As the saying goes. In the heart of winter, warmth is found in a bowl of porridge.
