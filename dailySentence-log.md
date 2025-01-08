@@ -429,3 +429,5 @@ Your life does not get better by chance, it gets better by change. 你的生活�
 Doubt kills more dreams than failure ever will. 怀疑比失败扼杀更多梦想。
 
 In the heart of winter, warmth is found in a bowl of porridge. 寒冬之中，温暖藏在一碗粥里。
+
+Turn your face to the sun and the shadows fall behind you. 向阳而立，阴影自会落在身后。
