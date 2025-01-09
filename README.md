@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is January 8, 2025, let's keep going! As the saying goes. Turn your face to the sun and the shadows fall behind you.
+Today is January 9, 2025, let's keep going! As the saying goes. Happiness is created now, not later.

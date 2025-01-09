@@ -431,3 +431,5 @@ Doubt kills more dreams than failure ever will. 怀疑比失败扼杀更多梦�
 In the heart of winter, warmth is found in a bowl of porridge. 寒冬之中，温暖藏在一碗粥里。
 
 Turn your face to the sun and the shadows fall behind you. 向阳而立，阴影自会落在身后。
+
+Happiness is created now, not later. 幸福在当下，不在未来。
