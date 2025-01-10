@@ -433,3 +433,5 @@ In the heart of winter, warmth is found in a bowl of porridge. 寒冬之中，�
 Turn your face to the sun and the shadows fall behind you. 向阳而立，阴影自会落在身后。
 
 Happiness is created now, not later. 幸福在当下，不在未来。
+
+When words fail, music speaks. 当言语无力时，音乐能表达一切。
