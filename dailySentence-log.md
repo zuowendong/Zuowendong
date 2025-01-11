@@ -435,3 +435,5 @@ Turn your face to the sun and the shadows fall behind you. 向阳而立，阴影
 Happiness is created now, not later. 幸福在当下，不在未来。
 
 When words fail, music speaks. 当言语无力时，音乐能表达一切。
+
+You can't change the past, but you can change the ending. 你无法改变过去，但你可以改变结局。
