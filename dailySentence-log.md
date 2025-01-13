@@ -439,3 +439,5 @@ When words fail, music speaks. 当言语无力时，音乐能表达一切。
 You can't change the past, but you can change the ending. 你无法改变过去，但你可以改变结局。
 
 The biggest adventure you can take is to live the life of your dreams. 你能经历的最大冒险是活出梦想中的生活。
+
+It's not what we have in life but who we have in life that matters. 生活中重要的不是我们拥有什么，而是我们拥有谁。
