@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is January 15, 2025, let's keep going! As the saying goes. Dare to dream big, begin small, and act right away.
+Today is January 16, 2025, let's keep going! As the saying goes. What's within us matters most.
