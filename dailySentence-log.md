@@ -447,3 +447,5 @@ Once you choose hope, anything's possible. 一旦选择了希望，一切皆有�
 Dare to dream big, begin small, and act right away. 梦想要大，起步要小，行动要快。
 
 What's within us matters most. 内心最重要。
+
+Do what you feel in your heart to be right. 做你内心认为正确的事。

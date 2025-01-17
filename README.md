@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is January 16, 2025, let's keep going! As the saying goes. What's within us matters most.
+Today is January 17, 2025, let's keep going! As the saying goes. Do what you feel in your heart to be right.
