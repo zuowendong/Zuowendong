@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is January 18, 2025, let's keep going! As the saying goes. We become the most familiar strangers .
+Today is January 19, 2025, let's keep going! As the saying goes. Success is being content with yourself and how you achieve it.
