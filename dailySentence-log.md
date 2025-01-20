@@ -453,3 +453,5 @@ Do what you feel in your heart to be right. 做你内心认为正确的事。
 We become the most familiar strangers . 我们变成了世上最熟悉的陌生人。
 
 Success is being content with yourself and how you achieve it. 成功是对自己和实现方式感到满意。
+
+Your attitude determines your altitude. 你的态度决定了你的高度。
