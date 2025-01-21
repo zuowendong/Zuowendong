@@ -455,3 +455,5 @@ We become the most familiar strangers . 我们变成了世上最熟悉的陌生�
 Success is being content with yourself and how you achieve it. 成功是对自己和实现方式感到满意。
 
 Your attitude determines your altitude. 你的态度决定了你的高度。
+
+Happiness is in sharing, not owning. 幸福在分享，不在拥有。
