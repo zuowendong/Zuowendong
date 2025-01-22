@@ -457,3 +457,5 @@ Success is being content with yourself and how you achieve it. 成功是对自�
 Your attitude determines your altitude. 你的态度决定了你的高度。
 
 Happiness is in sharing, not owning. 幸福在分享，不在拥有。
+
+Hope is a waking dream. 希望是清醒的梦。
