@@ -459,3 +459,5 @@ Your attitude determines your altitude. 你的态度决定了你的高度。
 Happiness is in sharing, not owning. 幸福在分享，不在拥有。
 
 Hope is a waking dream. 希望是清醒的梦。
+
+Light tomorrow with today. 用今天点亮明天。
