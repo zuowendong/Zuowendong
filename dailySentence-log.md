@@ -461,3 +461,5 @@ Happiness is in sharing, not owning. 幸福在分享，不在拥有。
 Hope is a waking dream. 希望是清醒的梦。
 
 Light tomorrow with today. 用今天点亮明天。
+
+Don't be pushed by your problems. Be led by your dreams. 别被问题推着走，要被梦想引导着前进。

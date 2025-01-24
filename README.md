@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is January 23, 2025, let's keep going! As the saying goes. Light tomorrow with today.
+Today is January 24, 2025, let's keep going! As the saying goes. Don't be pushed by your problems. Be led by your dreams.
