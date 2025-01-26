@@ -465,3 +465,5 @@ Light tomorrow with today. 用今天点亮明天。
 Don't be pushed by your problems. Be led by your dreams. 别被问题推着走，要被梦想引导着前进。
 
 The heavier with great power comes great responsibility. 能力越大，责任越重。
+
+You leave, or I go with you. 你留下，或者我跟你走。——《海角七号》

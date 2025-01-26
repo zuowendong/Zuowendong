@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is January 25, 2025, let's keep going! As the saying goes. The heavier with great power comes great responsibility.
+Today is January 26, 2025, let's keep going! As the saying goes. You leave, or I go with you.
