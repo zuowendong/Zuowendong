@@ -467,3 +467,5 @@ Don't be pushed by your problems. Be led by your dreams. 别被问题推着走�
 The heavier with great power comes great responsibility. 能力越大，责任越重。
 
 You leave, or I go with you. 你留下，或者我跟你走。——《海角七号》
+
+Hard work beats talent when talent fails to work hard. 当天才不努力时，努力可以击倒天才。
