@@ -469,3 +469,5 @@ The heavier with great power comes great responsibility. 能力越大，责任�
 You leave, or I go with you. 你留下，或者我跟你走。——《海角七号》
 
 Hard work beats talent when talent fails to work hard. 当天才不努力时，努力可以击倒天才。
+
+The old year departs with gratitude, and the new one comes with hope. 旧年怀感恩而去，新年携希望而来。
