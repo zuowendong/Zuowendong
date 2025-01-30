@@ -473,3 +473,5 @@ Hard work beats talent when talent fails to work hard. 当天才不努力时，�
 The old year departs with gratitude, and the new one comes with hope. 旧年怀感恩而去，新年携希望而来。
 
 The joy of reunion makes the Spring Festival the happiest time of the year. 团聚的喜悦让春节成为一年中最幸福的时光。
+
+Reading is to the mind what exercise is to the body. 阅读之于心灵，犹如运动之于身体。

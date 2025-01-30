@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is January 29, 2025, let's keep going! As the saying goes. The joy of reunion makes the Spring Festival the happiest time of the year.
+Today is January 30, 2025, let's keep going! As the saying goes. Reading is to the mind what exercise is to the body.
