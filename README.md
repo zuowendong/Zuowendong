@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is January 30, 2025, let's keep going! As the saying goes. Reading is to the mind what exercise is to the body.
+Today is January 31, 2025, let's keep going! As the saying goes. The way to get started is to quit talking and begin doing. 

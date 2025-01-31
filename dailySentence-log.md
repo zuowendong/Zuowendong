@@ -475,3 +475,5 @@ The old year departs with gratitude, and the new one comes with hope. 旧年怀�
 The joy of reunion makes the Spring Festival the happiest time of the year. 团聚的喜悦让春节成为一年中最幸福的时光。
 
 Reading is to the mind what exercise is to the body. 阅读之于心灵，犹如运动之于身体。
+
+The way to get started is to quit talking and begin doing.  一切的起头就是不要只会说而是开始做。
