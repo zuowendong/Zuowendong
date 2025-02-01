@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is January 31, 2025, let's keep going! As the saying goes. The way to get started is to quit talking and begin doing. 
+Today is February 1, 2025, let's keep going! As the saying goes. Happiness is not having what you want. It is wanting what you have.

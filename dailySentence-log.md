@@ -477,3 +477,5 @@ The joy of reunion makes the Spring Festival the happiest time of the year. 团�
 Reading is to the mind what exercise is to the body. 阅读之于心灵，犹如运动之于身体。
 
 The way to get started is to quit talking and begin doing.  一切的起头就是不要只会说而是开始做。
+
+Happiness is not having what you want. It is wanting what you have. 幸福不是拥有你想要的，而是珍惜你拥有的。
