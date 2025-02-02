@@ -479,3 +479,5 @@ Reading is to the mind what exercise is to the body. 阅读之于心灵，犹如
 The way to get started is to quit talking and begin doing.  一切的起头就是不要只会说而是开始做。
 
 Happiness is not having what you want. It is wanting what you have. 幸福不是拥有你想要的，而是珍惜你拥有的。
+
+Time is what we want most, but what we use worst. 时间是我们最需要却最浪费的东西。
