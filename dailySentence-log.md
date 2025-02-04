@@ -483,3 +483,5 @@ Happiness is not having what you want. It is wanting what you have. 幸福不是
 Time is what we want most, but what we use worst. 时间是我们最需要却最浪费的东西。
 
 In spring, every leaf is a flower in the making. 在春天，每片叶子都是未来的花朵。
+
+Small steps every day lead to big results. 每天迈出小步，终将收获大成果。
