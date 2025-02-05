@@ -485,3 +485,5 @@ Time is what we want most, but what we use worst. 时间是我们最需要却最
 In spring, every leaf is a flower in the making. 在春天，每片叶子都是未来的花朵。
 
 Small steps every day lead to big results. 每天迈出小步，终将收获大成果。
+
+Great things never come from comfort zones. 伟大的成就从未源于舒适区。
