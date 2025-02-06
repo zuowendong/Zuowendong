@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is February 5, 2025, let's keep going! As the saying goes. Great things never come from comfort zones.
+Today is February 6, 2025, let's keep going! As the saying goes. The shortest answer is doing the thing.
