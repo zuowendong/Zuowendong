@@ -489,3 +489,5 @@ Small steps every day lead to big results. 每天迈出小步，终将收获大�
 Great things never come from comfort zones. 伟大的成就从未源于舒适区。
 
 The shortest answer is doing the thing. 行动是最直接的回应。
+
+Nothing will work unless you do. 除非你去做，否则什么都不会发生。
