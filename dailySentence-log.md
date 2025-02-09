@@ -493,3 +493,5 @@ The shortest answer is doing the thing. 行动是最直接的回应。
 Nothing will work unless you do. 除非你去做，否则什么都不会发生。
 
 Years fly by, but the heart stays in the same place. 时光飞逝，但我心依旧。
+
+Celebrate the new year together, welcoming and bidding farewell within one night. 共欢新故岁，迎送一宵中。——李世民《守岁》
