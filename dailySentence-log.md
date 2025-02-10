@@ -495,3 +495,5 @@ Nothing will work unless you do. 除非你去做，否则什么都不会发生�
 Years fly by, but the heart stays in the same place. 时光飞逝，但我心依旧。
 
 Celebrate the new year together, welcoming and bidding farewell within one night. 共欢新故岁，迎送一宵中。——李世民《守岁》
+
+Best wishes for the holidays and happiness throughout the New Year. 恭贺新禧，万事如意。
