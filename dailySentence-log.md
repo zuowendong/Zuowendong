@@ -497,3 +497,5 @@ Years fly by, but the heart stays in the same place. 时光飞逝，但我心依
 Celebrate the new year together, welcoming and bidding farewell within one night. 共欢新故岁，迎送一宵中。——李世民《守岁》
 
 Best wishes for the holidays and happiness throughout the New Year. 恭贺新禧，万事如意。
+
+Home is where the heart is. 此心安处是吾乡。
