@@ -499,3 +499,5 @@ Celebrate the new year together, welcoming and bidding farewell within one night
 Best wishes for the holidays and happiness throughout the New Year. 恭贺新禧，万事如意。
 
 Home is where the heart is. 此心安处是吾乡。
+
+All things in their being are good for something. 天生我材必有用。
