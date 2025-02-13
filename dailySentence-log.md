@@ -501,3 +501,5 @@ Best wishes for the holidays and happiness throughout the New Year. 恭贺新禧
 Home is where the heart is. 此心安处是吾乡。
 
 All things in their being are good for something. 天生我材必有用。
+
+Done is better than perfect. 完成比完美更重要。
