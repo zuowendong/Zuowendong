@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is February 14, 2025, let's keep going! As the saying goes. Love is the bridge between you and everything.
+Today is February 15, 2025, let's keep going! As the saying goes. I would rather die of passion than of boredom. 
