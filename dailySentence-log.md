@@ -509,3 +509,5 @@ Love is the bridge between you and everything. 爱是你与一切之间的桥梁
 I would rather die of passion than of boredom.  我宁愿死于激情也不愿死于无聊。
 
 Dreaming, after all, is a form of planning. 梦想，就是一种计划形式。
+
+Learn from yesterday, live for today, hope for tomorrow. 从昨天学习，为今天而活，对明天充满希望。
