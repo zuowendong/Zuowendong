@@ -517,3 +517,5 @@ Dreams don't work unless you do. 梦想不会自己成真，除非你努力去�
 The best time to plant a tree was 10 years ago. The second best time is now. 最好的种树时间是10年前，其次是现在。
 
 No pressure, no diamonds. 没有压力，就没有钻石。
+
+Your only limit is your mind. 唯一的限制是你的心态。
