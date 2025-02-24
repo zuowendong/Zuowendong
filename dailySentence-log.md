@@ -523,3 +523,5 @@ Your only limit is your mind. 唯一的限制是你的心态。
 Each day brings a new beginning. 每天都是一个新开始。
 
 Love is what makes life worth living. 爱，让生命有了意义。
+
+Happiness is homemade. 幸福是自己创造的。
