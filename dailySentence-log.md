@@ -525,3 +525,5 @@ Each day brings a new beginning. 每天都是一个新开始。
 Love is what makes life worth living. 爱，让生命有了意义。
 
 Happiness is homemade. 幸福是自己创造的。
+
+Success is no accident. 成功不是偶然的。
