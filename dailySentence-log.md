@@ -527,3 +527,5 @@ Love is what makes life worth living. 爱，让生命有了意义。
 Happiness is homemade. 幸福是自己创造的。
 
 Success is no accident. 成功不是偶然的。
+
+What we achieve inwardly will change outer reality. 我们内在的成就会改变外在的现实。
