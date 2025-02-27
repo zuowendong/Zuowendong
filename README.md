@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is February 26, 2025, let's keep going! As the saying goes. What we achieve inwardly will change outer reality.
+Today is February 27, 2025, let's keep going! As the saying goes. Happiness is a direction, not a place.

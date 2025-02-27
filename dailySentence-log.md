@@ -529,3 +529,5 @@ Happiness is homemade. 幸福是自己创造的。
 Success is no accident. 成功不是偶然的。
 
 What we achieve inwardly will change outer reality. 我们内在的成就会改变外在的现实。
+
+Happiness is a direction, not a place. 幸福是一种方向，而不是一个地方。
