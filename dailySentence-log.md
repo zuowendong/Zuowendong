@@ -531,3 +531,5 @@ Success is no accident. 成功不是偶然的。
 What we achieve inwardly will change outer reality. 我们内在的成就会改变外在的现实。
 
 Happiness is a direction, not a place. 幸福是一种方向，而不是一个地方。
+
+Strength grows in the moments when you think you can’t go on but keep going anyway. 力量来自于你觉得撑不下去却依然坚持的时刻。
