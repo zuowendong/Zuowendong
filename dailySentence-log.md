@@ -533,3 +533,5 @@ What we achieve inwardly will change outer reality. 我们内在的成就会改�
 Happiness is a direction, not a place. 幸福是一种方向，而不是一个地方。
 
 Strength grows in the moments when you think you can’t go on but keep going anyway. 力量来自于你觉得撑不下去却依然坚持的时刻。
+
+A merry heart goes all the way.  心旷神怡，事事顺利。 
