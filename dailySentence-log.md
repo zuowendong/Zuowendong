@@ -535,3 +535,5 @@ Happiness is a direction, not a place. 幸福是一种方向，而不是一个�
 Strength grows in the moments when you think you can’t go on but keep going anyway. 力量来自于你觉得撑不下去却依然坚持的时刻。
 
 A merry heart goes all the way.  心旷神怡，事事顺利。 
+
+When life gets you down, just keep moving. 当生活遇到瓶颈，继续向前就对了。——《料理鼠王》
