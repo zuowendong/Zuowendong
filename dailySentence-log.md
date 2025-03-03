@@ -537,3 +537,5 @@ Strength grows in the moments when you think you can’t go on but keep going an
 A merry heart goes all the way.  心旷神怡，事事顺利。 
 
 When life gets you down, just keep moving. 当生活遇到瓶颈，继续向前就对了。——《料理鼠王》
+
+The only way to fail is not to try. 失败的唯一方式是不去尝试。
