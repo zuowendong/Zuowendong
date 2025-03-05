@@ -541,3 +541,5 @@ When life gets you down, just keep moving. 当生活遇到瓶颈，继续向前�
 The only way to fail is not to try. 失败的唯一方式是不去尝试。
 
 Success depends on effort, not just desire. 成功源于努力，而非渴望。
+
+The more that you read, the more things you will know. 你读的书越多，你知道的事就越多。
