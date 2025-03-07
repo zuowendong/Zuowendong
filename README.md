@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is March 6, 2025, let's keep going! As the saying goes. Don’t wait for opportunity. Create it.
+Today is March 7, 2025, let's keep going! As the saying goes. Greatness comes from small, consistent efforts, not impulse.
