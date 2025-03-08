@@ -547,3 +547,5 @@ The more that you read, the more things you will know. 你读的书越多，你�
 Don’t wait for opportunity. Create it. 不要等待机会，创造机会。
 
 Greatness comes from small, consistent efforts, not impulse. 伟大源于微小坚持，而非冲动。
+
+You are beautiful just as you are. 你本来就很美。
