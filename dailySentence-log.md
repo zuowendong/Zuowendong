@@ -549,3 +549,5 @@ Don’t wait for opportunity. Create it. 不要等待机会，创造机会。
 Greatness comes from small, consistent efforts, not impulse. 伟大源于微小坚持，而非冲动。
 
 You are beautiful just as you are. 你本来就很美。
+
+Don't be afraid to be yourself. Follow your own path. 不要害怕做与众不同的自己，走自己的路。
