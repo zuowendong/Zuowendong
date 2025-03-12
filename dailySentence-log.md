@@ -555,3 +555,5 @@ Don't be afraid to be yourself. Follow your own path. 不要害怕做与众不�
 There's nothing you can do that can't be done. 没有什么是你能做却做不到的。——披头士乐队
 
 Hard work magnifies achievement’s joy. 越努力，成就感越强。
+
+Don’t wish for it. Work for it. 不要仅仅希望它，去为它努力。
