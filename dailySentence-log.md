@@ -557,3 +557,5 @@ There's nothing you can do that can't be done. 没有什么是你能做却做不
 Hard work magnifies achievement’s joy. 越努力，成就感越强。
 
 Don’t wish for it. Work for it. 不要仅仅希望它，去为它努力。
+
+Challenges spark life; conquering them gives purpose. 挑战点亮生活，征服赋予意义。
