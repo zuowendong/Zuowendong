@@ -561,3 +561,5 @@ Don’t wish for it. Work for it. 不要仅仅希望它，去为它努力。
 Challenges spark life; conquering them gives purpose. 挑战点亮生活，征服赋予意义。
 
 True success inspires others to act. 真正的成功是激励他人行动。
+
+To be a happy man. 做一个幸福的人。
