@@ -565,3 +565,5 @@ True success inspires others to act. 真正的成功是激励他人行动。
 To be a happy man. 做一个幸福的人。
 
 Care and diligence bring luck. 谨慎和勤奋，带来好运气。
+
+The key to success is to focus on goals, not obstacles. 成功的关键是专注于目标，而非障碍。
