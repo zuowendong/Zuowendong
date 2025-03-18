@@ -567,3 +567,5 @@ To be a happy man. 做一个幸福的人。
 Care and diligence bring luck. 谨慎和勤奋，带来好运气。
 
 The key to success is to focus on goals, not obstacles. 成功的关键是专注于目标，而非障碍。
+
+Don't limit your challenges. Challenge your limits. 不要限制你的挑战，挑战你的极限。
