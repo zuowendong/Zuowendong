@@ -573,3 +573,5 @@ Don't limit your challenges. Challenge your limits. 不要限制你的挑战，�
 The only place where success comes before work is in the dictionary. 只有在字典里，成功才排在工作之前。
 
 Spring will come and so will happiness. 春天会到来，幸福也会随之而来。
+
+Success is becoming the best version of yourself. 成功是成为最好的自己。
