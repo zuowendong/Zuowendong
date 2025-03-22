@@ -575,3 +575,5 @@ The only place where success comes before work is in the dictionary. 只有在�
 Spring will come and so will happiness. 春天会到来，幸福也会随之而来。
 
 Success is becoming the best version of yourself. 成功是成为最好的自己。
+
+Every cloud has a silver lining. 天无绝人之路。
