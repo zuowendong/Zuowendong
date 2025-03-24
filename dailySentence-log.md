@@ -579,3 +579,5 @@ Success is becoming the best version of yourself. 成功是成为最好的自己
 Every cloud has a silver lining. 天无绝人之路。
 
 Time is a bird flying into eternity. 时间是一只永远在飞翔的鸟。
+
+If you obey all the rules, you'll miss all the fun. 凡事都墨守成规，就毫无乐趣了。

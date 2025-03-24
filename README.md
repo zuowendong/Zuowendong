@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is March 23, 2025, let's keep going! As the saying goes. Time is a bird flying into eternity.
+Today is March 24, 2025, let's keep going! As the saying goes. If you obey all the rules, you'll miss all the fun.
