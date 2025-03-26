@@ -583,3 +583,5 @@ Time is a bird flying into eternity. 时间是一只永远在飞翔的鸟。
 If you obey all the rules, you'll miss all the fun. 凡事都墨守成规，就毫无乐趣了。
 
 You can do anything, but not everything. 你可以做任何事，但不是所有事。
+
+The only thing we have to fear is fear itself. 我们唯一需要害怕的是害怕本身。
