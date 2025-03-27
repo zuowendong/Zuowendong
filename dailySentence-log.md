@@ -585,3 +585,5 @@ If you obey all the rules, you'll miss all the fun. 凡事都墨守成规，就�
 You can do anything, but not everything. 你可以做任何事，但不是所有事。
 
 The only thing we have to fear is fear itself. 我们唯一需要害怕的是害怕本身。
+
+Your greatest triumph is staying true to yourself. 忠于自我是最高成就。
