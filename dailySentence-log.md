@@ -587,3 +587,5 @@ You can do anything, but not everything. 你可以做任何事，但不是所有
 The only thing we have to fear is fear itself. 我们唯一需要害怕的是害怕本身。
 
 Your greatest triumph is staying true to yourself. 忠于自我是最高成就。
+
+Trailblaze where no path exists. 在无路处开辟新径。
