@@ -589,3 +589,5 @@ The only thing we have to fear is fear itself. 我们唯一需要害怕的是害
 Your greatest triumph is staying true to yourself. 忠于自我是最高成就。
 
 Trailblaze where no path exists. 在无路处开辟新径。
+
+A miss is as good as a mile.  失之毫厘，差之千里。 
