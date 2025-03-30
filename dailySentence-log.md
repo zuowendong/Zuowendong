@@ -591,3 +591,5 @@ Your greatest triumph is staying true to yourself. 忠于自我是最高成就�
 Trailblaze where no path exists. 在无路处开辟新径。
 
 A miss is as good as a mile.  失之毫厘，差之千里。 
+
+Happy life lies in a peaceful mind. 幸福的生活存在于心绪的宁静之中。
