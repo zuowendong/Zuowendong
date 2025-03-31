@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is March 30, 2025, let's keep going! As the saying goes. Happy life lies in a peaceful mind.
+Today is March 31, 2025, let's keep going! As the saying goes. Cross oceans only by daring to leave shore.
