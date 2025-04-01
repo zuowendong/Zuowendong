@@ -595,3 +595,5 @@ A miss is as good as a mile.  失之毫厘，差之千里。
 Happy life lies in a peaceful mind. 幸福的生活存在于心绪的宁静之中。
 
 Cross oceans only by daring to leave shore. 有离开海岸的勇气，才能横渡海洋。
+
+Every playful prank on April Fool's Day reminds us to live with laughter. 每个愚人节的恶作剧都提醒我们用笑声生活。
