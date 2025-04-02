@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is April 1, 2025, let's keep going! As the saying goes. Every playful prank on April Fool's Day reminds us to live with laughter.
+Today is April 2, 2025, let's keep going! As the saying goes. A brave decision today can spark a lifetime of transformation.
