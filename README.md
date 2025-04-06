@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is April 5, 2025, let's keep going! As the saying goes. If you want to achieve greatness, stop asking for permission.
+Today is April 6, 2025, let's keep going! As the saying goes. Success is not in never falling, but in rising every time we fall.

@@ -605,3 +605,5 @@ Progress starts with one brave step forward. 进步始于一次勇敢的迈步�
 Qingming Festival invites us to honor ancestors with quiet reflection and respect.  清明节邀请我们以静思与敬意祭奠祖先。
 
 If you want to achieve greatness, stop asking for permission. 如果你想获得伟大，别再请求许可。
+
+Success is not in never falling, but in rising every time we fall. 成功不是从不跌倒，而是每次跌倒后都能重新站起来。
