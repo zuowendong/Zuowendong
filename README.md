@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is April 7, 2025, let's keep going! As the saying goes. Laughter revives a tired spirit and mends a broken heart.
+Today is April 8, 2025, let's keep going! As the saying goes. Think less of gain and loss as long as you go all out and have a clear mind.
