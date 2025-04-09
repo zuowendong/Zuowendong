@@ -611,3 +611,5 @@ Success is not in never falling, but in rising every time we fall. 成功不是�
 Laughter revives a tired spirit and mends a broken heart. 笑声能重燃疲惫的心灵，修复破碎的情感。
 
 Think less of gain and loss as long as you go all out and have a clear mind. 得失成败置之度外，只求竭尽所能，无愧于心。 --傅雷
+
+Knowledge speaks, but wisdom listens. 知识在言说，智慧在倾听。
