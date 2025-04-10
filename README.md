@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is April 9, 2025, let's keep going! As the saying goes. Knowledge speaks, but wisdom listens.
+Today is April 10, 2025, let's keep going! As the saying goes. Genuine effort turns challenges into stepping stones for real growth.
