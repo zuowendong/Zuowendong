@@ -621,3 +621,5 @@ Forward ever, backward never. 永远向前，绝不后退。
 No man is born wise or learned. 人非生而知之。
 
 Beauty lies in the love's eyes. 情人眼里出西施。
+
+Family always remains a safe harbor in life's stormy sea. 家庭始终是风暴中最安全的港湾。
