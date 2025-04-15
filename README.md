@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is April 14, 2025, let's keep going! As the saying goes. Family always remains a safe harbor in life's stormy sea.
+Today is April 15, 2025, let's keep going! As the saying goes. Calm moments reveal hidden beauty in the everyday world around us.
