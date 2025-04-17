@@ -627,3 +627,5 @@ Family always remains a safe harbor in life's stormy sea. 家庭始终是风暴�
 Calm moments reveal hidden beauty in the everyday world around us. 宁静时刻展现出我们周围日常生活中隐藏的美。
 
 Action expresses priorities. 行动展示真正优先。
+
+Live simply, so others may simply live. 简单生活，让他人也能简单生活。
