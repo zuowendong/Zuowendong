@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is April 19, 2025, let's keep going! As the saying goes. Youth means limitless possibilities.
+Today is April 20, 2025, let's keep going! As the saying goes. You get in life what you have the courage to ask for.
