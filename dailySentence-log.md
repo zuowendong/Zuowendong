@@ -651,3 +651,5 @@ Your smile can warm a heart and light up a dark room. 你的笑容能温暖一�
 Courage is the spark that ignites extraordinary achievements in life. 勇气是点燃非凡成就的火花。
 
 Gratitude turns little moments into abundant blessings each day. 感恩让平凡时刻化为每日的丰盛祝福。
+
+Simplicity clears clutter and illuminates the path to inner peace. 简单驱散纷扰，照亮通往内心平静的道路。
