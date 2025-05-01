@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is April 30, 2025, let's keep going! As the saying goes. Your dreams truly matter; pursue them with relentless passion every day.
+Today is May 1, 2025, let's keep going! As the saying goes. Labor is the most reliable wealth.
