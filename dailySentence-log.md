@@ -657,3 +657,5 @@ Simplicity clears clutter and illuminates the path to inner peace. 简单驱散�
 Your dreams truly matter; pursue them with relentless passion every day. 你的梦想至关重要，每天都要以不懈热情追求。
 
 Labor is the most reliable wealth. 劳动是最可靠的财富。
+
+Sweat is the lubricant of success. 汗水是成功的润滑剂。
