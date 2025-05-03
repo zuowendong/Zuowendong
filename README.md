@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is May 2, 2025, let's keep going! As the saying goes. Sweat is the lubricant of success.
+Today is May 3, 2025, let's keep going! As the saying goes. Do your thing and don't care if they like it.

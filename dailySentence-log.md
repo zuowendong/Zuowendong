@@ -659,3 +659,5 @@ Your dreams truly matter; pursue them with relentless passion every day. 你的�
 Labor is the most reliable wealth. 劳动是最可靠的财富。
 
 Sweat is the lubricant of success. 汗水是成功的润滑剂。
+
+Do your thing and don't care if they like it. 做你的事，别在意别人是否喜欢。
