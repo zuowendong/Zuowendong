@@ -667,3 +667,5 @@ Just hold to your dream and never give up.  坚持你的梦想，永不放弃�
 Plan something big by starting with small steps. 从小处着手，规划大事。
 
 Creating light for others naturally lights our own way. 为他人创造光明自然照亮我们之路。
+
+A dead end is just a good place to turn around. 死胡同只是一个很好的转弯之处。
