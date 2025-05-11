@@ -675,3 +675,5 @@ I’ve nothing to do today but smile. 你今天唯一能做的事就是微笑。
 You can, you should, and if you’re brave, you will. 你可以，你应该，若你勇敢，你会做到。
 
 There is always a better way. 总有更好的办法。
+
+Life is too short for us to wake up in the morning with regrets. 人生苦短，所以每天不要带着遗憾醒来。
