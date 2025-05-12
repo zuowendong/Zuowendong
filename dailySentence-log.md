@@ -677,3 +677,5 @@ You can, you should, and if you’re brave, you will. 你可以，你应该，�
 There is always a better way. 总有更好的办法。
 
 Life is too short for us to wake up in the morning with regrets. 人生苦短，所以每天不要带着遗憾醒来。
+
+Life is like riding a bicycle, you must keep moving. 生活像骑自行车，必须不断前进。

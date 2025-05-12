@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is May 11, 2025, let's keep going! As the saying goes. Life is too short for us to wake up in the morning with regrets.
+Today is May 12, 2025, let's keep going! As the saying goes. Life is like riding a bicycle, you must keep moving.
