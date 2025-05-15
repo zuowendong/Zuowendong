@@ -683,3 +683,5 @@ Life is like riding a bicycle, you must keep moving. 生活像骑自行车，必
 Destination is never a place, but a new perspective. 目的地不是地方，而是一种新视角。
 
 Some look for a beautiful place, others make it beautiful. 有人寻找美丽之地，有人创造美丽之地。
+
+How you deal with failure determines your success. 你如何处理失败决定你的成功。
