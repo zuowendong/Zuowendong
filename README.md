@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is May 15, 2025, let's keep going! As the saying goes. How you deal with failure determines your success.
+Today is May 16, 2025, let's keep going! As the saying goes. I’ve found 10,000 ways that won’t work.
