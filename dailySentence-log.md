@@ -687,3 +687,5 @@ Some look for a beautiful place, others make it beautiful. 有人寻找美丽之
 How you deal with failure determines your success. 你如何处理失败决定你的成功。
 
 I’ve found 10,000 ways that won’t work. 我找到了10,000种行不通的方法。
+
+Death is just a part of life, something we’re all destined to do. 死亡是生命的一部分，是我们注定要面对的一件事。
