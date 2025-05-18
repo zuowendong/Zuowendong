@@ -689,3 +689,5 @@ How you deal with failure determines your success. 你如何处理失败决定�
 I’ve found 10,000 ways that won’t work. 我找到了10,000种行不通的方法。
 
 Death is just a part of life, something we’re all destined to do. 死亡是生命的一部分，是我们注定要面对的一件事。
+
+There are only the pursued, the pursuing, the busy and the tired. 世界上只有被追求者和追求者，忙碌者和疲惫者。　　
