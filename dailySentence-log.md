@@ -691,3 +691,5 @@ I’ve found 10,000 ways that won’t work. 我找到了10,000种行不通的方
 Death is just a part of life, something we’re all destined to do. 死亡是生命的一部分，是我们注定要面对的一件事。
 
 There are only the pursued, the pursuing, the busy and the tired. 世界上只有被追求者和追求者，忙碌者和疲惫者。　　
+
+Life is expensive. You know, you have to be responsible. 生活很昂贵，你需要负责。
