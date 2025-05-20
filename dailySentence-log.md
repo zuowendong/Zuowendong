@@ -693,3 +693,5 @@ Death is just a part of life, something we’re all destined to do. 死亡是生
 There are only the pursued, the pursuing, the busy and the tired. 世界上只有被追求者和追求者，忙碌者和疲惫者。　　
 
 Life is expensive. You know, you have to be responsible. 生活很昂贵，你需要负责。
+
+You make a life out of what you have. 你用拥有的东西创造生活。
