@@ -695,3 +695,5 @@ There are only the pursued, the pursuing, the busy and the tired. 世界上只�
 Life is expensive. You know, you have to be responsible. 生活很昂贵，你需要负责。
 
 You make a life out of what you have. 你用拥有的东西创造生活。
+
+There are years that ask questions and years that answer. 有提问的年份，也有回答的年份。
