@@ -699,3 +699,5 @@ You make a life out of what you have. 你用拥有的东西创造生活。
 There are years that ask questions and years that answer. 有提问的年份，也有回答的年份。
 
 Decide what to do with the time given to us. 决定如何使用给予我们的时间。
+
+Each of us is more than our worst mistake. 我们每个人都超越了自己最糟的错误。
