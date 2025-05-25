@@ -703,3 +703,5 @@ Decide what to do with the time given to us. 决定如何使用给予我们的�
 Each of us is more than our worst mistake. 我们每个人都超越了自己最糟的错误。
 
 Look before you leap. 三思而后行。
+
+Rome was not built in a day. 罗马不是一天造成的。
