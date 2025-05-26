@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is May 25, 2025, let's keep going! As the saying goes. Rome was not built in a day.
+Today is May 26, 2025, let's keep going! As the saying goes. Wishing takes as much energy as planning does.

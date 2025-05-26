@@ -705,3 +705,5 @@ Each of us is more than our worst mistake. 我们每个人都超越了自己最�
 Look before you leap. 三思而后行。
 
 Rome was not built in a day. 罗马不是一天造成的。
+
+Wishing takes as much energy as planning does. 许愿和计划需要同样的能量。
