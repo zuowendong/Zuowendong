@@ -707,3 +707,5 @@ Look before you leap. 三思而后行。
 Rome was not built in a day. 罗马不是一天造成的。
 
 Wishing takes as much energy as planning does. 许愿和计划需要同样的能量。
+
+You cannot change what you are, only what you do. 你无法改变本质，只能改变行为。
