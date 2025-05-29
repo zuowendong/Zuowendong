@@ -711,3 +711,5 @@ Wishing takes as much energy as planning does. 许愿和计划需要同样的能
 You cannot change what you are, only what you do. 你无法改变本质，只能改变行为。
 
 A good mind is not enough; use it well. 好头脑不够，必须善加利用。
+
+Success begins the minute you decide to be successful. 成功的起点是你决定成功的那一刻。
