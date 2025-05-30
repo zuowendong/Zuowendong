@@ -713,3 +713,5 @@ You cannot change what you are, only what you do. 你无法改变本质，只能
 A good mind is not enough; use it well. 好头脑不够，必须善加利用。
 
 Success begins the minute you decide to be successful. 成功的起点是你决定成功的那一刻。
+
+No one is useless who lightens another’s burden. 减轻他人负担的人绝非无用。
