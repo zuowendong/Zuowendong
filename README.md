@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is May 30, 2025, let's keep going! As the saying goes. No one is useless who lightens another’s burden.
+Today is May 31, 2025, let's keep going! As the saying goes. Only you can control your future.
