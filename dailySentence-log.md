@@ -721,3 +721,5 @@ Only you can control your future. 只有你自己可以掌控你的未来。
 Children see magic because they look for it. 孩子之所以能看到魔法，是因为他们在寻找。
 
 Time cures all things. 时间可抚平一切创伤。
+
+Anything is possible with sunshine and a little pink. 只要有一缕阳光和一抹淡粉，万事皆有可能。
