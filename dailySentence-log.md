@@ -725,3 +725,5 @@ Time cures all things. 时间可抚平一切创伤。
 Anything is possible with sunshine and a little pink. 只要有一缕阳光和一抹淡粉，万事皆有可能。
 
 Cherish victories, use them, but don’t settle for them. 珍惜胜利，利用它们，但别满足。
+
+You are wired for struggle, but worthy of love. 你天生适合奋斗，但值得被爱。
