@@ -727,3 +727,5 @@ Anything is possible with sunshine and a little pink. 只要有一缕阳光和�
 Cherish victories, use them, but don’t settle for them. 珍惜胜利，利用它们，但别满足。
 
 You are wired for struggle, but worthy of love. 你天生适合奋斗，但值得被爱。
+
+Whatever the mind can conceive and believe, it can achieve. 心智能想到并相信的，就能实现。
