@@ -731,3 +731,5 @@ You are wired for struggle, but worthy of love. 你天生适合奋斗，但值�
 Whatever the mind can conceive and believe, it can achieve. 心智能想到并相信的，就能实现。
 
 Successful, faster runs my horse in vernal breeze;I've seen within one day all flowers on the trees. 春风得意马蹄疾，一日看尽长安花。
+
+It is never too late to fall in love. 爱永远不会嫌晚。
