@@ -733,3 +733,5 @@ Whatever the mind can conceive and believe, it can achieve. 心智能想到并�
 Successful, faster runs my horse in vernal breeze;I've seen within one day all flowers on the trees. 春风得意马蹄疾，一日看尽长安花。
 
 It is never too late to fall in love. 爱永远不会嫌晚。
+
+Life is about making an impact, not making an income. 生活是关于产生影响，而不是赚钱。

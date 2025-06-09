@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is June 8, 2025, let's keep going! As the saying goes. It is never too late to fall in love.
+Today is June 9, 2025, let's keep going! As the saying goes. Life is about making an impact, not making an income.
