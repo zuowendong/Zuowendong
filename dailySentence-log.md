@@ -735,3 +735,5 @@ Successful, faster runs my horse in vernal breeze;I've seen within one day all f
 It is never too late to fall in love. 爱永远不会嫌晚。
 
 Life is about making an impact, not making an income. 生活是关于产生影响，而不是赚钱。
+
+You get in life what you courageously ask for. 你有勇气要求，生活就会给予。
