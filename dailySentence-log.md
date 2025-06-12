@@ -739,3 +739,5 @@ Life is about making an impact, not making an income. 生活是关于产生影�
 You get in life what you courageously ask for. 你有勇气要求，生活就会给予。
 
 Strive not to be a success, but rather to be of value. 不要追求成功，而要追求有价值。
+
+Real wealth is when your kids hug you even when you have nothing. 真正的富有，是孩子在你一无所有时依然拥抱你。
