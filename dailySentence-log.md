@@ -743,3 +743,5 @@ Strive not to be a success, but rather to be of value. 不要追求成功，而�
 Real wealth is when your kids hug you even when you have nothing. 真正的富有，是孩子在你一无所有时依然拥抱你。
 
 You miss 100% of the shots you don’t take. 你不射门，就永远得不了分。
+
+No man is rich enough to buy back his own past. 没有人富有到可以赎回自己的过去。
