@@ -745,3 +745,5 @@ Real wealth is when your kids hug you even when you have nothing. 真正的富�
 You miss 100% of the shots you don’t take. 你不射门，就永远得不了分。
 
 No man is rich enough to buy back his own past. 没有人富有到可以赎回自己的过去。
+
+Follow your heart, but take your brain with you. 跟随自己的心，但要保持清醒的头脑。
