@@ -747,3 +747,5 @@ You miss 100% of the shots you don’t take. 你不射门，就永远得不了�
 No man is rich enough to buy back his own past. 没有人富有到可以赎回自己的过去。
 
 Follow your heart, but take your brain with you. 跟随自己的心，但要保持清醒的头脑。
+
+Life is more about giving than taking. 人生重在给予，而非索取。
