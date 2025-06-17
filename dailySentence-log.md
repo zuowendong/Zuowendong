@@ -749,3 +749,5 @@ No man is rich enough to buy back his own past. 没有人富有到可以赎回�
 Follow your heart, but take your brain with you. 跟随自己的心，但要保持清醒的头脑。
 
 Life is more about giving than taking. 人生重在给予，而非索取。
+
+Education costs money. But then so does ignorance. 教育需要花钱，但无知也需要。
