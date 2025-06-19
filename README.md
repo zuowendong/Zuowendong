@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is June 18, 2025, let's keep going! As the saying goes. When I let go of what I am, I become what I might be.
+Today is June 19, 2025, let's keep going! As the saying goes. Happiness is not something readymade. It comes from your own actions.

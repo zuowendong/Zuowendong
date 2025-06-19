@@ -753,3 +753,5 @@ Life is more about giving than taking. 人生重在给予，而非索取。
 Education costs money. But then so does ignorance. 教育需要花钱，但无知也需要。
 
 When I let go of what I am, I become what I might be. 我放下现在的自己，我才能成为可能的自己。
+
+Happiness is not something readymade. It comes from your own actions. 幸福不是现成的。它来自你的行动。
