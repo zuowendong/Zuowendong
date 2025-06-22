@@ -759,3 +759,5 @@ Happiness is not something readymade. It comes from your own actions. 幸福不�
 Too many of us are not living our dreams because we are living our fears. 我们太多人没有实现梦想，因为我们活在恐惧中。
 
 Shall I compare you to a summer's day? 我能否将你比作夏天？——莎士比亚
+
+Life gets exciting when we face and beat challenges. 迎接并战胜挑战，让生活充满意义。
