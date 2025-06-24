@@ -763,3 +763,5 @@ Shall I compare you to a summer's day? 我能否将你比作夏天？——莎�
 Life gets exciting when we face and beat challenges. 迎接并战胜挑战，让生活充满意义。
 
 Same actions bring same results. 重复旧行为，只会得到旧结果。
+
+Sometimes not getting what you want is good luck. 得不到想要的，有时反而是幸运。
