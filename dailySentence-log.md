@@ -765,3 +765,5 @@ Life gets exciting when we face and beat challenges. 迎接并战胜挑战，让
 Same actions bring same results. 重复旧行为，只会得到旧结果。
 
 Sometimes not getting what you want is good luck. 得不到想要的，有时反而是幸运。
+
+The only way to avoid criticism is to do nothing at all. 避免批评的唯一方法就是什么都不做。
