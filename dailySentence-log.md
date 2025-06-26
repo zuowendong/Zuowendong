@@ -767,3 +767,5 @@ Same actions bring same results. 重复旧行为，只会得到旧结果。
 Sometimes not getting what you want is good luck. 得不到想要的，有时反而是幸运。
 
 The only way to avoid criticism is to do nothing at all. 避免批评的唯一方法就是什么都不做。
+
+I didn’t fail the test. I just found 100 ways to do it wrong. 我没有考试失败。我只是找到了100种做错的方法。
