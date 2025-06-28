@@ -771,3 +771,5 @@ The only way to avoid criticism is to do nothing at all. 避免批评的唯一�
 I didn’t fail the test. I just found 100 ways to do it wrong. 我没有考试失败。我只是找到了100种做错的方法。
 
 Great people do things before they are ready. 伟大的人在准备好前就行动。
+
+Live a good life and meet slowly. 好好生活，慢慢相遇。
