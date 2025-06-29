@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is June 28, 2025, let's keep going! As the saying goes. Live a good life and meet slowly.
+Today is June 29, 2025, let's keep going! As the saying goes. Cross the stars over the moon to meet your better self.

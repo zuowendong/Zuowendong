@@ -773,3 +773,5 @@ I didn’t fail the test. I just found 100 ways to do it wrong. 我没有考试�
 Great people do things before they are ready. 伟大的人在准备好前就行动。
 
 Live a good life and meet slowly. 好好生活，慢慢相遇。
+
+Cross the stars over the moon to meet your better self. 跨过星河迈过月亮去迎接更好的自己。
