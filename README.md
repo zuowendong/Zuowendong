@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is June 30, 2025, let's keep going! As the saying goes. If it happens, it happens.
+Today is July 1, 2025, let's keep going! As the saying goes. Focus on the present, not the past or future.
