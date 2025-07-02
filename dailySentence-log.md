@@ -779,3 +779,5 @@ Cross the stars over the moon to meet your better self. 跨过星河迈过月亮
 If it happens, it happens. 既来之，则安之。
 
 Focus on the present, not the past or future. 不念过往，不畏将来，专注当下。
+
+Move forward to keep life balanced. 人生如骑行，前进即平衡。
