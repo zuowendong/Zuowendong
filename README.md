@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is July 4, 2025, let's keep going! As the saying goes. Silence is the most perfect expression of scorn.
+Today is July 5, 2025, let's keep going! As the saying goes. Life is the flower for which love is the honey.

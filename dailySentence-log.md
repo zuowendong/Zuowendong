@@ -785,3 +785,5 @@ Move forward to keep life balanced. 人生如骑行，前进即平衡。
 The only true wisdom is in knowing you know nothing. 唯一真正的智慧，是知道自己一无所知。
 
 Silence is the most perfect expression of scorn. 沉默是轻蔑最完美的表达。
+
+Life is the flower for which love is the honey. 生命如花，爱情是蜜。
