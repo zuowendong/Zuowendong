@@ -787,3 +787,5 @@ The only true wisdom is in knowing you know nothing. 唯一真正的智慧，是
 Silence is the most perfect expression of scorn. 沉默是轻蔑最完美的表达。
 
 Life is the flower for which love is the honey. 生命如花，爱情是蜜。
+
+Every man is a poet when he is in love. 每个恋爱中的人都是诗人。
