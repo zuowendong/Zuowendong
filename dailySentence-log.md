@@ -789,3 +789,5 @@ Silence is the most perfect expression of scorn. 沉默是轻蔑最完美的表�
 Life is the flower for which love is the honey. 生命如花，爱情是蜜。
 
 Every man is a poet when he is in love. 每个恋爱中的人都是诗人。
+
+A boy's best friend is his mother. 男孩最好的朋友是他的母亲。
