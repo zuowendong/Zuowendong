@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is July 7, 2025, let's keep going! As the saying goes. A boy's best friend is his mother.
+Today is July 8, 2025, let's keep going! As the saying goes. All advantages aren't in running quickly, but in getting a head start.​

@@ -791,3 +791,5 @@ Life is the flower for which love is the honey. 生命如花，爱情是蜜。
 Every man is a poet when he is in love. 每个恋爱中的人都是诗人。
 
 A boy's best friend is his mother. 男孩最好的朋友是他的母亲。
+
+All advantages aren't in running quickly, but in getting a head start.​ 优势不在于跑得快，而在于起身早。
