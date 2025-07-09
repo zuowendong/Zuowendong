@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is July 8, 2025, let's keep going! As the saying goes. All advantages aren't in running quickly, but in getting a head start.​
+Today is July 9, 2025, let's keep going! As the saying goes. Don't focus on why it can't work. Trust the reason why it can.​
