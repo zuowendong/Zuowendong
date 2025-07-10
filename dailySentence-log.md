@@ -795,3 +795,5 @@ A boy's best friend is his mother. 男孩最好的朋友是他的母亲。
 All advantages aren't in running quickly, but in getting a head start.​ 优势不在于跑得快，而在于起身早。
 
 Don't focus on why it can't work. Trust the reason why it can.​ 忘掉所有"不可能"的借口，坚持那一个"可能"的理由。
+
+Face the sunshine, leave shadows behind. 面向阳光，阴影自褪。
