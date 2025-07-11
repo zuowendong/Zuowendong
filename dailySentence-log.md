@@ -797,3 +797,5 @@ All advantages aren't in running quickly, but in getting a head start.​ 优势
 Don't focus on why it can't work. Trust the reason why it can.​ 忘掉所有"不可能"的借口，坚持那一个"可能"的理由。
 
 Face the sunshine, leave shadows behind. 面向阳光，阴影自褪。
+
+You're someone's whole world. 一人即某人的全世界。
