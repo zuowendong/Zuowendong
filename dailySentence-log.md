@@ -799,3 +799,5 @@ Don't focus on why it can't work. Trust the reason why it can.​ 忘掉所有"�
 Face the sunshine, leave shadows behind. 面向阳光，阴影自褪。
 
 You're someone's whole world. 一人即某人的全世界。
+
+Talent without working hard is nothing. 没有努力，天份不代表什么。
