@@ -801,3 +801,5 @@ Face the sunshine, leave shadows behind. 面向阳光，阴影自褪。
 You're someone's whole world. 一人即某人的全世界。
 
 Talent without working hard is nothing. 没有努力，天份不代表什么。
+
+May the Force be with you. 愿原力与你同在。——《星球大战》
