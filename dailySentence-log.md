@@ -805,3 +805,5 @@ Talent without working hard is nothing. 没有努力，天份不代表什么。
 May the Force be with you. 愿原力与你同在。——《星球大战》
 
 Loving helps grow; liking just takes. 爱助生长，喜欢只懂索取。
+
+Time heals hearts and wounds. 时间愈心伤，亦平身创。
