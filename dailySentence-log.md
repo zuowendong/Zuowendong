@@ -807,3 +807,5 @@ May the Force be with you. 愿原力与你同在。——《星球大战》
 Loving helps grow; liking just takes. 爱助生长，喜欢只懂索取。
 
 Time heals hearts and wounds. 时间愈心伤，亦平身创。
+
+Success is built on failed years. 成功皆筑于经年败绩。
