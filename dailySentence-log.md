@@ -809,3 +809,5 @@ Loving helps grow; liking just takes. 爱助生长，喜欢只懂索取。
 Time heals hearts and wounds. 时间愈心伤，亦平身创。
 
 Success is built on failed years. 成功皆筑于经年败绩。
+
+Judge not from appearances. 人不可貌相，海不可斗量。
