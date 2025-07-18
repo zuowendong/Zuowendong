@@ -811,3 +811,5 @@ Time heals hearts and wounds. 时间愈心伤，亦平身创。
 Success is built on failed years. 成功皆筑于经年败绩。
 
 Judge not from appearances. 人不可貌相，海不可斗量。
+
+Custom makes all things easy. 习惯成自然。
