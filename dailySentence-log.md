@@ -813,3 +813,5 @@ Success is built on failed years. 成功皆筑于经年败绩。
 Judge not from appearances. 人不可貌相，海不可斗量。
 
 Custom makes all things easy. 习惯成自然。
+
+Time and tide wait for no man.  时光如逝水，岁月不待人。
