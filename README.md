@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is July 20, 2025, let's keep going! As the saying goes. Mama says, 'Stupid is as stupid does.'-Forrest Gump, 1994
+Today is July 21, 2025, let's keep going! As the saying goes. Strength knows conflict; weakness is born vanquished.
