@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is July 21, 2025, let's keep going! As the saying goes. Strength knows conflict; weakness is born vanquished.
+Today is July 22, 2025, let's keep going! As the saying goes. The secret of success is constancy to purpose.

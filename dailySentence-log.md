@@ -819,3 +819,5 @@ Time and tide wait for no man.  时光如逝水，岁月不待人。
 Mama says, 'Stupid is as stupid does.'-Forrest Gump, 1994 妈妈说，‘做傻事的才是傻瓜。'——《阿甘正传，1994》
 
 Strength knows conflict; weakness is born vanquished. 强者才懂斗争，弱者生来被征服。
+
+The secret of success is constancy to purpose. 成功的秘诀在于忠于目标。
