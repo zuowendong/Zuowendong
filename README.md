@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is July 22, 2025, let's keep going! As the saying goes. The secret of success is constancy to purpose.
+Today is July 23, 2025, let's keep going! As the saying goes. There are no shortcuts to any place worth going.

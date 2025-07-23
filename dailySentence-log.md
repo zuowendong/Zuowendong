@@ -821,3 +821,5 @@ Mama says, 'Stupid is as stupid does.'-Forrest Gump, 1994 妈妈说，‘做傻�
 Strength knows conflict; weakness is born vanquished. 强者才懂斗争，弱者生来被征服。
 
 The secret of success is constancy to purpose. 成功的秘诀在于忠于目标。
+
+There are no shortcuts to any place worth going. 通往值得去的地方，从无捷径。
