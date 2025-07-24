@@ -823,3 +823,5 @@ Strength knows conflict; weakness is born vanquished. 强者才懂斗争，弱�
 The secret of success is constancy to purpose. 成功的秘诀在于忠于目标。
 
 There are no shortcuts to any place worth going. 通往值得去的地方，从无捷径。
+
+Perfection is not attainable, but chasing it leads to excellence. 完美虽不可达，追求它却能成就卓越。

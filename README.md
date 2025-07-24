@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is July 23, 2025, let's keep going! As the saying goes. There are no shortcuts to any place worth going.
+Today is July 24, 2025, let's keep going! As the saying goes. Perfection is not attainable, but chasing it leads to excellence.
