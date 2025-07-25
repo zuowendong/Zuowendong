@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is July 24, 2025, let's keep going! As the saying goes. Perfection is not attainable, but chasing it leads to excellence.
+Today is July 25, 2025, let's keep going! As the saying goes. Pains make stronger, tears make braver,and heartbreaks make wiser.
