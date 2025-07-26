@@ -827,3 +827,5 @@ There are no shortcuts to any place worth going. 通往值得去的地方，从�
 Perfection is not attainable, but chasing it leads to excellence. 完美虽不可达，追求它却能成就卓越。
 
 Pains make stronger, tears make braver,and heartbreaks make wiser. 伤痛铸坚强，眼泪淬勇敢，心碎炼智慧。
+
+I'm the king of the world! 我是世界之王！
