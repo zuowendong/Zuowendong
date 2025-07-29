@@ -833,3 +833,5 @@ I'm the king of the world! 我是世界之王！
 I feel the need — the need for speed! 我感觉到一种需要——速度的需要!
 
 It's my best friend. Always happy. No questions. 它是我最好的朋友，总是很快乐，从不问问题。
+
+Through the darkness, we can see the light. 捱过黑暗，才能看见光明。
