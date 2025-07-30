@@ -835,3 +835,5 @@ I feel the need — the need for speed! 我感觉到一种需要——速度的�
 It's my best friend. Always happy. No questions. 它是我最好的朋友，总是很快乐，从不问问题。
 
 Through the darkness, we can see the light. 捱过黑暗，才能看见光明。
+
+Strive for tomorrow, not regret yesterday. 奋斗未来，莫悔往昔。
