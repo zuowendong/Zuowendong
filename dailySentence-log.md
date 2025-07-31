@@ -837,3 +837,5 @@ It's my best friend. Always happy. No questions. 它是我最好的朋友，总�
 Through the darkness, we can see the light. 捱过黑暗，才能看见光明。
 
 Strive for tomorrow, not regret yesterday. 奋斗未来，莫悔往昔。
+
+You are unique; nothing can replace you. 你举世无双，无人可以替代。
