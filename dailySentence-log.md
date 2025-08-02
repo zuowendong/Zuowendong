@@ -841,3 +841,5 @@ Strive for tomorrow, not regret yesterday. 奋斗未来，莫悔往昔。
 You are unique; nothing can replace you. 你举世无双，无人可以替代。
 
 Your silent march through storms writes peace upon our land. 你穿越风暴的无声行进，在大地写下和平。
+
+You had me at hello; it was love at first sight. — Friends 你一开口我就沦陷了；那是爱情的初见。—《老友记》
