@@ -847,3 +847,5 @@ You had me at hello; it was love at first sight. — Friends 你一开口我就�
 The truth is out there, and it's waiting. — The X-Files  真相在外面，它在等待。 —《X档案》
 
 A goal without a plan is just a wish. — Antoine de Saint-Exupéry 没有计划的目标只是一个愿望。 — 安托万·德·圣-埃克苏佩里
+
+Nurture passes nature. 教养胜过天性。

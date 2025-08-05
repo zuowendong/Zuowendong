@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is August 4, 2025, let's keep going! As the saying goes. A goal without a plan is just a wish. — Antoine de Saint-Exupéry
+Today is August 5, 2025, let's keep going! As the saying goes. Nurture passes nature.
