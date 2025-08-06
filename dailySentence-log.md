@@ -849,3 +849,5 @@ The truth is out there, and it's waiting. — The X-Files  真相在外面，它
 A goal without a plan is just a wish. — Antoine de Saint-Exupéry 没有计划的目标只是一个愿望。 — 安托万·德·圣-埃克苏佩里
 
 Nurture passes nature. 教养胜过天性。
+
+One swallow does not make a summer. 一燕不成夏（一花独放不是春）。
