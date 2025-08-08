@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is August 7, 2025, let's keep going! As the saying goes. Courage is not the absence of fear, but the will to guard what we cherish.
+Today is August 8, 2025, let's keep going! As the saying goes. Poverty is stranger to industry.
