@@ -857,3 +857,5 @@ Courage is not the absence of fear, but the will to guard what we cherish. 勇�
 Poverty is stranger to industry. 勤劳之人不受穷。
 
 Everything has beauty, but not everyone sees it. — Confucius 万物皆有美，只是并非所有人都能看到。 — 孔子
+
+ Love is the only reality.— James M. Barrie, Peter Pan 爱是唯一的现实。— 詹姆斯·马修·巴里，《彼得潘》
