@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is August 10, 2025, let's keep going! As the saying goes.  Love is the only reality.— James M. Barrie, Peter Pan
+Today is August 11, 2025, let's keep going! As the saying goes. Hope is a good thing, maybe the best of things.

@@ -859,3 +859,5 @@ Poverty is stranger to industry. 勤劳之人不受穷。
 Everything has beauty, but not everyone sees it. — Confucius 万物皆有美，只是并非所有人都能看到。 — 孔子
 
  Love is the only reality.— James M. Barrie, Peter Pan 爱是唯一的现实。— 詹姆斯·马修·巴里，《彼得潘》
+
+Hope is a good thing, maybe the best of things. 希望是美好的，也许是人间至善。
