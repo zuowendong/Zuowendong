@@ -863,3 +863,5 @@ Everything has beauty, but not everyone sees it. — Confucius 万物皆有美�
 Hope is a good thing, maybe the best of things. 希望是美好的，也许是人间至善。
 
 The heart is seen in wine. 酒后吐真言。
+
+The worse luck now, the better another time. 风水轮流转。

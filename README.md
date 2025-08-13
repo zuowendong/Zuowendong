@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is August 12, 2025, let's keep going! As the saying goes. The heart is seen in wine.
+Today is August 13, 2025, let's keep going! As the saying goes. The worse luck now, the better another time.
