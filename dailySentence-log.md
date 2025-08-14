@@ -865,3 +865,5 @@ Hope is a good thing, maybe the best of things. 希望是美好的，也许是�
 The heart is seen in wine. 酒后吐真言。
 
 The worse luck now, the better another time. 风水轮流转。
+
+Use legs and have legs. 经常用腿，健步如飞。
