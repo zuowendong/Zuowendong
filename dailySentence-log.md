@@ -867,3 +867,5 @@ The heart is seen in wine. 酒后吐真言。
 The worse luck now, the better another time. 风水轮流转。
 
 Use legs and have legs. 经常用腿，健步如飞。
+
+Virtue never grows old. 美德常青。
