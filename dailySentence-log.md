@@ -869,3 +869,5 @@ The worse luck now, the better another time. 风水轮流转。
 Use legs and have legs. 经常用腿，健步如飞。
 
 Virtue never grows old. 美德常青。
+
+To love and be loved is to feel the sun from both sides. — David Viscott 爱与被爱是感受到两边的阳光。 — 大卫·维斯科特
