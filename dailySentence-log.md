@@ -873,3 +873,5 @@ Virtue never grows old. 美德常青。
 To love and be loved is to feel the sun from both sides. — David Viscott 爱与被爱是感受到两边的阳光。 — 大卫·维斯科特
 
 They call it a Royale with cheese.— Pulp Fiction  他们称之为奶酪皇堡。—《低俗小说》
+
+Change the world by being yourself. — Amy Poehler 做自己，改变世界。 — 艾米·波勒
