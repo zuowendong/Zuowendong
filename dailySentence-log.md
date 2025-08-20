@@ -877,3 +877,5 @@ They call it a Royale with cheese.— Pulp Fiction  他们称之为奶酪皇堡�
 Change the world by being yourself. — Amy Poehler 做自己，改变世界。 — 艾米·波勒
 
 Students outshine teachers, like blue beyond indigo.​ 学生超过老师，后人胜过前人。
+
+Wasting time is robbing oneself. 浪费时间就是掠夺自己。
