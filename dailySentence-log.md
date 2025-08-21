@@ -879,3 +879,5 @@ Change the world by being yourself. — Amy Poehler 做自己，改变世界。 
 Students outshine teachers, like blue beyond indigo.​ 学生超过老师，后人胜过前人。
 
 Wasting time is robbing oneself. 浪费时间就是掠夺自己。
+
+The rough road often leads to the top. 艰难的道路经常通往高处。
