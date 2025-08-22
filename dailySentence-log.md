@@ -881,3 +881,5 @@ Students outshine teachers, like blue beyond indigo.​ 学生超过老师，后
 Wasting time is robbing oneself. 浪费时间就是掠夺自己。
 
 The rough road often leads to the top. 艰难的道路经常通往高处。
+
+I’m talking about a lifetime. One second less makes it less! 说的是一辈子！差一年，一个月，一天，一个时辰...都不算一辈子！
