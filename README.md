@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is August 23, 2025, let's keep going! As the saying goes. I am the one who knocks, not you.— Breaking Bad 
+Today is August 24, 2025, let's keep going! As the saying goes. Winter is coming, and we must be prepared.— Game of Thrones

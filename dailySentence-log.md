@@ -885,3 +885,5 @@ The rough road often leads to the top. 艰难的道路经常通往高处。
 I’m talking about a lifetime. One second less makes it less! 说的是一辈子！差一年，一个月，一天，一个时辰...都不算一辈子！
 
 I am the one who knocks, not you.— Breaking Bad  我才是那个敲门的人，不是你。 —《绝命毒师》
+
+Winter is coming, and we must be prepared.— Game of Thrones 寒冬将至，我们必须做好准备。—《权力的游戏》
