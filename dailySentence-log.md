@@ -889,3 +889,5 @@ I am the one who knocks, not you.— Breaking Bad  我才是那个敲门的人�
 Winter is coming, and we must be prepared.— Game of Thrones 寒冬将至，我们必须做好准备。—《权力的游戏》
 
 I want to believe in something greater than myself.— The X-Files 我想相信比我自己更伟大的东西。 —《X档案》
+
+​​Heights scaled demand mastery of descent.​ 攀高者，必精于俯身。
