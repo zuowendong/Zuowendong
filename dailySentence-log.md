@@ -891,3 +891,5 @@ Winter is coming, and we must be prepared.— Game of Thrones 寒冬将至，我
 I want to believe in something greater than myself.— The X-Files 我想相信比我自己更伟大的东西。 —《X档案》
 
 ​​Heights scaled demand mastery of descent.​ 攀高者，必精于俯身。
+
+Today is important. If it matters, do it today! 活在当下，重要的事今天就做！

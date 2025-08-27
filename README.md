@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is August 26, 2025, let's keep going! As the saying goes. ​​Heights scaled demand mastery of descent.​
+Today is August 27, 2025, let's keep going! As the saying goes. Today is important. If it matters, do it today!
