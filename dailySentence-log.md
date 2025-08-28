@@ -893,3 +893,5 @@ I want to believe in something greater than myself.— The X-Files 我想相信�
 ​​Heights scaled demand mastery of descent.​ 攀高者，必精于俯身。
 
 Today is important. If it matters, do it today! 活在当下，重要的事今天就做！
+
+Behind the guise lies conviction, impervious to mortal arms. 假面之下藏信念，凡兵利器不可侵。
