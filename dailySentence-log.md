@@ -895,3 +895,5 @@ I want to believe in something greater than myself.— The X-Files 我想相信�
 Today is important. If it matters, do it today! 活在当下，重要的事今天就做！
 
 Behind the guise lies conviction, impervious to mortal arms. 假面之下藏信念，凡兵利器不可侵。
+
+Meet me where the magpies bridge the sky, just once a year yet forever. 鹊桥相会，一年一度，却是一生一世。
