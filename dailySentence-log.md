@@ -901,3 +901,5 @@ Meet me where the magpies bridge the sky, just once a year yet forever. 鹊桥�
 The only limit to our realization of tomorrow is our doubts today. — The West Wing 对明天实现的唯一限制是我们今天的怀疑。 —《白宫风云》
 
 Turn your wounds into wisdom. — Oprah Winfrey 把伤口变成智慧。 — 奥普拉·温弗瑞
+
+Books are passports you never need to renew. 书籍是永不过期的护照。
