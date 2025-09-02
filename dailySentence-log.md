@@ -903,3 +903,5 @@ The only limit to our realization of tomorrow is our doubts today. — The West 
 Turn your wounds into wisdom. — Oprah Winfrey 把伤口变成智慧。 — 奥普拉·温弗瑞
 
 Books are passports you never need to renew. 书籍是永不过期的护照。
+
+Hope is the quiet voice that says, try one more time. 希望是那个轻声说“再试一次”的声音。

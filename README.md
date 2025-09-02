@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is September 1, 2025, let's keep going! As the saying goes. Books are passports you never need to renew.
+Today is September 2, 2025, let's keep going! As the saying goes. Hope is the quiet voice that says, try one more time.
