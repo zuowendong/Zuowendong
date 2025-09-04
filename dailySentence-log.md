@@ -907,3 +907,5 @@ Books are passports you never need to renew. 书籍是永不过期的护照。
 Hope is the quiet voice that says, try one more time. 希望是那个轻声说“再试一次”的声音。
 
 On the parade ground, every step echoes a nation's heartbeat. 阅兵场上，每一步都回响着国家的心跳。
+
+Compliment yourself daily. 每天夸自己一句。

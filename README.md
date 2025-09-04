@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is September 3, 2025, let's keep going! As the saying goes. On the parade ground, every step echoes a nation's heartbeat.
+Today is September 4, 2025, let's keep going! As the saying goes. Compliment yourself daily.
