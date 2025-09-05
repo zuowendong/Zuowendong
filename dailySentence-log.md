@@ -909,3 +909,5 @@ Hope is the quiet voice that says, try one more time. 希望是那个轻声说�
 On the parade ground, every step echoes a nation's heartbeat. 阅兵场上，每一步都回响着国家的心跳。
 
 Compliment yourself daily. 每天夸自己一句。
+
+In the age of AI, curiosity is still our superpower.   在AI时代，好奇心仍是我们的超能力。

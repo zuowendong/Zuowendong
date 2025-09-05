@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is September 4, 2025, let's keep going! As the saying goes. Compliment yourself daily.
+Today is September 5, 2025, let's keep going! As the saying goes. In the age of AI, curiosity is still our superpower.  
