@@ -913,3 +913,5 @@ Compliment yourself daily. 每天夸自己一句。
 In the age of AI, curiosity is still our superpower.   在AI时代，好奇心仍是我们的超能力。
 
 Life is a beautiful struggle. 生活是一场美丽的挣扎。
+
+Success is not how high you have climbed, but how you make a positive difference. 成功不是你攀登的高度，而是你做出的积极差异。
