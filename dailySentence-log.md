@@ -919,3 +919,5 @@ Success is not how high you have climbed, but how you make a positive difference
 Patience is quiet strength. 耐心是无声的力量。
 
 In the middle of adversity lies opportunity. 困难的中心蕴藏着机遇
+
+A teacher plants seeds of curiosity that bloom forever. 教师播下的好奇之种，会永远盛开。
