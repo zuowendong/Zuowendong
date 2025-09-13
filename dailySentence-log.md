@@ -925,3 +925,5 @@ A teacher plants seeds of curiosity that bloom forever. 教师播下的好奇之
 Prejudice is the child of ignorance. 偏见是无知的产物。
 
 Stress is a compass, not a cage. 压力是罗盘，而非牢笼。
+
+I could have been a contender. 我本可以成为强者。
