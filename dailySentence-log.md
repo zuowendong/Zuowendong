@@ -929,3 +929,5 @@ Stress is a compass, not a cage. 压力是罗盘，而非牢笼。
 I could have been a contender. 我本可以成为强者。
 
 What lies behind us and what lies before us are tiny matters. 我们背后和面前的事情都是小事。
+
+爱总会赢。   Love wins always.  
