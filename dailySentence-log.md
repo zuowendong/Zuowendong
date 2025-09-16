@@ -931,3 +931,5 @@ I could have been a contender. 我本可以成为强者。
 What lies behind us and what lies before us are tiny matters. 我们背后和面前的事情都是小事。
 
 爱总会赢。   Love wins always.  
+
+Persist through every storm you face. 面对任何风暴都要坚持。
