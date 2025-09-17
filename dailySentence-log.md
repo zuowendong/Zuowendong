@@ -933,3 +933,5 @@ What lies behind us and what lies before us are tiny matters. 我们背后和面
 爱总会赢。   Love wins always.  
 
 Persist through every storm you face. 面对任何风暴都要坚持。
+
+Choose joy every single new day. 每天重新选择快乐。
