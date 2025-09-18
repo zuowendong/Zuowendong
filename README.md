@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is September 17, 2025, let's keep going! As the saying goes. Choose joy every single new day.
+Today is September 18, 2025, let's keep going! As the saying goes. Time answers all questions.  

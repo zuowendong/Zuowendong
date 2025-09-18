@@ -935,3 +935,5 @@ What lies behind us and what lies before us are tiny matters. 我们背后和面
 Persist through every storm you face. 面对任何风暴都要坚持。
 
 Choose joy every single new day. 每天重新选择快乐。
+
+Time answers all questions.   时间会回答所有问题。
