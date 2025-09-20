@@ -939,3 +939,5 @@ Choose joy every single new day. 每天重新选择快乐。
 Time answers all questions.   时间会回答所有问题。
 
 Life is what happens when you're busy making other plans. 生活是在你忙着制定其他计划时发生的。
+
+Not all those who wander are lost. 不是所有徘徊的人都迷失了。
