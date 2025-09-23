@@ -945,3 +945,5 @@ Not all those who wander are lost. 不是所有徘徊的人都迷失了。
 You must be the change you wish to see in the world. 你必须成为你希望在世界上看到的改变。
 
 All animals are equal, but some are more equal. 所有动物生而平等，但有些更平等。
+
+Remembering keeps hearts together.   思念让心不分离。 
