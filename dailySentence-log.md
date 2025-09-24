@@ -947,3 +947,5 @@ You must be the change you wish to see in the world. 你必须成为你希望在
 All animals are equal, but some are more equal. 所有动物生而平等，但有些更平等。
 
 Remembering keeps hearts together.   思念让心不分离。 
+
+Own your narrative daily. 日日为自己执笔。
