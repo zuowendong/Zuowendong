@@ -949,3 +949,5 @@ All animals are equal, but some are more equal. 所有动物生而平等，但�
 Remembering keeps hearts together.   思念让心不分离。 
 
 Own your narrative daily. 日日为自己执笔。
+
+True friends reflect your soul. 真正的朋友映照你的灵魂。
