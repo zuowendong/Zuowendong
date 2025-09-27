@@ -953,3 +953,5 @@ Own your narrative daily. 日日为自己执笔。
 True friends reflect your soul. 真正的朋友映照你的灵魂。
 
 Seeds grow in quiet soil.   种子在寂静的泥土里生长。  
+
+There's no crying in baseball! 棒球里不许哭泣！
