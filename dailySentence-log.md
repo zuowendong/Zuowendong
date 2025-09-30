@@ -959,3 +959,5 @@ There's no crying in baseball! 棒球里不许哭泣！
 Failure is simply the opportunity to begin again, this time more intelligently. 失败只是重新开始的机会，这次更加聪明。
 
 It's kind of a funny story. 这有点像个有趣的故事。
+
+Do small things greatly.   把小事做到伟大。  
