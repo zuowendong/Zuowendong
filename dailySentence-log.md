@@ -961,3 +961,5 @@ Failure is simply the opportunity to begin again, this time more intelligently. 
 It's kind of a funny story. 这有点像个有趣的故事。
 
 Do small things greatly.   把小事做到伟大。  
+
+Red flags wave, hearts unite.  红旗飘扬，万众一心。
