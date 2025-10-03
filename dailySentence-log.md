@@ -965,3 +965,5 @@ Do small things greatly.   把小事做到伟大。
 Red flags wave, hearts unite.  红旗飘扬，万众一心。
 
 Firmly hold mission in mind. 我们牢记使命。
+
+A hug is worth a thousand words. 一个拥抱胜过千言万语。
