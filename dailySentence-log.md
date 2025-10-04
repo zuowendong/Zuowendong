@@ -967,3 +967,5 @@ Red flags wave, hearts unite.  红旗飘扬，万众一心。
 Firmly hold mission in mind. 我们牢记使命。
 
 A hug is worth a thousand words. 一个拥抱胜过千言万语。
+
+Success starts with self-discipline.  成功始于自律。
