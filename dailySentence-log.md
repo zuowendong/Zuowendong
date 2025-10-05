@@ -969,3 +969,5 @@ Firmly hold mission in mind. 我们牢记使命。
 A hug is worth a thousand words. 一个拥抱胜过千言万语。
 
 Success starts with self-discipline.  成功始于自律。
+
+Respect is earned, not given. 尊重是赢得的，不是给予的。
