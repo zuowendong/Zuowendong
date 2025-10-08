@@ -975,3 +975,5 @@ Respect is earned, not given. 尊重是赢得的，不是给予的。
 The full moon unites hearts across miles. 满月让千里心相连。
 
 Love grows when it is shared.  爱被分享时才会成长。
+
+Autumn kisses the earth with cold dew.  秋以寒露亲吻大地。
