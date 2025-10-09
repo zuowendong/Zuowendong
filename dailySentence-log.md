@@ -977,3 +977,5 @@ The full moon unites hearts across miles. 满月让千里心相连。
 Love grows when it is shared.  爱被分享时才会成长。
 
 Autumn kisses the earth with cold dew.  秋以寒露亲吻大地。
+
+Perspective changes everything. 视角改变一切。
