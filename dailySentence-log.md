@@ -979,3 +979,5 @@ Love grows when it is shared.  爱被分享时才会成长。
 Autumn kisses the earth with cold dew.  秋以寒露亲吻大地。
 
 Perspective changes everything. 视角改变一切。
+
+Change begins from within. 改变始于内在。
