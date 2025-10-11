@@ -981,3 +981,5 @@ Autumn kisses the earth with cold dew.  秋以寒露亲吻大地。
 Perspective changes everything. 视角改变一切。
 
 Change begins from within. 改变始于内在。
+
+Cherish the moments with family, for they are fleeting. 珍惜与家人在一起的时光，因为它们稍纵即逝。
