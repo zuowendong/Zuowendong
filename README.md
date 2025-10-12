@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is October 11, 2025, let's keep going! As the saying goes. Cherish the moments with family, for they are fleeting.
+Today is October 12, 2025, let's keep going! As the saying goes. Freedom is never given; it is won.
