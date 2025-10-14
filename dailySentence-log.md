@@ -987,3 +987,5 @@ Cherish the moments with family, for they are fleeting. 珍惜与家人在一起
 Freedom is never given; it is won. 自由从未被赋予；它是赢得的。
 
 Small habits create big changes.  小习惯带来大改变。
+
+Learning never exhausts the mind. 学习永远不会使头脑疲惫。
