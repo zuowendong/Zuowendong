@@ -989,3 +989,5 @@ Freedom is never given; it is won. 自由从未被赋予；它是赢得的。
 Small habits create big changes.  小习惯带来大改变。
 
 Learning never exhausts the mind. 学习永远不会使头脑疲惫。
+
+Think before you share.  分享前先思考。
