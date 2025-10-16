@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is October 15, 2025, let's keep going! As the saying goes. Think before you share. 
+Today is October 16, 2025, let's keep going! As the saying goes. Small steps still move you forward. 

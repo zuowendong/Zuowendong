@@ -991,3 +991,5 @@ Small habits create big changes.  小习惯带来大改变。
 Learning never exhausts the mind. 学习永远不会使头脑疲惫。
 
 Think before you share.  分享前先思考。
+
+Small steps still move you forward.  小步也是向前。
