@@ -993,3 +993,5 @@ Learning never exhausts the mind. 学习永远不会使头脑疲惫。
 Think before you share.  分享前先思考。
 
 Small steps still move you forward.  小步也是向前。
+
+Make today count for tomorrow.  让今天为明天增值。
