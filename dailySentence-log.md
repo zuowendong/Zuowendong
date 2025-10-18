@@ -995,3 +995,5 @@ Think before you share.  分享前先思考。
 Small steps still move you forward.  小步也是向前。
 
 Make today count for tomorrow.  让今天为明天增值。
+
+A person who never made a mistake never tried anything new. 从未犯错的人从未尝试过任何新事物。
