@@ -1001,3 +1001,5 @@ A person who never made a mistake never tried anything new. 从未犯错的人�
 In every hardship lies opportunity. 每个困难中都蕴藏着机会。
 
 Biodiversity is Earth's safety net.  生物多样性是地球的安全网。
+
+A tidy space clears the mind.  整洁的空间让头脑清晰。

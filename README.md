@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is October 20, 2025, let's keep going! As the saying goes. Biodiversity is Earth's safety net. 
+Today is October 21, 2025, let's keep going! As the saying goes. A tidy space clears the mind. 
