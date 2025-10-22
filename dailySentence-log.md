@@ -1003,3 +1003,5 @@ In every hardship lies opportunity. 每个困难中都蕴藏着机会。
 Biodiversity is Earth's safety net.  生物多样性是地球的安全网。
 
 A tidy space clears the mind.  整洁的空间让头脑清晰。
+
+Our future is built together.  未来由我们一起建造。
