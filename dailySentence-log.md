@@ -1005,3 +1005,5 @@ Biodiversity is Earth's safety net.  生物多样性是地球的安全网。
 A tidy space clears the mind.  整洁的空间让头脑清晰。
 
 Our future is built together.  未来由我们一起建造。
+
+Frost opens the curtain on winter. 霜降拉开冬天的序幕
