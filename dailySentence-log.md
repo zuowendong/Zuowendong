@@ -1007,3 +1007,5 @@ A tidy space clears the mind.  整洁的空间让头脑清晰。
 Our future is built together.  未来由我们一起建造。
 
 Frost opens the curtain on winter. 霜降拉开冬天的序幕
+
+Grow through what you go through.  穿越困境，得以成长。
