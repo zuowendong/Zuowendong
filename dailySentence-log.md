@@ -1011,3 +1011,5 @@ Frost opens the curtain on winter. 霜降拉开冬天的序幕
 Grow through what you go through.  穿越困境，得以成长。
 
 The mind is everything. 思想决定一切。
+
+Change your thoughts and you change your world. 改变你的想法，你就改变了你的世界。
