@@ -1015,3 +1015,5 @@ The mind is everything. 思想决定一切。
 Change your thoughts and you change your world. 改变你的想法，你就改变了你的世界。
 
 Life is 10% what happens to us and 90% how we react to it. 生活的10%是发生在我们身上的事，而90%是我们对它的反应。
+
+Light follows every storm.  风暴后总有光。
