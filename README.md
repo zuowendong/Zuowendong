@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is October 28, 2025, let's keep going! As the saying goes. Light follows every storm. 
+Today is October 29, 2025, let's keep going! As the saying goes. Climb high, see far, and feel young. 
