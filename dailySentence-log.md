@@ -1019,3 +1019,5 @@ Life is 10% what happens to us and 90% how we react to it. 生活的10%是发生
 Light follows every storm.  风暴后总有光。
 
 Climb high, see far, and feel young.  登高望远，心也年轻。
+
+Change begins at the edge of comfort.  改变始于舒适边缘。

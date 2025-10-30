@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is October 29, 2025, let's keep going! As the saying goes. Climb high, see far, and feel young. 
+Today is October 30, 2025, let's keep going! As the saying goes. Change begins at the edge of comfort. 
