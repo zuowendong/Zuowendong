@@ -1023,3 +1023,5 @@ Climb high, see far, and feel young.  登高望远，心也年轻。
 Change begins at the edge of comfort.  改变始于舒适边缘。
 
 October ends with magic and candy.   十月以魔法和糖果收尾。
+
+More dreams are lost to self-doubt than to failure. 因自我怀疑而失去的梦想比因失败而失去的更多。
