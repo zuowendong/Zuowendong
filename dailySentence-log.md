@@ -1029,3 +1029,5 @@ More dreams are lost to self-doubt than to failure. 因自我怀疑而失去的�
 Life is short; Live it! 人生苦短，活出精彩。
 
 Happiness depends on your mindset. 幸福取决于你的心态。
+
+Pride in your steps to dreams. 为追梦的每一步而自豪。
