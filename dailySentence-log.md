@@ -1037,3 +1037,5 @@ Life's best gifts come from hard work. 生命最珍贵的馈赠源于辛勤耕�
 Trust your choices. Follow your heart to your destiny. 相信你的选择。追随你的心意走向你的命运。
 
 Winter warms body, and enriches soul for spring. 冬日暖身养心，静候春来。
+
+You must do the things you think you cannot do. 你必须做你认为自己做不到的事情。

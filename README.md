@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is November 7, 2025, let's keep going! As the saying goes. Winter warms body, and enriches soul for spring.
+Today is November 8, 2025, let's keep going! As the saying goes. You must do the things you think you cannot do.
