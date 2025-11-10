@@ -1041,3 +1041,5 @@ Winter warms body, and enriches soul for spring. 冬日暖身养心，静候春�
 You must do the things you think you cannot do. 你必须做你认为自己做不到的事情。
 
 The greatest risk is not taking one. 最大的风险是不冒风险。
+
+Don't judge by looks. 别以貌取人。
