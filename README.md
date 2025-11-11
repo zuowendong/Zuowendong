@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is November 10, 2025, let's keep going! As the saying goes. Don't judge by looks.
+Today is November 11, 2025, let's keep going! As the saying goes. Dreams face barriers, but destiny lies beyond.
