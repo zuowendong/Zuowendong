@@ -1045,3 +1045,5 @@ The greatest risk is not taking one. 最大的风险是不冒风险。
 Don't judge by looks. 别以貌取人。
 
 Dreams face barriers, but destiny lies beyond. 梦想遭遇阻碍，但命运就在前方。
+
+Change or stay. Your choice. 改变或坚守。由你选择。
