@@ -1047,3 +1047,5 @@ Don't judge by looks. 别以貌取人。
 Dreams face barriers, but destiny lies beyond. 梦想遭遇阻碍，但命运就在前方。
 
 Change or stay. Your choice. 改变或坚守。由你选择。
+
+Seek purpose. Don't limit dreams. 追寻目标。别限制梦想。
