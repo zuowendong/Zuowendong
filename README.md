@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is November 14, 2025, let's keep going! As the saying goes. From sadness comes joy, as dead flowers bring blooms.
+Today is November 15, 2025, let's keep going! As the saying goes. Time is the most valuable thing a man can spend.
