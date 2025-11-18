@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is November 17, 2025, let's keep going! As the saying goes. Each breath forms a tiny cloud in the cool air.
+Today is November 18, 2025, let's keep going! As the saying goes. An extra blanket on the bed feels like a great luxury.
