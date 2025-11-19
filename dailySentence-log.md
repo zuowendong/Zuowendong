@@ -1059,3 +1059,5 @@ Dreams are the touchstones of our character. 梦想是我们性格的基石。
 Each breath forms a tiny cloud in the cool air. 在清凉的空气中，每一次呼吸都呵出一小朵云。
 
 An extra blanket on the bed feels like a great luxury. 床上多加一条毯子，感觉就像一种巨大的享受。
+
+It's the perfect time for a good book by the window. 这是在窗边读一本好书的完美时节。
