@@ -1061,3 +1061,5 @@ Each breath forms a tiny cloud in the cool air. 在清凉的空气中，每一�
 An extra blanket on the bed feels like a great luxury. 床上多加一条毯子，感觉就像一种巨大的享受。
 
 It's the perfect time for a good book by the window. 这是在窗边读一本好书的完美时节。
+
+Let us be thankful for the simple joys. 让我们为生活中简单的快乐而感恩。
