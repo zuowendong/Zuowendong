@@ -1065,3 +1065,5 @@ It's the perfect time for a good book by the window. 这是在窗边读一本好
 Let us be thankful for the simple joys. 让我们为生活中简单的快乐而感恩。
 
 All are unique. 人人皆独特。
+
+No snowflake ever falls in the wrong place. 没有一片雪花会落在错误的地方。
