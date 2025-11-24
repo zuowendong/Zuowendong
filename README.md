@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is November 23, 2025, let's keep going! As the saying goes. Don't dream your life, but live your dream.
+Today is November 24, 2025, let's keep going! As the saying goes. Each day is a new page in the story of autumn.

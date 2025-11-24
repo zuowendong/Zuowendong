@@ -1069,3 +1069,5 @@ All are unique. 人人皆独特。
 No snowflake ever falls in the wrong place. 没有一片雪花会落在错误的地方。
 
 Don't dream your life, but live your dream. 不要梦想你的生活，而要实现你的梦想。
+
+Each day is a new page in the story of autumn. 每一天都是秋天故事里崭新的一页。
