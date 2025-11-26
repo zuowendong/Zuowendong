@@ -1073,3 +1073,5 @@ Don't dream your life, but live your dream. 不要梦想你的生活，而要实
 Each day is a new page in the story of autumn. 每一天都是秋天故事里崭新的一页。
 
 Let's seek joy in the simple, quiet moments. 让我们在简单宁静的时刻中寻找快乐。
+
+Remember to be kind to yourself today. 记得在今天对自己好一点。
