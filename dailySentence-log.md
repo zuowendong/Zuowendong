@@ -1079,3 +1079,5 @@ Remember to be kind to yourself today. 记得在今天对自己好一点。
 The world is quieting down for its winter rest. 世界正安静下来，准备它的冬日休眠。
 
 There is beauty in letting go. 在放下之中亦有美感。
+
+What you do today can improve all your tomorrows. 你今天所做的一切，可以改善你所有的明天。
