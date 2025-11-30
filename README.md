@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is November 29, 2025, let's keep going! As the saying goes. What you do today can improve all your tomorrows.
+Today is November 30, 2025, let's keep going! As the saying goes. A wise man makes his own decisions.
