@@ -1083,3 +1083,5 @@ There is beauty in letting go. 在放下之中亦有美感。
 What you do today can improve all your tomorrows. 你今天所做的一切，可以改善你所有的明天。
 
 A wise man makes his own decisions. 智者做自己的决定。
+
+December is a month to cherish, to give thanks, and to embrace a brighter future. 十二月，宜珍惜，宜感恩，宜奔赴更美好的未来。
