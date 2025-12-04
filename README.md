@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is December 3, 2025, let's keep going! As the saying goes. Each step leaves its mark, creating a landscape all its own.
+Today is December 4, 2025, let's keep going! As the saying goes. Winter has its light, and dreams dwell within the heart.
