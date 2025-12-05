@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is December 4, 2025, let's keep going! As the saying goes. Winter has its light, and dreams dwell within the heart.
+Today is December 5, 2025, let's keep going! As the saying goes. Winter always arrives quietly, yet the chill comes suddenly.
