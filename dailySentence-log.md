@@ -1093,3 +1093,5 @@ Each step leaves its mark, creating a landscape all its own. 一步一印，自�
 Winter has its light, and dreams dwell within the heart. 冬日有光，心中有梦。
 
 Winter always arrives quietly, yet the chill comes suddenly. 冬天总是悄然来临，而寒意却骤然而至。
+
+Those who walk in the cold wind carry within them an unquenchable flame. 在寒风中行走的人，心中自有一团不灭的火。
