@@ -1097,3 +1097,5 @@ Winter always arrives quietly, yet the chill comes suddenly. 冬天总是悄然�
 Those who walk in the cold wind carry within them an unquenchable flame. 在寒风中行走的人，心中自有一团不灭的火。
 
 Simmering snow by the hearth, cooking up a slower pace of life. 围炉煮雪，烹煮一段慢下来的时光。
+
+In the silence, grow your own roots. 在寂静中，长出自己的根。
