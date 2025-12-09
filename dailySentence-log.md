@@ -1099,3 +1099,5 @@ Those who walk in the cold wind carry within them an unquenchable flame. 在寒�
 Simmering snow by the hearth, cooking up a slower pace of life. 围炉煮雪，烹煮一段慢下来的时光。
 
 In the silence, grow your own roots. 在寂静中，长出自己的根。
+
+Bright windows and clean desks—that is simple joy. 窗明几净，便是清欢。

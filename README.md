@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is December 8, 2025, let's keep going! As the saying goes. In the silence, grow your own roots.
+Today is December 9, 2025, let's keep going! As the saying goes. Bright windows and clean desks—that is simple joy.
