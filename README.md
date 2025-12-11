@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is December 10, 2025, let's keep going! As the saying goes. You don't need to chase the light—you already shine on your own.
+Today is December 11, 2025, let's keep going! As the saying goes. Even if ordinary and clumsy, not giving up is itself a shining point.
