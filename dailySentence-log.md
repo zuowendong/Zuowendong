@@ -1105,3 +1105,5 @@ Bright windows and clean desks—that is simple joy. 窗明几净，便是清欢
 You don't need to chase the light—you already shine on your own. 不必追光，你本就能发光。
 
 Even if ordinary and clumsy, not giving up is itself a shining point. 即使平凡笨拙，不放弃本身就是闪光点。
+
+Every road offers its own unique scenery, and every person is a singular existence. 每一条路都是独特的风景，每一个人都是唯一的存在。

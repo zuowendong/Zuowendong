@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is December 11, 2025, let's keep going! As the saying goes. Even if ordinary and clumsy, not giving up is itself a shining point.
+Today is December 12, 2025, let's keep going! As the saying goes. Every road offers its own unique scenery, and every person is a singular existence.
