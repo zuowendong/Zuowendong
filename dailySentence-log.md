@@ -1107,3 +1107,5 @@ You don't need to chase the light—you already shine on your own. 不必追光�
 Even if ordinary and clumsy, not giving up is itself a shining point. 即使平凡笨拙，不放弃本身就是闪光点。
 
 Every road offers its own unique scenery, and every person is a singular existence. 每一条路都是独特的风景，每一个人都是唯一的存在。
+
+Beyond material possessions, what matters most is a person's spirit and perspective. 物质之外，更重要的是一个人的精神与见解。
