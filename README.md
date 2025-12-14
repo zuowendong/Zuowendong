@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is December 13, 2025, let's keep going! As the saying goes. Beyond material possessions, what matters most is a person's spirit and perspective.
+Today is December 14, 2025, let's keep going! As the saying goes. May every snowfall this winter lay the groundwork for the world's whiteness.

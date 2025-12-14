@@ -1109,3 +1109,5 @@ Even if ordinary and clumsy, not giving up is itself a shining point. 即使平�
 Every road offers its own unique scenery, and every person is a singular existence. 每一条路都是独特的风景，每一个人都是唯一的存在。
 
 Beyond material possessions, what matters most is a person's spirit and perspective. 物质之外，更重要的是一个人的精神与见解。
+
+May every snowfall this winter lay the groundwork for the world's whiteness. 愿这个冬天的每一场雪，都是为了铺垫世界的洁白。
