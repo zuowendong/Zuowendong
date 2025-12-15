@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is December 14, 2025, let's keep going! As the saying goes. May every snowfall this winter lay the groundwork for the world's whiteness.
+Today is December 15, 2025, let's keep going! As the saying goes. In solitude, I encounter the complete me.
