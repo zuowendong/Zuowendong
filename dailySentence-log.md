@@ -1113,3 +1113,5 @@ Beyond material possessions, what matters most is a person's spirit and perspect
 May every snowfall this winter lay the groundwork for the world's whiteness. 愿这个冬天的每一场雪，都是为了铺垫世界的洁白。
 
 In solitude, I encounter the complete me. 在孤独中，遇见完整的我。
+
+Love is seeing, and it is space. 爱是看见，也是空间。
