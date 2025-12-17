@@ -1115,3 +1115,5 @@ May every snowfall this winter lay the groundwork for the world's whiteness. 愿
 In solitude, I encounter the complete me. 在孤独中，遇见完整的我。
 
 Love is seeing, and it is space. 爱是看见，也是空间。
+
+Growing up is a gentle act of self-rebellion. 成长，是一场温柔的自我叛变。
