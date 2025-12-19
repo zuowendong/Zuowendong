@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is December 18, 2025, let's keep going! As the saying goes. The past has been written, the future unfolds.
+Today is December 19, 2025, let's keep going! As the saying goes. The warm winter sun is more cherished than in any other season.
