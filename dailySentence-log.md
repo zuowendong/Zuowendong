@@ -1123,3 +1123,5 @@ The past has been written, the future unfolds. 过往已落笔，未来正铺陈
 The warm winter sun is more cherished than in any other season. 冬日的暖阳，比任何季节都更让人珍惜。
 
 Listen to the wind rise, watch the snow fall— All things have their time. 听风起，看雪落，万物自有其时。
+
+The nights grow shorter from this day onward, the days grow longer from this day onward. 夜从此渐短，光从此渐长。
