@@ -1125,3 +1125,5 @@ The warm winter sun is more cherished than in any other season. 冬日的暖阳�
 Listen to the wind rise, watch the snow fall— All things have their time. 听风起，看雪落，万物自有其时。
 
 The nights grow shorter from this day onward, the days grow longer from this day onward. 夜从此渐短，光从此渐长。
+
+In the wilderness, forge your own path. 于荒原中，踏出自己的路。
