@@ -1127,3 +1127,5 @@ Listen to the wind rise, watch the snow fall— All things have their time. 听�
 The nights grow shorter from this day onward, the days grow longer from this day onward. 夜从此渐短，光从此渐长。
 
 In the wilderness, forge your own path. 于荒原中，踏出自己的路。
+
+In the mundane everyday, there is still a glimmer of light. 琐碎日常，亦有微光。
