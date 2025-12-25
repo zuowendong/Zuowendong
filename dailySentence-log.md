@@ -1131,3 +1131,5 @@ In the wilderness, forge your own path. 于荒原中，踏出自己的路。
 In the mundane everyday, there is still a glimmer of light. 琐碎日常，亦有微光。
 
 Those who understand will understand; the rest is just scenery. 懂的人自会懂，其余皆是风景。
+
+May you gather the courage to greet the new sun. 愿你攒足勇气，迎接新的太阳。

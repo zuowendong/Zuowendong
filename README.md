@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is December 24, 2025, let's keep going! As the saying goes. Those who understand will understand; the rest is just scenery.
+Today is December 25, 2025, let's keep going! As the saying goes. May you gather the courage to greet the new sun.
