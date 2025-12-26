@@ -1133,3 +1133,5 @@ In the mundane everyday, there is still a glimmer of light. 琐碎日常，亦�
 Those who understand will understand; the rest is just scenery. 懂的人自会懂，其余皆是风景。
 
 May you gather the courage to greet the new sun. 愿你攒足勇气，迎接新的太阳。
+
+The colder it gets, the more you appreciate the weight of warmth. 越是寒冷，越能体会温暖的重量。
