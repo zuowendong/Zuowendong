@@ -1135,3 +1135,5 @@ Those who understand will understand; the rest is just scenery. 懂的人自会�
 May you gather the courage to greet the new sun. 愿你攒足勇气，迎接新的太阳。
 
 The colder it gets, the more you appreciate the weight of warmth. 越是寒冷，越能体会温暖的重量。
+
+Life is about your own genuine feelings; don't get caught up in others' opinions. 生活是自己的真切感受，不必困于他人眼光。
