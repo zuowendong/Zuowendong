@@ -1137,3 +1137,5 @@ May you gather the courage to greet the new sun. 愿你攒足勇气，迎接新�
 The colder it gets, the more you appreciate the weight of warmth. 越是寒冷，越能体会温暖的重量。
 
 Life is about your own genuine feelings; don't get caught up in others' opinions. 生活是自己的真切感受，不必困于他人眼光。
+
+The best time for new beginnings is now. 新的开始的最佳时机就是现在。

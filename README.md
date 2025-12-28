@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is December 27, 2025, let's keep going! As the saying goes. Life is about your own genuine feelings; don't get caught up in others' opinions.
+Today is December 28, 2025, let's keep going! As the saying goes. The best time for new beginnings is now.
