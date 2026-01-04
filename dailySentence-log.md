@@ -1151,3 +1151,5 @@ Time is gentle, granting you a promising beginning. 岁月温柔，许你一个�
 Wherever your footsteps lead, light will follow. 步履所向，自有光亮。
 
 Snow falls silently, warmth speaks softly. May the world treat you with tenderness. 雪落无声，温暖有声，愿你被世界温柔以待。
+
+The road ahead stretches far, yet I won't dwell on momentary hesitation. 前路漫漫，不萦一时彷徨。
