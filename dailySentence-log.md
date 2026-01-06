@@ -1155,3 +1155,5 @@ Snow falls silently, warmth speaks softly. May the world treat you with tenderne
 The road ahead stretches far, yet I won't dwell on momentary hesitation. 前路漫漫，不萦一时彷徨。
 
 Deep within the chill, warmth stirs within the soil. 冷至深处，暖意正在土壤里苏醒。
+
+Life is not about choices, but about passion. 生活的真谛不在于选择，而在于热爱。

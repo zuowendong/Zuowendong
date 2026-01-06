@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is January 5, 2026, let's keep going! As the saying goes. Deep within the chill, warmth stirs within the soil.
+Today is January 6, 2026, let's keep going! As the saying goes. Life is not about choices, but about passion.
