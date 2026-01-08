@@ -1159,3 +1159,5 @@ Deep within the chill, warmth stirs within the soil. 冷至深处，暖意正在
 Life is not about choices, but about passion. 生活的真谛不在于选择，而在于热爱。
 
 Gentleness is my strength, sharpness is my boundary. 温柔是我的力量，锋利是我的边界。
+
+Turn your face to the sun and the shadows fall behind you. 向阳而立，阴影自会落在身后。
