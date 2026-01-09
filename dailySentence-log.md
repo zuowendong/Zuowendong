@@ -1161,3 +1161,5 @@ Life is not about choices, but about passion. 生活的真谛不在于选择，�
 Gentleness is my strength, sharpness is my boundary. 温柔是我的力量，锋利是我的边界。
 
 Turn your face to the sun and the shadows fall behind you. 向阳而立，阴影自会落在身后。
+
+Expect less, and you'll be pleasantly surprised. 期待少一分，惊喜多十分。
