@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is January 11, 2026, let's keep going! As the saying goes. Morning light crept through the windowpanes.Today brings warm breezes and clear skies.
+Today is January 12, 2026, let's keep going! As the saying goes. Amidst complexity, guard the simple core.
