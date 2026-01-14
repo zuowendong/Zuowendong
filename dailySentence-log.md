@@ -1171,3 +1171,5 @@ Morning light crept through the windowpanes.Today brings warm breezes and clear 
 Amidst complexity, guard the simple core. 于复杂中，守护简单的内核。
 
 A day without troubles is a gift from the universe. 今日无事，便是宇宙的馈赠。
+
+Happiness is made up of many little “just because”. 幸福是许多微小的“不为什么”。
