@@ -1173,3 +1173,5 @@ Amidst complexity, guard the simple core. 于复杂中，守护简单的内核�
 A day without troubles is a gift from the universe. 今日无事，便是宇宙的馈赠。
 
 Happiness is made up of many little “just because”. 幸福是许多微小的“不为什么”。
+
+Pack yesterday into your baggage. 将昨日，叠进行囊。
