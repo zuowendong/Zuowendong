@@ -1175,3 +1175,5 @@ A day without troubles is a gift from the universe. 今日无事，便是宇宙�
 Happiness is made up of many little “just because”. 幸福是许多微小的“不为什么”。
 
 Pack yesterday into your baggage. 将昨日，叠进行囊。
+
+In the material world, build a spiritual high ground. 在物质的世界里，构建精神的高地。
