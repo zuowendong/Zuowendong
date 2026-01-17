@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is January 16, 2026, let's keep going! As the saying goes. In the material world, build a spiritual high ground.
+Today is January 17, 2026, let's keep going! As the saying goes. Become the person you want to be, not the person others see you as.
