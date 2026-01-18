@@ -1179,3 +1179,5 @@ Pack yesterday into your baggage. 将昨日，叠进行囊。
 In the material world, build a spiritual high ground. 在物质的世界里，构建精神的高地。
 
 Become the person you want to be, not the person others see you as. 成为你想成为的人，而非他人眼中的你。
+
+Shake hands with every voice, but sign a contract only with your own heart. 和所有声音握手，但只与自己的心签约。
