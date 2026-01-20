@@ -1183,3 +1183,5 @@ Become the person you want to be, not the person others see you as. 成为你想
 Shake hands with every voice, but sign a contract only with your own heart. 和所有声音握手，但只与自己的心签约。
 
 Build an undisturbed city within. 于内里筑一座无扰的城。
+
+Winter pours out its last drops, clearing the stage for spring's entrance. 冬意倾尽所有，为春的登场清场。
