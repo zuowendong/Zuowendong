@@ -1185,3 +1185,5 @@ Shake hands with every voice, but sign a contract only with your own heart. 和�
 Build an undisturbed city within. 于内里筑一座无扰的城。
 
 Winter pours out its last drops, clearing the stage for spring's entrance. 冬意倾尽所有，为春的登场清场。
+
+Sincerity has its measure. Giving has its limit. 真诚有尺，付出有度。
