@@ -1189,3 +1189,5 @@ Winter pours out its last drops, clearing the stage for spring's entrance. 冬�
 Sincerity has its measure. Giving has its limit. 真诚有尺，付出有度。
 
 For a new chapter, pour passion into its foundation once more. 为新的篇章，再度倾注热爱的底色。
+
+Winter sunshine is a limited edition—remember to get outside and soak it up. 冬日的阳光是限量版，记得多出门晒晒。
