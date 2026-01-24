@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is January 23, 2026, let's keep going! As the saying goes. Winter sunshine is a limited edition—remember to get outside and soak it up.
+Today is January 24, 2026, let's keep going! As the saying goes. Hope lights the way, gratitude steadies the soul.
