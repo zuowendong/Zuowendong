@@ -1193,3 +1193,5 @@ For a new chapter, pour passion into its foundation once more. 为新的篇章�
 Winter sunshine is a limited edition—remember to get outside and soak it up. 冬日的阳光是限量版，记得多出门晒晒。
 
 Hope lights the way, gratitude steadies the soul. 希望是前行的光，感恩是心中的锚。
+
+True freedom is choosing the weight of your soul. 真正的自由，是为灵魂选择它的重量。
