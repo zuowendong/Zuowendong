@@ -1195,3 +1195,5 @@ Winter sunshine is a limited edition—remember to get outside and soak it up. �
 Hope lights the way, gratitude steadies the soul. 希望是前行的光，感恩是心中的锚。
 
 True freedom is choosing the weight of your soul. 真正的自由，是为灵魂选择它的重量。
+
+Settling oneself is the only thing that matters. 安顿好自己，是唯一的要事。

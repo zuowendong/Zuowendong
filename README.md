@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is January 25, 2026, let's keep going! As the saying goes. True freedom is choosing the weight of your soul.
+Today is January 26, 2026, let's keep going! As the saying goes. Settling oneself is the only thing that matters.
