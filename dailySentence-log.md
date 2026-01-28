@@ -1199,3 +1199,5 @@ True freedom is choosing the weight of your soul. 真正的自由，是为灵魂
 Settling oneself is the only thing that matters. 安顿好自己，是唯一的要事。
 
 Delve deeper, and the answers will reveal themselves. 向深处探寻，答案自现。
+
+Clear water and bright sand, a pure heart and clear affairs. 水净沙明，心清事晰。
