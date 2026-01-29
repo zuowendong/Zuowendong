@@ -1201,3 +1201,5 @@ Settling oneself is the only thing that matters. 安顿好自己，是唯一的�
 Delve deeper, and the answers will reveal themselves. 向深处探寻，答案自现。
 
 Clear water and bright sand, a pure heart and clear affairs. 水净沙明，心清事晰。
+
+Show seven parts to others, keep three parts to yourself. 七分示人，三分藏己。

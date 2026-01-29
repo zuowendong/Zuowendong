@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is January 28, 2026, let's keep going! As the saying goes. Clear water and bright sand, a pure heart and clear affairs.
+Today is January 29, 2026, let's keep going! As the saying goes. Show seven parts to others, keep three parts to yourself.
