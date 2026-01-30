@@ -1203,3 +1203,5 @@ Delve deeper, and the answers will reveal themselves. 向深处探寻，答案�
 Clear water and bright sand, a pure heart and clear affairs. 水净沙明，心清事晰。
 
 Show seven parts to others, keep three parts to yourself. 七分示人，三分藏己。
+
+Tuck today's troubles into your pillow, and tomorrow will bring fresh steps. 把今天的烦恼塞进枕头，明天自会有新的脚步。
