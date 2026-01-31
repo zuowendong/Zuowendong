@@ -1205,3 +1205,5 @@ Clear water and bright sand, a pure heart and clear affairs. 水净沙明，心�
 Show seven parts to others, keep three parts to yourself. 七分示人，三分藏己。
 
 Tuck today's troubles into your pillow, and tomorrow will bring fresh steps. 把今天的烦恼塞进枕头，明天自会有新的脚步。
+
+Thank yourself for your hard work, and forgive your imperfect past. 感谢努力的自己，也原谅不完美的过往。

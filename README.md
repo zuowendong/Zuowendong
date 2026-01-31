@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is January 30, 2026, let's keep going! As the saying goes. Tuck today's troubles into your pillow, and tomorrow will bring fresh steps.
+Today is January 31, 2026, let's keep going! As the saying goes. Thank yourself for your hard work, and forgive your imperfect past.
