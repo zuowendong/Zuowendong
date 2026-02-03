@@ -1211,3 +1211,5 @@ Thank yourself for your hard work, and forgive your imperfect past. 感谢努力
 The year's second chapter opens with a quiet, steady breath. 一年的第二章，以安静而平稳的呼吸开启。
 
 The cold wind gently pushes forward with determined strides. 寒风轻推着前进的坚定步伐。
+
+The answer is in the wind, but you must catch it with your own hands. 答案在风中，但你必须亲手捕捉。
