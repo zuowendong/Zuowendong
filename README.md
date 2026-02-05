@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is February 4, 2026, let's keep going! As the saying goes. Spring tiptoes in, melting the edge of the ice.
+Today is February 5, 2026, let's keep going! As the saying goes. Footprints imprint the snow, leaving paths fleeting yet deep.
