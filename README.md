@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is February 6, 2026, let's keep going! As the saying goes. Warmth slowly awakens from a cup of hot drink.
+Today is February 7, 2026, let's keep going! As the saying goes. The quiet wisdom of winter flows between the pages.
