@@ -1231,3 +1231,5 @@ Each ray of morning light bestows itself upon the blank canvas. 每一缕晨曦�
 Cold air, warm heart. Keep going. 寒风刺骨，暖心不灭。继续前行。
 
 Breath forms fleeting poems in the air. 呵出的白气，在空中写下短暂的诗。
+
+Distant mountains cloak themselves in snow, awaiting spring's letter. 远山裹着雪袍，静候一封春的来信。
