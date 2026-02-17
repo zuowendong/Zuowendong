@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is February 16, 2026, let's keep going! As the saying goes. Kitchen steam blurs the window, painting warmth on the cold glass.
+Today is February 17, 2026, let's keep going! As the saying goes. A new year starts fresh. Fill it with hope.
