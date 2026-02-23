@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is February 22, 2026, let's keep going! As the saying goes. Even a short path can be golden.
+Today is February 23, 2026, let's keep going! As the saying goes. Shine your brightest on the coldest days.
