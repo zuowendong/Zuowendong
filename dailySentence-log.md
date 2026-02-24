@@ -1253,3 +1253,5 @@ A kind word can melt a cold day. 一句善言足以融化寒冬。
 Even a short path can be golden. 即便是短暂的旅程，亦可熠熠生辉。
 
 Shine your brightest on the coldest days. 在最寒冷的日子里，绽放你最耀眼的光芒。
+
+Like a seed under snow, wait with hope. 如同积雪下的种子，怀着希望静候。
