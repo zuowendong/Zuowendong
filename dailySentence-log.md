@@ -1261,3 +1261,5 @@ Ice will melt and make way for flow. 冰会融化，为水流让路。
 What we achieve inwardly will change outer reality. 我们内在的成就会改变外在的现实。
 
 Look up and see the clear winter sky. 抬头望去，只见冬日晴空万里。
+
+Open the door and let the new light in. 打开门，让新的光芒进来。
