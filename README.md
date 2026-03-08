@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is March 7, 2026, let's keep going! As the saying goes. The hearth crackles, keeping the late-night thinker company.
+Today is March 8, 2026, let's keep going! As the saying goes. Honor her journey, celebrate her light.
