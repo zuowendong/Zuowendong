@@ -1291,3 +1291,5 @@ Listen to your innermost self. 倾听内心深处。
 The heart, like a still pond, reflects all things without disturbance. 心如静水，无波不映。
 
 Your own light shows the way forward. 你自身的光芒照亮前路。
+
+Grass grows an inch while no one watches. 无人注意时，草长高了一寸。
