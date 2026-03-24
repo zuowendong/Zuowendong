@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is March 23, 2026, let's keep going! As the saying goes. Endings make room for new starts.
+Today is March 24, 2026, let's keep going! As the saying goes. Past lessons are gifts for tomorrow.
