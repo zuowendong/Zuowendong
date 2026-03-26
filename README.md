@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is March 25, 2026, let's keep going! As the saying goes. Each day adds strength to your story.
+Today is March 26, 2026, let's keep going! As the saying goes. You can draw a new picture each day.
