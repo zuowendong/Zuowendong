@@ -1317,3 +1317,5 @@ You can draw a new picture each day. 你每天都可以绘制一幅新画面。
 If the future does not come to me, I will walk toward the future. 未来不来，我便向未来走去。
 
 White petals fall like snow, but softer. 白色的花瓣飘落如雪，却更温柔。
+
+Warm rain writes poems on the window. 温润的雨在窗上写诗。
