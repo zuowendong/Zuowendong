@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is April 2, 2026, let's keep going! As the saying goes. Roots grow deep in the dark, so the tree can trust the light.
+Today is April 3, 2026, let's keep going! As the saying goes. The river does not hurry; it simply knows the sea.

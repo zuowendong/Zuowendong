@@ -1327,3 +1327,5 @@ March ends with a promise in its pocket. 三月将尽，口袋里装着一个承
 Dawn breaks not with a shout, but with a quiet glow. 黎明不以喧嚣降临，而以静默的光绽放。
 
 Roots grow deep in the dark, so the tree can trust the light. 根在黑暗中深扎，树才能信任光明。
+
+The river does not hurry; it simply knows the sea. 河流不急于赶路，它只是知道海的方向。
