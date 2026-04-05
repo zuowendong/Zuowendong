@@ -1331,3 +1331,5 @@ Roots grow deep in the dark, so the tree can trust the light. 根在黑暗中深
 The river does not hurry; it simply knows the sea. 河流不急于赶路，它只是知道海的方向。
 
 Each fallen petal makes room for the fruit to come. 每一片落花，都为果实让出未来的位置。
+
+Rain cleanses yesterday's tears; new green appears. 雨洗昨日泪，新绿悄然生。
