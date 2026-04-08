@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is April 7, 2026, let's keep going! As the saying goes. The seed believes in spring while winter still rages.
+Today is April 8, 2026, let's keep going! As the saying goes. Waves do not fear the shore; they embrace their ending as a new beginning.
