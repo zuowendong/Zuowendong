@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is April 8, 2026, let's keep going! As the saying goes. Waves do not fear the shore; they embrace their ending as a new beginning.
+Today is April 9, 2026, let's keep going! As the saying goes. The mountain never moves, yet it teaches the clouds to dance.
