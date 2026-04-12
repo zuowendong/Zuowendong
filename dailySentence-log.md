@@ -1345,3 +1345,5 @@ The mountain never moves, yet it teaches the clouds to dance. 山峦岿然不动
 Your heartbeat is the drum of a journey only you can walk. 你的心跳，是那场独属于你的征程的战鼓。
 
 Forward ever, backward never. 永远向前，绝不后退。
+
+Life is short; smile while you still have teeth. 人生苦短，趁牙齿未落微笑。
