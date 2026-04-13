@@ -1347,3 +1347,5 @@ Your heartbeat is the drum of a journey only you can walk. 你的心跳，是那
 Forward ever, backward never. 永远向前，绝不后退。
 
 Life is short; smile while you still have teeth. 人生苦短，趁牙齿未落微笑。
+
+Your potential is a universe; don't settle for being a single star. 你的潜力是一个宇宙，别满足于做一颗孤星。
