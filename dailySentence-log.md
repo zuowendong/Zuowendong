@@ -1349,3 +1349,5 @@ Forward ever, backward never. 永远向前，绝不后退。
 Life is short; smile while you still have teeth. 人生苦短，趁牙齿未落微笑。
 
 Your potential is a universe; don't settle for being a single star. 你的潜力是一个宇宙，别满足于做一颗孤星。
+
+Every scar on the earth becomes a valley or a river. 大地上的每道伤痕，最终都成了山谷或河流。
