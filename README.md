@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is April 14, 2026, let's keep going! As the saying goes. Every scar on the earth becomes a valley or a river.
+Today is April 15, 2026, let's keep going! As the saying goes. Hope is the feather that balances the stone of today.
