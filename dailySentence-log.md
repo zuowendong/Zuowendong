@@ -1353,3 +1353,5 @@ Your potential is a universe; don't settle for being a single star. 你的潜力
 Every scar on the earth becomes a valley or a river. 大地上的每道伤痕，最终都成了山谷或河流。
 
 Hope is the feather that balances the stone of today. 希望是那根羽毛，平衡着今日的顽石。
+
+Your thoughts are gardeners; tend only to the flowers. 你的思绪是园丁，只去照料那些花朵吧。

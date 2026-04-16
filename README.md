@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is April 15, 2026, let's keep going! As the saying goes. Hope is the feather that balances the stone of today.
+Today is April 16, 2026, let's keep going! As the saying goes. Your thoughts are gardeners; tend only to the flowers.
