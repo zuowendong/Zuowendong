@@ -1355,3 +1355,5 @@ Every scar on the earth becomes a valley or a river. 大地上的每道伤痕，
 Hope is the feather that balances the stone of today. 希望是那根羽毛，平衡着今日的顽石。
 
 Your thoughts are gardeners; tend only to the flowers. 你的思绪是园丁，只去照料那些花朵吧。
+
+Raindrops never compete; they all reach the ground together. 雨滴从不竞争，它们终将一起抵达大地。
