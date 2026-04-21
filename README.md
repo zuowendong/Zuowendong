@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is April 20, 2026, let's keep going! As the saying goes. Rain awakens the seeds sleeping in your heart.
+Today is April 21, 2026, let's keep going! As the saying goes. The moon doesn't need to be full to light the path.

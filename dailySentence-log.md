@@ -1363,3 +1363,5 @@ Within you is a stillness vast enough to hold every storm. 你的内心深处，
 Bamboo grows skyward by bending with the wind. 竹子向天生长，靠的是随风俯身。
 
 Rain awakens the seeds sleeping in your heart. 谷雨唤醒你心中沉睡的种子。
+
+The moon doesn't need to be full to light the path. 月亮不必圆满，也能照亮前路。
