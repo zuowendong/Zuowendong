@@ -1367,3 +1367,5 @@ Rain awakens the seeds sleeping in your heart. 谷雨唤醒你心中沉睡的种
 The moon doesn't need to be full to light the path. 月亮不必圆满，也能照亮前路。
 
 A kind word is a boomerang that returns with warmth. 一句善意的话，是带着温暖飞回的回旋镖。
+
+The butterfly's beauty is born from the caterpillar's patience. 蝴蝶的美丽，诞生于毛虫的耐心。

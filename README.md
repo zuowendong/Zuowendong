@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is April 22, 2026, let's keep going! As the saying goes. A kind word is a boomerang that returns with warmth.
+Today is April 23, 2026, let's keep going! As the saying goes. The butterfly's beauty is born from the caterpillar's patience.
