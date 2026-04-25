@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is April 24, 2026, let's keep going! As the saying goes. Every sunset is a promise of a dawn we haven't met.
+Today is April 25, 2026, let's keep going! As the saying goes. Hope and love truly make every challenge a little easier.
