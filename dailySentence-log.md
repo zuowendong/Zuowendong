@@ -1379,3 +1379,5 @@ You are the painter of skies you have yet to see. 你是那片你尚未见过的
 Small acts of kindness are the stars that navigate lost ships. 微小的善行，是为迷航的船只引路的星星。
 
 Growth is not a straight line, but a spiral reaching higher. 成长不是直线，而是盘旋上升的螺旋。
+
+The most beautiful melodies come from instruments that were carved. 最美妙的旋律，来自被精心雕琢的乐器。
