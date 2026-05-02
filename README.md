@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is May 1, 2026, let's keep going! As the saying goes. All labor that uplifts humanity has dignity and importance.
+Today is May 2, 2026, let's keep going! As the saying goes. Here comes the sun. And I say, it’s all right.

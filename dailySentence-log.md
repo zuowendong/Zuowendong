@@ -1385,3 +1385,5 @@ The most beautiful melodies come from instruments that were carved. 最美妙的
 Let your mistakes be the compost for your future garden. 让你的错误，成为未来花园的养料。
 
 All labor that uplifts humanity has dignity and importance. 所有提升人类的劳动都具有尊严和重要性。
+
+Here comes the sun. And I say, it’s all right. 阳光来了，我说，一切都好。
