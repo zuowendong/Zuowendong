@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is May 3, 2026, let's keep going! As the saying goes. When clouds part, the sky reveals its pale blue base.
+Today is May 4, 2026, let's keep going! As the saying goes. Youth like morning light holds endless promise.
