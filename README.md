@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is May 7, 2026, let's keep going! As the saying goes. Wild flowers on the ridge quietly weave a colorful blanket.
+Today is May 8, 2026, let's keep going! As the saying goes. I’ve nothing to do today but smile.
