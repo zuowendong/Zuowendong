@@ -1399,3 +1399,5 @@ The smell of wet earth brings peace to the heart. 雨后泥土的气息让人心
 Wild flowers on the ridge quietly weave a colorful blanket. 田埂上的野花，悄悄铺成彩毯。
 
 I’ve nothing to do today but smile. 你今天唯一能做的事就是微笑。
+
+You can, you should, and if you’re brave, you will. 你可以，你应该，若你勇敢，你会做到。
