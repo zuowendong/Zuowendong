@@ -1407,3 +1407,5 @@ A mother's love blows like the May wind, soft and long. 母亲的爱像五月的
 The calendar turns, and time quietly flows forward. 日历翻动，时间静静流淌向前。
 
 A soft breeze brings the scent of locust flowers, sweetening the way home. 微风送来槐花香，甜了归途。
+
+Rain taps on the window, like a quiet whisper. 雨水轻轻敲着窗，像在说悄悄话。
