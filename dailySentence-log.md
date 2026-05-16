@@ -1413,3 +1413,5 @@ Rain taps on the window, like a quiet whisper. 雨水轻轻敲着窗，像在说
 The wheat bows in the wind, making green waves. 麦田在风中泛起绿色的波浪。
 
 Roses climb the fence, blooming pink dreams one by one. 蔷薇爬满篱笆，开出一朵朵粉色的梦。
+
+I’ve found 10,000 ways that won’t work. 我找到了10,000种行不通的方法。
