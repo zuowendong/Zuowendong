@@ -1417,3 +1417,5 @@ Roses climb the fence, blooming pink dreams one by one. 蔷薇爬满篱笆，开
 I’ve found 10,000 ways that won’t work. 我找到了10,000种行不通的方法。
 
 Under the shade, ants work hard carrying summer. 树荫下，蚂蚁们忙着搬运夏天。
+
+Cherries turn red, like a shy girl's cheeks. 樱桃开始泛红，像少女害羞的脸颊。
