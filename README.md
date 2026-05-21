@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is May 20, 2026, let's keep going! As the saying goes. Light stretches longer, painting walls gold.
+Today is May 21, 2026, let's keep going! As the saying goes. Wheat grains grow full; the rain comes more often.
