@@ -1425,3 +1425,5 @@ Lazy afternoon sun is good for half a book. 午后阳光慵懒，适合读半本
 Light stretches longer, painting walls gold. 日光拉得更长，把墙壁染成金色。
 
 Wheat grains grow full; the rain comes more often. 麦粒渐满，雨水增多。
+
+A dragonfly stands on a lotus tip, still like a guard. 蜻蜓立在荷尖上，一动不动像个哨兵。
