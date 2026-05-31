@@ -1443,3 +1443,5 @@ By the pond, kids splash water with bare feet. 池塘边，孩子们光着脚丫
 Gardenias bloom, turning the yard white with scent. 栀子花开了，整个院子都是白色的香气。
 
 No one is useless who lightens another’s burden. 减轻他人负担的人绝非无用。
+
+Light lingers, reluctant to say goodbye. 光线流连着，不舍得说再见。
