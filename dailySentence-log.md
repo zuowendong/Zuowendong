@@ -1449,3 +1449,5 @@ Light lingers, reluctant to say goodbye. 光线流连着，不舍得说再见。
 Don't grow up today. Be a happy kid for one day. 今天不长大，做一天快乐的小孩。
 
 Sunlight pools where shadows used to live. 阳光在曾是阴影的地方积成了水洼。
+
+The pendulum sways, counting time's soft joints. 钟摆摇晃，数着时间柔软的骨节。
