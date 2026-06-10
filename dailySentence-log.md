@@ -1463,3 +1463,5 @@ You are stronger than you imagine. 你比自己想象的更强大。
 Go forth—the outcome will give you the answer. 去做吧，结果会给你答案。
 
 Memory sometimes short-circuits. 记忆有时会短路。
+
+Shadows are sketches made of light. 影子是光做的素描。
