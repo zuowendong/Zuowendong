@@ -1467,3 +1467,5 @@ Memory sometimes short-circuits. 记忆有时会短路。
 Shadows are sketches made of light. 影子是光做的素描。
 
 The door closed on the story just now. 门合上了刚才的故事。
+
+The scent of green lime cuts through the stifling air. 青柠的气味切开沉闷。
