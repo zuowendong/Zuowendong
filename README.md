@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is June 16, 2026, let's keep going! As the saying goes. Not seeking fleeting acclaim, But only that the echoes linger on.
+Today is June 17, 2026, let's keep going! As the saying goes. Dark clouds fringed with gold are where the light struggles through.
