@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is June 18, 2026, let's keep going! As the saying goes. One smile can warm another person's heart.
+Today is June 19, 2026, let's keep going! As the saying goes. Reed leaves wrap rice scent, and also a thousand years of longing.
