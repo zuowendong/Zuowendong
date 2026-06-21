@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is June 20, 2026, let's keep going! As the saying goes. Too many of us are not living our dreams because we are living our fears.
+Today is June 21, 2026, let's keep going! As the saying goes. Cicada songs fall from treetops, splashing heat waves on the ground.
