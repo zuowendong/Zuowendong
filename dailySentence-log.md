@@ -1489,3 +1489,5 @@ Too many of us are not living our dreams because we are living our fears. 我们
 Cicada songs fall from treetops, splashing heat waves on the ground. 蝉声从树梢落下，砸出一地热浪。
 
 The ocean's vastness lies in embracing countless ordinary rivers. 大海的宽广，在于接纳无数江河的平凡。
+
+You needn't be born radiant, but you can keep shining. 你不必天生闪耀，但可以持续发光。
