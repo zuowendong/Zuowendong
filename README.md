@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is June 23, 2026, let's keep going! As the saying goes. You needn't be born radiant, but you can keep shining.
+Today is June 24, 2026, let's keep going! As the saying goes. Silence grows in the forest.
