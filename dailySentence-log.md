@@ -1497,3 +1497,5 @@ Silence grows in the forest. 寂静在树林里生长。
 Dewdrops await the dawn upon blades of grass. 露珠在草叶上等待黎明。
 
 Longing is a letter without an address. 思念是没有地址的信。
+
+Great people do things before they are ready. 伟大的人在准备好前就行动。
