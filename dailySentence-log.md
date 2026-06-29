@@ -1501,3 +1501,5 @@ Longing is a letter without an address. 思念是没有地址的信。
 Great people do things before they are ready. 伟大的人在准备好前就行动。
 
 Screen light illuminates a face deep in focus. 屏幕的光照亮了专注的脸。
+
+The radio crackles with hoarse memories. 收音机发出沙哑的回忆。
