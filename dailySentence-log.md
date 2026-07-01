@@ -1505,3 +1505,5 @@ Screen light illuminates a face deep in focus. 屏幕的光照亮了专注的脸
 The radio crackles with hoarse memories. 收音机发出沙哑的回忆。
 
 Stamps are tickets to distant lands. 邮票是远方的门票。
+
+Focus on the present, not the past or future. 不念过往，不畏将来，专注当下。
