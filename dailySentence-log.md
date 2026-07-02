@@ -1507,3 +1507,5 @@ The radio crackles with hoarse memories. 收音机发出沙哑的回忆。
 Stamps are tickets to distant lands. 邮票是远方的门票。
 
 Focus on the present, not the past or future. 不念过往，不畏将来，专注当下。
+
+Every raindrop falls from the clouds above. 每一滴雨，都从云层里落下来。
