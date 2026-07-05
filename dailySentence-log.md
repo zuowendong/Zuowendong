@@ -1513,3 +1513,5 @@ Every raindrop falls from the clouds above. 每一滴雨，都从云层里落下
 Light bulbs are like fruits that light up the night. 灯泡像黑夜里结出的果实。
 
 Silence is the most perfect expression of scorn. 沉默是轻蔑最完美的表达。
+
+No matter how long the rain lasts, there will be a rainbow. 无论雨下多久，终见彩虹。
