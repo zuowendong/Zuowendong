@@ -1515,3 +1515,5 @@ Light bulbs are like fruits that light up the night. 灯泡像黑夜里结出的
 Silence is the most perfect expression of scorn. 沉默是轻蔑最完美的表达。
 
 No matter how long the rain lasts, there will be a rainbow. 无论雨下多久，终见彩虹。
+
+Life is a question and how we live it is our answer. 生活是一个问题，我们如何生活是我们的答案。

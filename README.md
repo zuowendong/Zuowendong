@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is July 5, 2026, let's keep going! As the saying goes. No matter how long the rain lasts, there will be a rainbow.
+Today is July 6, 2026, let's keep going! As the saying goes. Life is a question and how we live it is our answer.
