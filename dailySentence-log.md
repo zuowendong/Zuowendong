@@ -1521,3 +1521,5 @@ Life is a question and how we live it is our answer. 生活是一个问题，我
 Don’t burn bridges. A wide network provides support. 别自断后路，广阔人脉网提供前进资源。
 
 All advantages aren't in running quickly, but in getting a head start.​ 优势不在于跑得快，而在于起身早。
+
+Stay curious, and the world stays fresh. 保持好奇，世界永远新鲜。
