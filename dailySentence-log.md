@@ -1527,3 +1527,5 @@ Stay curious, and the world stays fresh. 保持好奇，世界永远新鲜。
 You are becoming the person you are meant to be. 你正在成为你该成为的人。
 
 You're someone's whole world. 一人即某人的全世界。
+
+The tallest tree was once a seed brave enough to sprout. 最高的树，也曾是一粒敢于发芽的种子。
