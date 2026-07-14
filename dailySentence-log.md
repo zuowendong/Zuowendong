@@ -1531,3 +1531,5 @@ You're someone's whole world. 一人即某人的全世界。
 The tallest tree was once a seed brave enough to sprout. 最高的树，也曾是一粒敢于发芽的种子。
 
 Patience is not just waiting. It makes us stronger. 耐心不是干等，而是在等待里变强。
+
+Living a meaningful life is a great achievement. 过有意义的生活，就是伟大的成就。

@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is July 13, 2026, let's keep going! As the saying goes. Patience is not just waiting. It makes us stronger.
+Today is July 14, 2026, let's keep going! As the saying goes. Living a meaningful life is a great achievement.
