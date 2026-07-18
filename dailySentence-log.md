@@ -1539,3 +1539,5 @@ Not too much, not too little — just enough. 不溢不缺，恰如其分。
 Listening is a silent embrace. 倾听，是沉默的拥抱。
 
 Trust is the gentle care we give each other. 信任，是彼此愿意给出的温柔。
+
+Custom makes all things easy. 习惯成自然。
