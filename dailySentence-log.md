@@ -1541,3 +1541,5 @@ Listening is a silent embrace. 倾听，是沉默的拥抱。
 Trust is the gentle care we give each other. 信任，是彼此愿意给出的温柔。
 
 Custom makes all things easy. 习惯成自然。
+
+Be grateful for now. The future is full of hope. 感恩此刻，未来还充满可能。
