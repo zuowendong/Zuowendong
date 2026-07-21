@@ -1545,3 +1545,5 @@ Custom makes all things easy. 习惯成自然。
 Be grateful for now. The future is full of hope. 感恩此刻，未来还充满可能。
 
 True strength is standing up again after we fall. 真正的强大，是跌倒后再站起来。
+
+Calm is the quiet deep place in a lake. 平静，像湖水最深处的安静。
