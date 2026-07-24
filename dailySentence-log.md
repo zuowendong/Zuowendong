@@ -1551,3 +1551,5 @@ Calm is the quiet deep place in a lake. 平静，像湖水最深处的安静。
 In conflict, the heart seems to speak with two voices. 矛盾时，心里像有两个声音在说话。
 
 Heat rolls in, but watermelon tastes just right. 热浪滚滚，但西瓜甜得正好。
+
+Friends by our side make the road feel shorter. 同行的人让路变短了。
