@@ -1553,3 +1553,5 @@ In conflict, the heart seems to speak with two voices. 矛盾时，心里像有�
 Heat rolls in, but watermelon tastes just right. 热浪滚滚，但西瓜甜得正好。
 
 Friends by our side make the road feel shorter. 同行的人让路变短了。
+
+Pains make stronger, tears make braver,and heartbreaks make wiser. 伤痛铸坚强，眼泪淬勇敢，心碎炼智慧。
