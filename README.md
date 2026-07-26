@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is July 25, 2026, let's keep going! As the saying goes. Pains make stronger, tears make braver,and heartbreaks make wiser.
+Today is July 26, 2026, let's keep going! As the saying goes. Your life is a gift to someone.
