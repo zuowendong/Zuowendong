@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is July 26, 2026, let's keep going! As the saying goes. Your life is a gift to someone.
+Today is July 27, 2026, let's keep going! As the saying goes. Kind words can gently hold a hurting heart.
