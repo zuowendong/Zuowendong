@@ -1561,3 +1561,5 @@ Your life is a gift to someone. 你的存在本身，就是某些人的礼物。
 Kind words can gently hold a hurting heart. 安慰的话，能轻轻扶住受伤的心。
 
 Habit is like a path that leads us forward. 习惯像一条路，引着我们往前走。
+
+Waiting turns time into something sweet. 等待把时间熬成了糖。
