@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is August 1, 2026, let's keep going! As the saying goes. Your silent march through storms writes peace upon our land.
+Today is August 2, 2026, let's keep going! As the saying goes. To be human is to hold sovereignty over one's fate.​

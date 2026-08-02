@@ -1569,3 +1569,5 @@ A chance meeting is candy from fate. 偶遇是命运送的糖果。
 At goodbye, even a full suitcase cannot hold all our cares. 离别时，行李箱再满，也装不下全部牵挂。
 
 Your silent march through storms writes peace upon our land. 你穿越风暴的无声行进，在大地写下和平。
+
+To be human is to hold sovereignty over one's fate.​ 为人之本，在于对命运的掌控。
