@@ -1571,3 +1571,5 @@ At goodbye, even a full suitcase cannot hold all our cares. 离别时，行李�
 Your silent march through storms writes peace upon our land. 你穿越风暴的无声行进，在大地写下和平。
 
 To be human is to hold sovereignty over one's fate.​ 为人之本，在于对命运的掌控。
+
+Keep your eyes on the stars and your feet on the ground. 仰望星空，脚踏实地。

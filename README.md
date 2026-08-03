@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is August 2, 2026, let's keep going! As the saying goes. To be human is to hold sovereignty over one's fate.​
+Today is August 3, 2026, let's keep going! As the saying goes. Keep your eyes on the stars and your feet on the ground.
