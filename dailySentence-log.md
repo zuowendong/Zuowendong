@@ -1575,3 +1575,5 @@ To be human is to hold sovereignty over one's fate.​ 为人之本，在于对�
 Keep your eyes on the stars and your feet on the ground. 仰望星空，脚踏实地。
 
 A lazy youth, a lousy age. 少壮不努力，老大徒伤悲。
+
+Nurture passes nature. 教养胜过天性。
