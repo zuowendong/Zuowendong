@@ -1579,3 +1579,5 @@ A lazy youth, a lousy age. 少壮不努力，老大徒伤悲。
 Nurture passes nature. 教养胜过天性。
 
 One swallow does not make a summer. 一燕不成夏（一花独放不是春）。
+
+Courage is not the absence of fear, but the will to guard what we cherish. 勇气非无畏，而是守护所爱的意志。
