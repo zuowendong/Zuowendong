@@ -1583,3 +1583,5 @@ One swallow does not make a summer. 一燕不成夏（一花独放不是春）�
 Courage is not the absence of fear, but the will to guard what we cherish. 勇气非无畏，而是守护所爱的意志。
 
 Poverty is stranger to industry. 勤劳之人不受穷。
+
+Even short goodbyes leave long shadows behind. 再短的告别，也会留下长长的影子。
