@@ -1587,3 +1587,5 @@ Poverty is stranger to industry. 勤劳之人不受穷。
 Even short goodbyes leave long shadows behind. 再短的告别，也会留下长长的影子。
 
 Love looks not with the eyes, but with the mind. 爱情不用眼睛看，而用心灵看。
+
+Morning light makes its way through half-drawn curtains. 晨光穿过半掩的窗帘，慢慢进来。
