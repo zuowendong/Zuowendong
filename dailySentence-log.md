@@ -1589,3 +1589,5 @@ Even short goodbyes leave long shadows behind. 再短的告别，也会留下长
 Love looks not with the eyes, but with the mind. 爱情不用眼睛看，而用心灵看。
 
 Morning light makes its way through half-drawn curtains. 晨光穿过半掩的窗帘，慢慢进来。
+
+Kindness costs little, yet it changes the whole room. 善意花费很少，却能改变整个房间。
