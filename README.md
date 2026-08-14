@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is August 13, 2026, let's keep going! As the saying goes. Warm tea on a quiet night softens a hard day.
+Today is August 14, 2026, let's keep going! As the saying goes. Let today be enough; tomorrow can wait a while.
