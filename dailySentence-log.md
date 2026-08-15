@@ -1595,3 +1595,5 @@ Kindness costs little, yet it changes the whole room. 善意花费很少，却�
 Warm tea on a quiet night softens a hard day. 安静夜里的热茶，能软化艰难的一天。
 
 Let today be enough; tomorrow can wait a while. 让今天就够了，明天可以再等等。
+
+Virtue never grows old. 美德常青。
