@@ -1601,3 +1601,5 @@ Virtue never grows old. 美德常青。
 Clouds drift low, and the city breathes more slowly. 云压得很低，城市也呼吸得更慢。
 
 A shared meal turns ordinary hours into memories. 一顿共享的饭，把平常时光变成回忆。
+
+Distance tests love, but it also teaches patience. 距离考验爱情，也教会人耐心。
