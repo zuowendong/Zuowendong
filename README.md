@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is August 19, 2026, let's keep going! As the saying goes. Across the river of stars, two hearts still meet.
+Today is August 20, 2026, let's keep going! As the saying goes. After meeting, parting arrives more gently than we fear.
