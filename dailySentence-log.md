@@ -1611,3 +1611,5 @@ After meeting, parting arrives more gently than we fear. 相逢之后，离别�
 Deep green still drinks the long summer light. 浓绿仍在畅饮悠长的夏日光。
 
 There is a crack in everything; that's how the light gets in. 万物皆有裂痕，那是光照进来的地方。
+
+The heat still reigns, yet evenings turn a little milder. 暑气仍盛，傍晚却稍稍温和了些。
