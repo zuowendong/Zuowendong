@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is August 23, 2026, let's keep going! As the saying goes. The heat still reigns, yet evenings turn a little milder.
+Today is August 24, 2026, let's keep going! As the saying goes. New habits grow best in the quiet of early days.
