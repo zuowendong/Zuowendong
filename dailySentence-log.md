@@ -1615,3 +1615,5 @@ There is a crack in everything; that's how the light gets in. 万物皆有裂痕
 The heat still reigns, yet evenings turn a little milder. 暑气仍盛，傍晚却稍稍温和了些。
 
 New habits grow best in the quiet of early days. 新习惯最适合在安静的早期生长。
+
+Listen closely: even wind can carry a gentle song. 仔细听：风也能带来轻柔的歌。
