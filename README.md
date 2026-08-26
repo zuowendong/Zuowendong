@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is August 25, 2026, let's keep going! As the saying goes. Listen closely: even wind can carry a gentle song.
+Today is August 26, 2026, let's keep going! As the saying goes. We leave pieces of ourselves in places we loved.
