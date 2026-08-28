@@ -1621,3 +1621,5 @@ Listen closely: even wind can carry a gentle song. 仔细听：风也能带来�
 We leave pieces of ourselves in places we loved. 我们把自己的碎片，留在爱过的地方。
 
 A late walk clears the mind better than long worry. 晚间散步，比漫长忧虑更能清空思绪。
+
+No man is an island. 没有人是一座孤岛。
