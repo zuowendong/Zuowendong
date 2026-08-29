@@ -1623,3 +1623,5 @@ We leave pieces of ourselves in places we loved. 我们把自己的碎片，留�
 A late walk clears the mind better than long worry. 晚间散步，比漫长忧虑更能清空思绪。
 
 No man is an island. 没有人是一座孤岛。
+
+Meet me where the magpies bridge the sky, just once a year yet forever. 鹊桥相会，一年一度，却是一生一世。
