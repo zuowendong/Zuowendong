@@ -1625,3 +1625,5 @@ A late walk clears the mind better than long worry. 晚间散步，比漫长忧�
 No man is an island. 没有人是一座孤岛。
 
 Meet me where the magpies bridge the sky, just once a year yet forever. 鹊桥相会，一年一度，却是一生一世。
+
+Pack lightly; carry only what still warms you. 轻装前行，只带走仍能温暖你的东西。
