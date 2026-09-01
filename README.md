@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is August 31, 2026, let's keep going! As the saying goes. August holds the sun a little longer for us.
+Today is September 1, 2026, let's keep going! As the saying goes. September opens with a sky both clear and wide.
