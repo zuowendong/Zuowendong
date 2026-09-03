@@ -1633,3 +1633,5 @@ August holds the sun a little longer for us. 八月为我们多留住了一会�
 September opens with a sky both clear and wide. 九月展开，天空又清又阔。
 
 Morning sun rests on the quiet street. 早晨的太阳，停在安静的街上。
+
+The woods are lovely, dark and deep. 树林可爱，又暗又深。
