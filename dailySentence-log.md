@@ -1645,3 +1645,5 @@ Evening light moves slowly across the floor. 晚间的光，慢慢挪过地板�
 White dew cools the green at break of day. 白露在破晓时，凉了满地的绿。
 
 I wandered lonely as a cloud. 我孤独地漫游，像一朵云。
+
+Books stay open when the heart stays curious. 心保持好奇，书就会一直打开。

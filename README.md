@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is September 8, 2026, let's keep going! As the saying goes. I wandered lonely as a cloud.
+Today is September 9, 2026, let's keep going! As the saying goes. Books stay open when the heart stays curious.
