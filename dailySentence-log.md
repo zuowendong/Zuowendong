@@ -1649,3 +1649,5 @@ I wandered lonely as a cloud. 我孤独地漫游，像一朵云。
 Books stay open when the heart stays curious. 心保持好奇，书就会一直打开。
 
 A good teacher plants questions that keep growing. 好老师种下的，是不断生长的问题。
+
+Curiosity makes ordinary work feel brand new. 好奇能让平常的工作，也焕然一新。
