@@ -1653,3 +1653,5 @@ A good teacher plants questions that keep growing. 好老师种下的，是不�
 Curiosity makes ordinary work feel brand new. 好奇能让平常的工作，也焕然一新。
 
 Shared laughter makes the long road feel easy. 一同笑过，长路也显得轻松。
+
+Old songs return when evening grows still. 夜静下来，旧歌就会回来。
