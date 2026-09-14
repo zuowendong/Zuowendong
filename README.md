@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is September 13, 2026, let's keep going! As the saying goes. Old songs return when evening grows still.
+Today is September 14, 2026, let's keep going! As the saying goes. Do what you love, and the hours grow light.

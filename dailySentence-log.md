@@ -1655,3 +1655,5 @@ Curiosity makes ordinary work feel brand new. 好奇能让平常的工作，也�
 Shared laughter makes the long road feel easy. 一同笑过，长路也显得轻松。
 
 Old songs return when evening grows still. 夜静下来，旧歌就会回来。
+
+Do what you love, and the hours grow light. 做你热爱的事，时光也会变轻。
