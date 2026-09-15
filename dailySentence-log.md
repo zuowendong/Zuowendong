@@ -1657,3 +1657,5 @@ Shared laughter makes the long road feel easy. 一同笑过，长路也显得轻
 Old songs return when evening grows still. 夜静下来，旧歌就会回来。
 
 Do what you love, and the hours grow light. 做你热爱的事，时光也会变轻。
+
+A kind word can turn a hard hour around. 一句善意的话，能让难熬的一小时好转。
