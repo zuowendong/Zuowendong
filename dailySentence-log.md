@@ -1661,3 +1661,5 @@ Do what you love, and the hours grow light. 做你热爱的事，时光也会变
 A kind word can turn a hard hour around. 一句善意的话，能让难熬的一小时好转。
 
 Tread softly because you tread on my dreams. 轻轻走，因为你踏着我的梦。
+
+Warm bread on the table feels like home. 桌上的热面包，闻起来像家。
