@@ -1667,3 +1667,5 @@ Warm bread on the table feels like home. 桌上的热面包，闻起来像家。
 We speak much less, yet we understand much more. 我们说得更少，却懂得更多。
 
 Small thanks make big joy.   小小的感恩，带来大大的快乐。  
+
+Rain on the window makes the room feel safe. 雨打在窗上，房间也显得安稳。
