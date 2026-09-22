@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is September 21, 2026, let's keep going! As the saying goes. Brevity is the soul of wit.
+Today is September 22, 2026, let's keep going! As the saying goes. Balance lives between the rush and the rest.

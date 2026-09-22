@@ -1671,3 +1671,5 @@ Small thanks make big joy.   小小的感恩，带来大大的快乐。
 Rain on the window makes the room feel safe. 雨打在窗上，房间也显得安稳。
 
 Brevity is the soul of wit. 简洁是智慧的灵魂。
+
+Balance lives between the rush and the rest. 平衡，住在忙碌与休息之间。
