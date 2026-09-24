@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is September 23, 2026, let's keep going! As the saying goes. Day and night stand equal, calm and clear.
+Today is September 24, 2026, let's keep going! As the saying goes. Write one short letter to someone you miss.
