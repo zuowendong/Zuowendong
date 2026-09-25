@@ -1677,3 +1677,5 @@ Balance lives between the rush and the rest. 平衡，住在忙碌与休息之�
 Day and night stand equal, calm and clear. 昼夜等长，平静而清澈。
 
 Write one short letter to someone you miss. 给想念的人，写一封短短的信。
+
+The full moon brings distant hearts back home. 圆月把远方的心，带回家里。
