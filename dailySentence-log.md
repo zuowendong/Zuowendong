@@ -1681,3 +1681,5 @@ Write one short letter to someone you miss. 给想念的人，写一封短短的
 The full moon brings distant hearts back home. 圆月把远方的心，带回家里。
 
 Seeds grow in quiet soil.   种子在寂静的泥土里生长。  
+
+Small habits, done daily, quietly change a year. 每天做的小习惯，会悄悄改变一年。
