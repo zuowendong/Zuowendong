@@ -1685,3 +1685,5 @@ Seeds grow in quiet soil.   种子在寂静的泥土里生长。
 Small habits, done daily, quietly change a year. 每天做的小习惯，会悄悄改变一年。
 
 The world is too much with us. 这世界与我们纠缠得太深。
+
+Keep one true task close to your hands. 把一件真正要做的事，留在手边。
