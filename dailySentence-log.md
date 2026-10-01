@@ -1689,3 +1689,5 @@ The world is too much with us. 这世界与我们纠缠得太深。
 Keep one true task close to your hands. 把一件真正要做的事，留在手边。
 
 We close the month with thanks, not haste. 我们用感谢，而不是匆忙，结束这个月。
+
+Red flags wave, hearts unite.  红旗飘扬，万众一心。
