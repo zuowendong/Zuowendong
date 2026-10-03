@@ -1693,3 +1693,5 @@ We close the month with thanks, not haste. 我们用感谢，而不是匆忙，�
 Red flags wave, hearts unite.  红旗飘扬，万众一心。
 
 Firmly hold mission in mind. 我们牢记使命。
+
+The moon leans on my windowsill tonight. 今晚，月亮倚在我的窗台上。
