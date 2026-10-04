@@ -1695,3 +1695,5 @@ Red flags wave, hearts unite.  红旗飘扬，万众一心。
 Firmly hold mission in mind. 我们牢记使命。
 
 The moon leans on my windowsill tonight. 今晚，月亮倚在我的窗台上。
+
+Every creature carries its own small light. 每个生灵，都带着自己的微光。

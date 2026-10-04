@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is October 3, 2026, let's keep going! As the saying goes. The moon leans on my windowsill tonight.
+Today is October 4, 2026, let's keep going! As the saying goes. Every creature carries its own small light.
