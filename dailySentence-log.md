@@ -1699,3 +1699,5 @@ The moon leans on my windowsill tonight. 今晚，月亮倚在我的窗台上。
 Every creature carries its own small light. 每个生灵，都带着自己的微光。
 
 Slow mornings make the whole day feel longer. 不慌不忙的清晨，让一整天都变得悠长。
+
+Leaves let go, and the trees stand taller. 叶子放手了，树却站得更挺拔。
