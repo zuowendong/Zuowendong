@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is October 7, 2026, let's keep going! As the saying goes. Wherever you go, your courage goes with you.
+Today is October 8, 2026, let's keep going! As the saying goes. Cold dew wets the grass, and autumn deepens its voice.
