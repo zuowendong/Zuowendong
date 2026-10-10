@@ -1707,3 +1707,5 @@ Wherever you go, your courage goes with you. 无论去哪里，勇气都与你�
 Cold dew wets the grass, and autumn deepens its voice. 寒露打湿了草，秋天深沉了嗓音。
 
 A good book is a door you can open anywhere. 好书是一扇随处可开的门。
+
+Rivers never argue with the stones; they simply move on. 江河不与石头争辩，只管向前流淌。
