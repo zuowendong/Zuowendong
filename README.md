@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is October 11, 2026, let's keep going! As the saying goes. The best memories are made around a full table.
+Today is October 12, 2026, let's keep going! As the saying goes. Small steps, taken daily, become a long road traveled.

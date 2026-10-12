@@ -1711,3 +1711,5 @@ A good book is a door you can open anywhere. 好书是一扇随处可开的门�
 Rivers never argue with the stones; they simply move on. 江河不与石头争辩，只管向前流淌。
 
 The best memories are made around a full table. 最好的回忆，总在满满的餐桌旁。
+
+Small steps, taken daily, become a long road traveled. 每天一小步，走过就是长路。
