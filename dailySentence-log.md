@@ -1717,3 +1717,5 @@ Small steps, taken daily, become a long road traveled. 每天一小步，走过�
 Your kindness may be someone's whole sunshine today. 你的善意，也许正是别人今天全部的阳光。
 
 Mist rolls over the hills like a slow song. 雾漫过山丘，像一首舒缓的歌。
+
+Choose the harder right instead of the easier wrong. 选择更难的正确，而非更容易的错误。

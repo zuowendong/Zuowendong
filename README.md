@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is October 14, 2026, let's keep going! As the saying goes. Mist rolls over the hills like a slow song.
+Today is October 15, 2026, let's keep going! As the saying goes. Choose the harder right instead of the easier wrong.
