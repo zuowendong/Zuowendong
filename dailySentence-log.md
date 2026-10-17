@@ -1721,3 +1721,5 @@ Mist rolls over the hills like a slow song. 雾漫过山丘，像一首舒缓的
 Choose the harder right instead of the easier wrong. 选择更难的正确，而非更容易的错误。
 
 Bread tastes better when it is shared. 一起分享的面包，格外香甜。
+
+Stars are the night's way of saying keep going. 星星是夜空在说：请继续前行。
