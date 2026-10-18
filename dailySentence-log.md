@@ -1723,3 +1723,5 @@ Choose the harder right instead of the easier wrong. 选择更难的正确，而
 Bread tastes better when it is shared. 一起分享的面包，格外香甜。
 
 Stars are the night's way of saying keep going. 星星是夜空在说：请继续前行。
+
+Climb high today, and think of those who wait at home. 今日登高处，也念家中人。
