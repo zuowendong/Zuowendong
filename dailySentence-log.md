@@ -1727,3 +1727,5 @@ Stars are the night's way of saying keep going. 星星是夜空在说：请继�
 Climb high today, and think of those who wait at home. 今日登高处，也念家中人。
 
 A candle loses nothing by lighting another candle. 蜡烛点亮另一支，自己并不损失什么。
+
+The wind reads every leaf before it falls. 风在每片叶子落下前，都读过它。
