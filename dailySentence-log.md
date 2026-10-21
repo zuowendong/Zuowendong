@@ -1729,3 +1729,5 @@ Climb high today, and think of those who wait at home. 今日登高处，也念�
 A candle loses nothing by lighting another candle. 蜡烛点亮另一支，自己并不损失什么。
 
 The wind reads every leaf before it falls. 风在每片叶子落下前，都读过它。
+
+Say thank you to the small things today. 今天，对身边的小事说声谢谢。

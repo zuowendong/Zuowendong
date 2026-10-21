@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is October 20, 2026, let's keep going! As the saying goes. The wind reads every leaf before it falls.
+Today is October 21, 2026, let's keep going! As the saying goes. Say thank you to the small things today.
