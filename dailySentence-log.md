@@ -1731,3 +1731,5 @@ A candle loses nothing by lighting another candle. 蜡烛点亮另一支，自�
 The wind reads every leaf before it falls. 风在每片叶子落下前，都读过它。
 
 Say thank you to the small things today. 今天，对身边的小事说声谢谢。
+
+Rain on the roof is the sky's lullaby. 雨打屋檐，是天空的摇篮曲。
