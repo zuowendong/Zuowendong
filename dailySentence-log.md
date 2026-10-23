@@ -1733,3 +1733,5 @@ The wind reads every leaf before it falls. 风在每片叶子落下前，都读�
 Say thank you to the small things today. 今天，对身边的小事说声谢谢。
 
 Rain on the roof is the sky's lullaby. 雨打屋檐，是天空的摇篮曲。
+
+Frost is coming, yet the persimmons hang like lanterns. 霜要来了，柿子却像灯笼一样挂着。
