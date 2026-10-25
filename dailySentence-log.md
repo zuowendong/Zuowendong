@@ -1737,3 +1737,5 @@ Rain on the roof is the sky's lullaby. 雨打屋檐，是天空的摇篮曲。
 Frost is coming, yet the persimmons hang like lanterns. 霜要来了，柿子却像灯笼一样挂着。
 
 Grow through what you go through.  穿越困境，得以成长。
+
+Patience is bitter, but its fruit is sweet. 忍耐是苦涩的，但它的果实是甜的。
