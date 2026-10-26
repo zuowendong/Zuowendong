@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is October 25, 2026, let's keep going! As the saying goes. Patience is bitter, but its fruit is sweet.
+Today is October 26, 2026, let's keep going! As the saying goes. Old streets hold the warmest stories.
