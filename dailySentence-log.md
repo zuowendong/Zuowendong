@@ -1741,3 +1741,5 @@ Grow through what you go through.  穿越困境，得以成长。
 Patience is bitter, but its fruit is sweet. 忍耐是苦涩的，但它的果实是甜的。
 
 Old streets hold the warmest stories. 老街藏着最暖的故事。
+
+You are allowed to be both strong and tired. 你可以同时坚强，也可以疲惫。
