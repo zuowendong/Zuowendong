@@ -1,10 +1,12 @@
 const superagent = require("superagent");
 
 export async function dailySentence() {
-  const { text } = await superagent.get("https://open.iciba.com/dsapi/");
+  const { text } = await superagent.get(
+    "https://apiv3.shanbay.com/weapps/dailyquote/quote"
+  );
   const data = JSON.parse(text);
   return {
-    zh: data.note,
+    zh: data.translation,
     en: data.content,
   };
 }
