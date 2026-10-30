@@ -3,32 +3,31 @@ name: autocommit-robot
 on:
   schedule:
     - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   bots:
     runs-on: ubuntu-latest
     steps:
       - name: "Checkout code"
-        uses: actions/checkout@v1
+        uses: actions/checkout@v4
 
       - name: "Set node"
-        uses: actions/setup-node@v1
+        uses: actions/setup-node@v4
         with:
-          node-version: 16.x
+          node-version: 20
 
       - name: "Install"
-        run: npm install
+        run: npm ci
 
-      - name: "Run bash"
+      - name: "Run"
         run: npm run dev
 
       - name: "Commit"
-        uses: EndBug/add-and-commit@v4
+        uses: EndBug/add-and-commit@v9
         with:
           author_name: wendZzoo
           author_email: 19844544551@163.com
           message: "chore: update readme by ci"
           add: "*"
-
-        env:
-          GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+          github_token: ${{ secrets.ACCESS_TOKEN }}

@@ -1,11 +1,6 @@
-const fs = require("fs");
+import { appendFile } from "node:fs/promises";
 
-export function recordDailySentence(filePath: string, content: string) {
-  fs.appendFile(filePath, `\n${content}\n`, (err) => {
-    if (err) {
-      console.error(`append file to ${filePath}:`, err);
-      return;
-    }
-    console.log("append file successfully");
-  });
+export async function recordDailySentence(filePath: string, content: string) {
+  await appendFile(filePath, `\n${content}\n`);
+  console.log("append file successfully");
 }

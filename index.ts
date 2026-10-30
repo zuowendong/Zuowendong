@@ -1,13 +1,16 @@
-const { getTime } = require("./src/time");
-const { dailySentence } = require("./src/dailySentence");
-const { overwriteLastContent } = require("./src/overwrite");
-const { recordDailySentence } = require("./src/sentenceLog");
+import { getTime } from "./src/time.js";
+import { dailySentence } from "./src/dailySentence.js";
+import { overwriteLastContent } from "./src/overwrite.js";
+import { recordDailySentence } from "./src/sentenceLog.js";
 
-(async function () {
+try {
   const { zh, en } = await dailySentence();
   const sentence = en ? `As the saying goes. ${en}` : "";
   const lastContent = `Today is ${getTime()}, let's keep going! ${sentence}`;
 
-  overwriteLastContent("./README.md", lastContent);
-  recordDailySentence("./dailySentence-log.md", `${en} ${zh}`);
-})();
+  await overwriteLastContent("./README.md", lastContent);
+  await recordDailySentence("./dailySentence-log.md", `${en} ${zh}`);
+} catch (err) {
+  console.error("update failed:", err);
+  process.exit(1);
+}

@@ -1,19 +1,9 @@
-const fs = require("fs");
+import { readFile, writeFile } from "node:fs/promises";
 
-export function overwriteLastContent(filePath: string, content: string) {
-  fs.readFile(filePath, "utf8", (err: any, data: string) => {
-    if (err) {
-      console.error("Error reading file:", err);
-    } else {
-      const lines = data.split("\n");
-      lines[lines.length - 1] = content;
-      fs.writeFile(filePath, lines.join("\n"), (err: any) => {
-        if (err) {
-          console.error("Error overwriting file content:", err);
-        } else {
-          console.log("Last content overwritten successfully.");
-        }
-      });
-    }
-  });
+export async function overwriteLastContent(filePath: string, content: string) {
+  const data = await readFile(filePath, "utf8");
+  const lines = data.split("\n");
+  lines[lines.length - 1] = content;
+  await writeFile(filePath, lines.join("\n"));
+  console.log("Last content overwritten successfully.");
 }
