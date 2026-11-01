@@ -1747,3 +1747,5 @@ You are allowed to be both strong and tired. 你可以同时坚强，也可以�
 Failure after long perseverance is much grander than never to have a striving good enough to be called a failure. 相比未有过可称之为失败的努力，坚持不懈之后的失败要伟大得多。
 
 A plant does not bear fruit without its stem. 没有茎干，植物就无法结果。
+
+Always remember that you are absolutely unique. Just like everyone else. 永远记住你是独一无二的，就像其他人一样。
