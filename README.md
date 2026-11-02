@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is November 1, 2026, let's keep going! As the saying goes. Always remember that you are absolutely unique. Just like everyone else.
+Today is November 2, 2026, let's keep going! As the saying goes. The only way to have a friend is to be one.
