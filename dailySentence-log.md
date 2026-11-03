@@ -1751,3 +1751,5 @@ A plant does not bear fruit without its stem. 没有茎干，植物就无法结�
 Always remember that you are absolutely unique. Just like everyone else. 永远记住你是独一无二的，就像其他人一样。
 
 The only way to have a friend is to be one. 获得朋友的唯一方法是成为别人的朋友。
+
+The best love is the kind that awakens the soul and makes us reach for more. 最好的爱，唤醒我们的灵魂，让我们更有追求。
