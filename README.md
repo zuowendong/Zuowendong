@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is November 3, 2026, let's keep going! As the saying goes. The best love is the kind that awakens the soul and makes us reach for more.
+Today is November 4, 2026, let's keep going! As the saying goes. Life is the sum of all your choices.

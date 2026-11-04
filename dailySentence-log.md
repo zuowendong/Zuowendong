@@ -1753,3 +1753,5 @@ Always remember that you are absolutely unique. Just like everyone else. 永远�
 The only way to have a friend is to be one. 获得朋友的唯一方法是成为别人的朋友。
 
 The best love is the kind that awakens the soul and makes us reach for more. 最好的爱，唤醒我们的灵魂，让我们更有追求。
+
+Life is the sum of all your choices. 你做的所有抉择造就了你的人生。
