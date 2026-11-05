@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is November 4, 2026, let's keep going! As the saying goes. Life is the sum of all your choices.
+Today is November 5, 2026, let's keep going! As the saying goes. Where there is ruin, there is hope for a treasure.
