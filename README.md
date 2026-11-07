@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is November 6, 2026, let's keep going! As the saying goes. The power of imagination makes us infinite.
+Today is November 7, 2026, let's keep going! As the saying goes. Don't let the noise of others' opinions drown out your own inner voice.

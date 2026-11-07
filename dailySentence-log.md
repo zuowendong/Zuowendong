@@ -1759,3 +1759,5 @@ Life is the sum of all your choices. 你做的所有抉择造就了你的人生�
 Where there is ruin, there is hope for a treasure. 凡是有废墟的地方，就有可能藏着宝藏。
 
 The power of imagination makes us infinite. 想象力让我们突破极限。
+
+Don't let the noise of others' opinions drown out your own inner voice. 不要让他人意见的杂音淹没了自己的心声。
