@@ -1761,3 +1761,5 @@ Where there is ruin, there is hope for a treasure. 凡是有废墟的地方，�
 The power of imagination makes us infinite. 想象力让我们突破极限。
 
 Don't let the noise of others' opinions drown out your own inner voice. 不要让他人意见的杂音淹没了自己的心声。
+
+Action may not always bring happiness; but there is no happiness without action. 行动不一定能带来快乐，但不行动一定不能。
