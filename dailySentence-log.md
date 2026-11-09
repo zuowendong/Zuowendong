@@ -1763,3 +1763,5 @@ The power of imagination makes us infinite. 想象力让我们突破极限。
 Don't let the noise of others' opinions drown out your own inner voice. 不要让他人意见的杂音淹没了自己的心声。
 
 Action may not always bring happiness; but there is no happiness without action. 行动不一定能带来快乐，但不行动一定不能。
+
+There are no secrets to success. It is the result of preparation, hard work, and learning from failure. 成功没有诀窍。成功是筹备，苦干以及在失败中汲取教训的结果。
