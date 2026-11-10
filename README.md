@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is November 9, 2026, let's keep going! As the saying goes. There are no secrets to success. It is the result of preparation, hard work, and learning from failure.
+Today is November 10, 2026, let's keep going! As the saying goes. You can't help getting older, but you don't have to get old.

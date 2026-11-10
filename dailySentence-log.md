@@ -1765,3 +1765,5 @@ Don't let the noise of others' opinions drown out your own inner voice. 不要�
 Action may not always bring happiness; but there is no happiness without action. 行动不一定能带来快乐，但不行动一定不能。
 
 There are no secrets to success. It is the result of preparation, hard work, and learning from failure. 成功没有诀窍。成功是筹备，苦干以及在失败中汲取教训的结果。
+
+You can't help getting older, but you don't have to get old. 你无法阻止衰老，但你不一定要变老。
