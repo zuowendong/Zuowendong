@@ -1767,3 +1767,5 @@ Action may not always bring happiness; but there is no happiness without action.
 There are no secrets to success. It is the result of preparation, hard work, and learning from failure. 成功没有诀窍。成功是筹备，苦干以及在失败中汲取教训的结果。
 
 You can't help getting older, but you don't have to get old. 你无法阻止衰老，但你不一定要变老。
+
+I walk slowly, but I never walk backward. 我走得慢，但从不后退。
