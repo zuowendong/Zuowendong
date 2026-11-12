@@ -1769,3 +1769,5 @@ There are no secrets to success. It is the result of preparation, hard work, and
 You can't help getting older, but you don't have to get old. 你无法阻止衰老，但你不一定要变老。
 
 I walk slowly, but I never walk backward. 我走得慢，但从不后退。
+
+There is no chance, no destiny, no fate, that can hinder or control the firm resolve of a determined soul. 对于下定决心的人来说，任何机遇、命数或运气都无法阻挠、控制其意志。

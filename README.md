@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is November 11, 2026, let's keep going! As the saying goes. I walk slowly, but I never walk backward.
+Today is November 12, 2026, let's keep going! As the saying goes. There is no chance, no destiny, no fate, that can hinder or control the firm resolve of a determined soul.
