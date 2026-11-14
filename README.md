@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is November 13, 2026, let's keep going! As the saying goes. Vitality shows in not only the ability to persist but the ability to start over.
+Today is November 14, 2026, let's keep going! As the saying goes. The difference between stupidity and genius is that genius has its limits.

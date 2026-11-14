@@ -1773,3 +1773,5 @@ I walk slowly, but I never walk backward. 我走得慢，但从不后退。
 There is no chance, no destiny, no fate, that can hinder or control the firm resolve of a determined soul. 对于下定决心的人来说，任何机遇、命数或运气都无法阻挠、控制其意志。
 
 Vitality shows in not only the ability to persist but the ability to start over. 顽强的生命力不仅仅体现在坚持的力量，还有重新来过的能力。
+
+The difference between stupidity and genius is that genius has its limits. 愚蠢和天赋的区别在于，天赋是有极限的。
