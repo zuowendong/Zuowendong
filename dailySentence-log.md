@@ -1775,3 +1775,5 @@ There is no chance, no destiny, no fate, that can hinder or control the firm res
 Vitality shows in not only the ability to persist but the ability to start over. 顽强的生命力不仅仅体现在坚持的力量，还有重新来过的能力。
 
 The difference between stupidity and genius is that genius has its limits. 愚蠢和天赋的区别在于，天赋是有极限的。
+
+Knowledge is of no value unless you put it into practice. 只有付诸实践，知识才有价值。
