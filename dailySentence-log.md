@@ -1777,3 +1777,5 @@ Vitality shows in not only the ability to persist but the ability to start over.
 The difference between stupidity and genius is that genius has its limits. 愚蠢和天赋的区别在于，天赋是有极限的。
 
 Knowledge is of no value unless you put it into practice. 只有付诸实践，知识才有价值。
+
+How we spend our days is, of course, how we spend our lives. 我们如何度过每一天，当然也就会如何度过一生。
