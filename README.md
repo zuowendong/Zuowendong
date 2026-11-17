@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is November 16, 2026, let's keep going! As the saying goes. How we spend our days is, of course, how we spend our lives.
+Today is November 17, 2026, let's keep going! As the saying goes. The most alluring thing a woman can have is confidence.

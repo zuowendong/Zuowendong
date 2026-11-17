@@ -1779,3 +1779,5 @@ The difference between stupidity and genius is that genius has its limits. 愚�
 Knowledge is of no value unless you put it into practice. 只有付诸实践，知识才有价值。
 
 How we spend our days is, of course, how we spend our lives. 我们如何度过每一天，当然也就会如何度过一生。
+
+The most alluring thing a woman can have is confidence. 女性的最迷人之处，就是拥有自信。
