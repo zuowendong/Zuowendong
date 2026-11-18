@@ -1781,3 +1781,5 @@ Knowledge is of no value unless you put it into practice. 只有付诸实践，�
 How we spend our days is, of course, how we spend our lives. 我们如何度过每一天，当然也就会如何度过一生。
 
 The most alluring thing a woman can have is confidence. 女性的最迷人之处，就是拥有自信。
+
+Difficulties increase the nearer we get to the goal. 我们越接近目标，就会遇到越多困难。
