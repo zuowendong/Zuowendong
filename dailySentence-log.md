@@ -1783,3 +1783,5 @@ How we spend our days is, of course, how we spend our lives. 我们如何度过�
 The most alluring thing a woman can have is confidence. 女性的最迷人之处，就是拥有自信。
 
 Difficulties increase the nearer we get to the goal. 我们越接近目标，就会遇到越多困难。
+
+It has been my observation that most people get ahead during the time that others waste. 据我观察，大多数人都是在他人浪费光阴时，实现赶超领先的。

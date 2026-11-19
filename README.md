@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is November 18, 2026, let's keep going! As the saying goes. Difficulties increase the nearer we get to the goal.
+Today is November 19, 2026, let's keep going! As the saying goes. It has been my observation that most people get ahead during the time that others waste.
