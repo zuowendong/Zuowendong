@@ -1787,3 +1787,5 @@ Difficulties increase the nearer we get to the goal. 我们越接近目标，就
 It has been my observation that most people get ahead during the time that others waste. 据我观察，大多数人都是在他人浪费光阴时，实现赶超领先的。
 
 Happiness often sneaks in through a door you didn't know you left open. 幸福，往往从你不经意间打开的门中不期而至。
+
+Knowledge has to be improved, challenged, and increased constantly, or it vanishes. 知识需要不断被改进、挑战和积累，否则将不复存在。
