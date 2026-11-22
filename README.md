@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is November 21, 2026, let's keep going! As the saying goes. Knowledge has to be improved, challenged, and increased constantly, or it vanishes.
+Today is November 22, 2026, let's keep going! As the saying goes. He who has a why to live can bear almost any how.

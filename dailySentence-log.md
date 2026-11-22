@@ -1789,3 +1789,5 @@ It has been my observation that most people get ahead during the time that other
 Happiness often sneaks in through a door you didn't know you left open. 幸福，往往从你不经意间打开的门中不期而至。
 
 Knowledge has to be improved, challenged, and increased constantly, or it vanishes. 知识需要不断被改进、挑战和积累，否则将不复存在。
+
+He who has a why to live can bear almost any how. 知生命之意者，可承生命之重。
