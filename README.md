@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is November 23, 2026, let's keep going! As the saying goes. I didn't set out to beat the world; I just set out to do my absolute best.
+Today is November 24, 2026, let's keep going! As the saying goes. Great achievement is usually born of great sacrifice, and is never the result of selfishness.
