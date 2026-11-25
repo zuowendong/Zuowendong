@@ -1795,3 +1795,5 @@ He who has a why to live can bear almost any how. 知生命之意者，可承生
 I didn't set out to beat the world; I just set out to do my absolute best. 我并没有打算打败世界，我只是全力以赴。
 
 Great achievement is usually born of great sacrifice, and is never the result of selfishness. 伟大的成就大多来自于伟大的牺牲，决不是来自于自私自利。
+
+Guard well your thoughts when alone and your words when accompanied. 独处守住心，群处守住嘴。
