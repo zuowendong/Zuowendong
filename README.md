@@ -10,4 +10,4 @@ A Front-End Developer
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuowendong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-Today is November 25, 2026, let's keep going! As the saying goes. Guard well your thoughts when alone and your words when accompanied.
+Today is November 26, 2026, let's keep going! As the saying goes. I call architecture frozen music.
