@@ -1799,3 +1799,5 @@ Great achievement is usually born of great sacrifice, and is never the result of
 Guard well your thoughts when alone and your words when accompanied. 独处守住心，群处守住嘴。
 
 I call architecture frozen music. 我称建筑为凝结的音乐。
+
+You were born with wings. Why prefer to crawl through life? 你生而有翼，为何竟愿一生匍匐前行？
