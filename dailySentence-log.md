@@ -1801,3 +1801,5 @@ Guard well your thoughts when alone and your words when accompanied. 独处守�
 I call architecture frozen music. 我称建筑为凝结的音乐。
 
 You were born with wings. Why prefer to crawl through life? 你生而有翼，为何竟愿一生匍匐前行？
+
+There are no easy answers; there's only living through the questions. 生活没有容易的答案，只有去克服重重问题。
